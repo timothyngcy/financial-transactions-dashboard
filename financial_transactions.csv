@@ -1,0 +1,1201 @@
+transaction_id,date,amount,category,merchant,payment_method,account_type,transaction_type,description
+T-1043,2024-08-26 14:40:08.881401,183.42,Utilities,Water Works,Bank Transfer,Savings,Deposit,Defense late little he truth contain hear share.
+T-1073,2024-08-26 14:40:08.881401,125.45,Groceries,Whole Foods,Debit Card,Savings,Payment,Certainly turn growth cell heavy live.
+T-501,2024-08-26 14:40:08.881401,83.94,Travel,Uber,Mobile Payment,Investment,Payment,Physical audience include majority natural.
+T-86,2024-08-26 14:40:08.881401,78.53,Shopping,Mall Store,Credit Card,Checking,Payment,Amount institution your firm.
+T-1004,2024-08-26 14:40:08.881401,59.15,Groceries,Costco,Bank Transfer,Checking,Transfer,Type brother concern win whatever.
+T-87,2024-08-26 14:40:08.881401,240.71,Shopping,Best Buy,Mobile Payment,Checking,Payment,Should big since field cover all.
+T-443,2024-08-26 14:40:08.881401,8.41,Entertainment,AMC Theatres,Mobile Payment,Checking,Withdrawal,Maybe set fine everybody research act.
+R-1,2024-08-27 14:40:08.881401,1406.84,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-654,2024-08-27 14:40:08.881401,1509.55,Rent/Mortgage,Mortgage Bank,Debit Card,Savings,Payment,Analysis summer foreign data.
+T-622,2024-08-27 14:40:08.881401,177.17,Travel,Hilton,Cash,Checking,Withdrawal,Star since rest free.
+T-89,2024-08-27 14:40:08.881401,107.64,Shopping,Amazon,Cash,Checking,Deposit,Left walk miss development on minute kind.
+T-504,2024-08-28 14:40:08.881401,13.98,Entertainment,Spotify,Credit Card,Investment,Withdrawal,Wind difficult capital report performance Mr machine determine.
+T-310,2024-08-28 14:40:08.881401,58.22,Travel,Airbnb,Cash,Checking,Deposit,Pressure early success miss.
+T-1037,2024-08-28 14:40:08.881401,1797.55,Rent/Mortgage,Landlord,Cash,Investment,Withdrawal,Care teach second police local environmental.
+S-Amazon Prime-1,2024-08-28 14:40:08.881401,22.72,Subscriptions,Amazon Prime,Cash,Checking,Payment,Monthly subscription: Amazon Prime
+S-Netflix-1,2024-08-29 14:40:08.881401,1.46,Subscriptions,Netflix,Cash,Checking,Payment,Monthly subscription: Netflix
+T-794,2024-08-29 14:40:08.881401,99.17,Utilities,Water Works,Mobile Payment,Investment,Payment,Shake amount foot wide public be without.
+T-331,2024-08-29 14:40:08.881401,5.0,Shopping,Mall Store,Debit Card,Investment,Deposit,Subject Mrs establish indeed.
+T-886,2024-08-29 14:40:08.881401,36.83,Healthcare,Dental Care,Cash,Investment,Payment,Region issue maybe attack provide.
+T-12,2024-08-29 14:40:08.881401,52.88,Groceries,Walmart,Mobile Payment,Savings,Withdrawal,Power seem live list far can first.
+T-1071,2024-08-30 14:40:08.881401,17.49,Dining,Starbucks,Credit Card,Checking,Payment,Whole partner total tree economy democratic.
+T-1015,2024-08-30 14:40:08.881401,158.59,Healthcare,Clinic,Credit Card,Checking,Transfer,Believe ever set fish gas.
+T-589,2024-08-30 14:40:08.881401,29.63,Entertainment,Spotify,Mobile Payment,Checking,Payment,White drive fight pretty approach.
+T-937,2024-08-30 14:40:08.881401,115.97,Shopping,Target,Bank Transfer,Investment,Transfer,Mission voice easy skin.
+S-Gym Membership-1,2024-08-30 14:40:08.881401,14.25,Subscriptions,Gym Membership,Bank Transfer,Checking,Payment,Monthly subscription: Gym Membership
+T-432,2024-08-30 14:40:08.881401,10.4,Entertainment,Concert Hall,Credit Card,Checking,Transfer,Bar board authority work.
+T-195,2024-08-30 14:40:08.881401,85.47,Shopping,Target,Mobile Payment,Savings,Transfer,Task fight after.
+T-318,2024-08-31 14:40:08.881401,1728.89,Rent/Mortgage,Landlord,Credit Card,Checking,Withdrawal,Good common performance feel teacher.
+T-674,2024-09-01 14:40:08.881401,15.44,Subscriptions,Amazon Prime,Mobile Payment,Investment,Transfer,Center message oil structure group plan man star.
+T-662,2024-09-01 14:40:08.881401,133.69,Shopping,Best Buy,Cash,Investment,Payment,Building generation that green need society.
+T-238,2024-09-01 14:40:08.881401,191.85,Shopping,Target,Mobile Payment,Savings,Withdrawal,Ground family threat which.
+T-1074,2024-09-02 14:40:08.881401,37.82,Healthcare,Clinic,Mobile Payment,Checking,Deposit,Rule we actually manage.
+T-701,2024-09-02 14:40:08.881401,1319.59,Rent/Mortgage,Mortgage Bank,Mobile Payment,Investment,Withdrawal,Computer media able reality deep song plant.
+T-685,2024-09-03 14:40:08.881401,5.0,Entertainment,Concert Hall,Mobile Payment,Investment,Withdrawal,None couple American far.
+T-500,2024-09-04 14:40:08.881401,146.21,Shopping,Target,Mobile Payment,Checking,Payment,Nice blue upon president sure have cold.
+T-757,2024-09-04 14:40:08.881401,127.69,Utilities,Water Works,Bank Transfer,Savings,Withdrawal,Remember sell gun might investment nation thank pick.
+T-335,2024-09-05 14:40:08.881401,105.61,Groceries,Whole Foods,Bank Transfer,Investment,Deposit,Situation actually suddenly wonder new see.
+T-454,2024-09-05 14:40:08.881401,111.4,Groceries,Whole Foods,Cash,Checking,Transfer,Director ever face sea some reveal.
+T-257,2024-09-06 14:40:08.881401,2258.0,Other,Miscellaneous,Credit Card,Investment,Withdrawal,Church himself than might.
+T-772,2024-09-06 14:40:08.881401,54.45,Groceries,Whole Foods,Credit Card,Savings,Payment,Crime occur across.
+T-763,2024-09-07 14:40:08.881401,172.55,Healthcare,Pharmacy,Bank Transfer,Checking,Payment,Rise growth treatment seven what interview certainly budget.
+T-549,2024-09-07 14:40:08.881401,5.0,Dining,Starbucks,Mobile Payment,Savings,Deposit,Put according project interesting change require reveal.
+T-436,2024-09-07 14:40:08.881401,29.34,Subscriptions,Gym Membership,Bank Transfer,Savings,Payment,Here run cause ask.
+T-1005,2024-09-07 14:40:08.881401,102.94,Groceries,Costco,Debit Card,Investment,Withdrawal,How exactly particularly later.
+T-526,2024-09-07 14:40:08.881401,13.04,Subscriptions,Apple Music,Cash,Investment,Withdrawal,Unit surface term production accept station system.
+T-368,2024-09-07 14:40:08.881401,4614.79,Other,Miscellaneous,Mobile Payment,Checking,Deposit,Run story represent near official music senior.
+T-879,2024-09-07 14:40:08.881401,137.17,Healthcare,Dental Care,Debit Card,Investment,Deposit,Degree huge involve area across call.
+T-434,2024-09-07 14:40:08.881401,79.3,Healthcare,Pharmacy,Bank Transfer,Checking,Transfer,Thank identify maybe common put fast someone.
+T-240,2024-09-07 14:40:08.881401,146.69,Utilities,Gas Utility,Mobile Payment,Savings,Payment,Hope behavior article as.
+T-588,2024-09-08 14:40:08.881401,2172.11,Travel,Uber,Cash,Checking,Transfer,Much wait speak three avoid much.
+T-1141,2024-09-08 14:40:08.881401,2188.26,Shopping,Amazon,Bank Transfer,Checking,Deposit,Protect system popular language daughter government laugh.
+T-333,2024-09-08 14:40:08.881401,108.23,Healthcare,Pharmacy,Cash,Investment,Deposit,If officer cold.
+T-246,2024-09-08 14:40:08.881401,13.23,Dining,Chipotle,Bank Transfer,Investment,Deposit,Book cut garden consumer guess music.
+T-649,2024-09-09 14:40:08.881401,31.36,Shopping,Best Buy,Credit Card,Investment,Payment,Just benefit finally research let.
+T-1034,2024-09-09 14:40:08.881401,1380.33,Rent/Mortgage,Mortgage Bank,Debit Card,Checking,Transfer,Heart able add including guess green.
+T-942,2024-09-11 14:40:08.881401,88.03,Groceries,Whole Foods,Mobile Payment,Savings,Payment,Join sure national.
+T-754,2024-09-11 14:40:08.881401,34.5,Groceries,Trader Joe's,Debit Card,Savings,Transfer,Option or space two.
+T-702,2024-09-11 14:40:08.881401,174.82,Travel,Uber,Credit Card,Investment,Payment,Form successful street beat kitchen.
+T-463,2024-09-11 14:40:08.881401,94.48,Groceries,Trader Joe's,Credit Card,Savings,Transfer,Ground leader might but hold activity.
+T-731,2024-09-11 14:40:08.881401,19.72,Entertainment,Netflix,Cash,Savings,Withdrawal,Thing indicate game detail.
+T-348,2024-09-11 14:40:08.881401,1541.4,Rent/Mortgage,Mortgage Bank,Bank Transfer,Savings,Transfer,Mrs safe top third top throw.
+T-217,2024-09-12 14:40:08.881401,120.57,Groceries,Whole Foods,Cash,Checking,Payment,Statement lay less student develop left institution.
+T-661,2024-09-12 14:40:08.881401,7.16,Dining,Starbucks,Bank Transfer,Savings,Withdrawal,Election bit understand tough.
+T-924,2024-09-12 14:40:08.881401,13.82,Subscriptions,Amazon Prime,Credit Card,Checking,Transfer,Would close about.
+T-154,2024-09-14 14:40:08.881401,51.64,Shopping,Amazon,Debit Card,Investment,Payment,Address site commercial animal development walk main.
+T-971,2024-09-14 14:40:08.881401,26.16,Subscriptions,Gym Membership,Mobile Payment,Investment,Transfer,Agree to next buy lose after study this.
+T-899,2024-09-14 14:40:08.881401,2801.0,Other,Miscellaneous,Bank Transfer,Investment,Withdrawal,Help avoid least many.
+T-617,2024-09-15 14:40:08.881401,159.01,Travel,Uber,Mobile Payment,Investment,Transfer,Feel mother community many however.
+T-367,2024-09-15 14:40:08.881401,11.78,Subscriptions,Apple Music,Credit Card,Checking,Deposit,Enjoy alone shake hotel in available.
+T-1149,2024-09-15 14:40:08.881401,5.0,Subscriptions,Amazon Prime,Cash,Checking,Deposit,System want school explain.
+T-636,2024-09-15 14:40:08.881401,114.2,Healthcare,Dental Care,Cash,Checking,Transfer,Clear hear admit wide sign.
+T-362,2024-09-15 14:40:08.881401,136.97,Utilities,Electric Co,Bank Transfer,Checking,Deposit,Field audience herself owner.
+T-84,2024-09-15 14:40:08.881401,5.0,Subscriptions,Gym Membership,Credit Card,Checking,Transfer,Turn Congress rest blood bag glass mouth.
+T-24,2024-09-16 14:40:08.881401,27.86,Entertainment,Spotify,Mobile Payment,Checking,Deposit,Become argue add mention.
+T-1013,2024-09-16 14:40:08.881401,74.68,Groceries,Costco,Bank Transfer,Savings,Payment,Mrs state agreement dog thus cut.
+T-1020,2024-09-17 14:40:08.881401,31.51,Groceries,Costco,Debit Card,Checking,Payment,We drop lose fire place operation.
+T-770,2024-09-17 14:40:08.881401,2411.28,Other,Miscellaneous,Bank Transfer,Investment,Transfer,Time table apply push.
+T-869,2024-09-17 14:40:08.881401,136.91,Utilities,Electric Co,Cash,Checking,Payment,Over enter sell case produce professor bring.
+T-66,2024-09-17 14:40:08.881401,107.95,Travel,Airbnb,Debit Card,Investment,Payment,Truth from laugh yes different hospital.
+T-1019,2024-09-20 14:40:08.881401,29.71,Groceries,Trader Joe's,Bank Transfer,Investment,Deposit,Type people by service also.
+T-85,2024-09-20 14:40:08.881401,90.6,Travel,Uber,Bank Transfer,Savings,Transfer,Get huge represent real more college.
+T-923,2024-09-21 14:40:08.881401,69.32,Dining,McDonald's,Credit Card,Investment,Transfer,Deal involve again actually Republican.
+T-960,2024-09-21 14:40:08.881401,126.33,Groceries,Costco,Bank Transfer,Investment,Deposit,Pick school run author sure.
+T-19,2024-09-21 14:40:08.881401,226.13,Utilities,Electric Co,Credit Card,Savings,Deposit,Remember half improve ago organization.
+T-1144,2024-09-21 14:40:08.881401,5.0,Dining,Starbucks,Debit Card,Checking,Payment,Car professional lay.
+T-919,2024-09-22 14:40:08.881401,31.51,Entertainment,Concert Hall,Debit Card,Checking,Withdrawal,Audience natural growth probably with drop dog.
+T-92,2024-09-22 14:40:08.881401,32.67,Subscriptions,Amazon Prime,Bank Transfer,Checking,Withdrawal,Growth company deal open.
+T-181,2024-09-22 14:40:08.881401,100.72,Utilities,Gas Utility,Credit Card,Investment,Payment,Establish reason minute shoulder skin ready buy.
+T-950,2024-09-22 14:40:08.881401,82.97,Travel,Hilton,Bank Transfer,Savings,Deposit,Perhaps skill scene.
+T-861,2024-09-22 14:40:08.881401,152.95,Utilities,Gas Utility,Mobile Payment,Checking,Withdrawal,Black somebody mother mind.
+T-59,2024-09-22 14:40:08.881401,199.09,Shopping,Amazon,Mobile Payment,Investment,Transfer,East improve structure try.
+T-880,2024-09-22 14:40:08.881401,88.42,Travel,Delta,Credit Card,Investment,Deposit,History population music training.
+T-131,2024-09-23 14:40:08.881401,105.71,Utilities,Gas Utility,Cash,Investment,Payment,Family effort process world return create.
+T-760,2024-09-23 14:40:08.881401,29.47,Entertainment,AMC Theatres,Cash,Savings,Transfer,Discover meeting wait under.
+T-1077,2024-09-23 14:40:08.881401,4335.44,Other,Miscellaneous,Mobile Payment,Checking,Payment,Act agree back now fish music night attention.
+T-939,2024-09-24 14:40:08.881401,1752.69,Rent/Mortgage,Landlord,Debit Card,Checking,Transfer,Country well nice recently road majority.
+T-176,2024-09-24 14:40:08.881401,1118.55,Other,Miscellaneous,Credit Card,Checking,Transfer,Wear son standard collection military.
+T-77,2024-09-24 14:40:08.881401,2855.85,Other,Miscellaneous,Mobile Payment,Checking,Deposit,Moment with third goal government return.
+T-396,2024-09-24 14:40:08.881401,1528.21,Rent/Mortgage,Landlord,Bank Transfer,Savings,Withdrawal,Deep edge read whose fact six bit.
+T-313,2024-09-25 14:40:08.881401,1660.17,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Payment,Opportunity office energy heart decide after.
+T-852,2024-09-25 14:40:08.881401,1329.26,Rent/Mortgage,Landlord,Cash,Investment,Transfer,Black total war usually father half operation.
+T-571,2024-09-26 14:40:08.881401,3366.27,Other,Miscellaneous,Cash,Checking,Transfer,White this move issue artist for side.
+T-777,2024-09-26 14:40:08.881401,43.26,Healthcare,Clinic,Debit Card,Investment,Withdrawal,Civil well care foot daughter force it tree.
+T-804,2024-09-26 14:40:08.881401,169.48,Shopping,Mall Store,Cash,Checking,Withdrawal,Agent send increase put very region specific appear.
+T-170,2024-09-26 14:40:08.881401,135.58,Shopping,Best Buy,Bank Transfer,Investment,Payment,When either note her.
+T-736,2024-09-26 14:40:08.881401,4077.87,Other,Miscellaneous,Credit Card,Investment,Withdrawal,Present use development.
+T-628,2024-09-26 14:40:08.881401,90.1,Shopping,Target,Debit Card,Savings,Payment,Particular beyond suggest receive subject reduce.
+T-472,2024-09-26 14:40:08.881401,1524.06,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Payment,Spend bar area film.
+T-789,2024-09-26 14:40:08.881401,71.46,Utilities,Water Works,Mobile Payment,Investment,Withdrawal,Yes dark this.
+R-2,2024-09-26 14:40:08.881401,1547.64,Rent/Mortgage,Landlord,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-955,2024-09-26 14:40:08.881401,1220.38,Rent/Mortgage,Landlord,Credit Card,Investment,Withdrawal,Natural quickly through reason listen.
+T-29,2024-09-26 14:40:08.881401,16.11,Entertainment,Spotify,Cash,Investment,Transfer,To plant visit common bed.
+T-963,2024-09-26 14:40:08.881401,12.81,Entertainment,Spotify,Credit Card,Checking,Deposit,Stop cause to recently.
+T-821,2024-09-27 14:40:08.881401,198.12,Travel,Hilton,Bank Transfer,Investment,Deposit,On realize fall figure maintain firm dark.
+S-Amazon Prime-2,2024-09-27 14:40:08.881401,33.07,Subscriptions,Amazon Prime,Bank Transfer,Checking,Payment,Monthly subscription: Amazon Prime
+T-818,2024-09-27 14:40:08.881401,5.0,Travel,Delta,Debit Card,Savings,Deposit,Weight food wall think everything speech middle.
+T-719,2024-09-27 14:40:08.881401,94.2,Utilities,Electric Co,Credit Card,Checking,Deposit,Increase example region help through power crime.
+T-700,2024-09-28 14:40:08.881401,159.35,Groceries,Walmart,Cash,Checking,Payment,Employee son age color make.
+S-Netflix-2,2024-09-28 14:40:08.881401,35.26,Subscriptions,Netflix,Cash,Checking,Payment,Monthly subscription: Netflix
+T-173,2024-09-28 14:40:08.881401,47.47,Utilities,Electric Co,Cash,Checking,Deposit,Activity kid read allow.
+S-Gym Membership-2,2024-09-28 14:40:08.881401,9.01,Subscriptions,Gym Membership,Bank Transfer,Checking,Payment,Monthly subscription: Gym Membership
+T-567,2024-09-28 14:40:08.881401,1206.84,Rent/Mortgage,Mortgage Bank,Cash,Investment,Payment,Senior see here under present.
+T-491,2024-09-29 14:40:08.881401,4271.49,Other,Miscellaneous,Cash,Investment,Deposit,Hair truth floor time program challenge effect decision.
+T-803,2024-09-29 14:40:08.881401,82.58,Shopping,Amazon,Cash,Savings,Withdrawal,Act level major ball federal.
+T-664,2024-09-29 14:40:08.881401,5.0,Subscriptions,Apple Music,Credit Card,Savings,Deposit,Stay question left information look tree.
+T-851,2024-09-30 14:40:08.881401,155.7,Utilities,Gas Utility,Cash,Checking,Withdrawal,New make high you clearly wind teacher.
+T-8,2024-09-30 14:40:08.881401,145.0,Shopping,Target,Cash,Savings,Withdrawal,Budget event thought heart.
+T-412,2024-09-30 14:40:08.881401,178.21,Healthcare,Pharmacy,Mobile Payment,Savings,Deposit,Population show contain common chance evening.
+T-192,2024-10-01 14:40:08.881401,18.91,Subscriptions,Gym Membership,Cash,Savings,Withdrawal,Step simple network star likely catch indeed.
+T-854,2024-10-01 14:40:08.881401,1531.78,Rent/Mortgage,Landlord,Credit Card,Investment,Transfer,Approach agreement morning sing local he method.
+T-406,2024-10-02 14:40:08.881401,15.55,Dining,Local Cafe,Mobile Payment,Investment,Transfer,Itself book treatment family.
+T-735,2024-10-03 14:40:08.881401,3087.47,Other,Miscellaneous,Cash,Investment,Deposit,Together country garden mother reveal there outside.
+T-1127,2024-10-03 14:40:08.881401,13.81,Groceries,Walmart,Cash,Savings,Payment,Door machine send.
+T-902,2024-10-03 14:40:08.881401,1205.51,Rent/Mortgage,Mortgage Bank,Cash,Investment,Deposit,Good exactly those.
+T-97,2024-10-03 14:40:08.881401,169.55,Travel,Hilton,Cash,Savings,Withdrawal,Ball business stock especially several.
+T-319,2024-10-04 14:40:08.881401,105.17,Shopping,Best Buy,Cash,Checking,Withdrawal,Happy travel everyone crime conference week war yes.
+T-54,2024-10-04 14:40:08.881401,39.19,Healthcare,Clinic,Credit Card,Checking,Withdrawal,Care he floor.
+T-740,2024-10-04 14:40:08.881401,166.55,Utilities,Water Works,Bank Transfer,Investment,Transfer,Involve none second buy.
+T-1147,2024-10-05 14:40:08.881401,71.33,Groceries,Costco,Mobile Payment,Checking,Transfer,Break him foreign research.
+T-105,2024-10-05 14:40:08.881401,193.71,Travel,Airbnb,Bank Transfer,Checking,Payment,East join air total establish sense we.
+T-771,2024-10-05 14:40:08.881401,173.85,Utilities,Gas Utility,Debit Card,Savings,Withdrawal,Open give most culture growth ok.
+T-762,2024-10-05 14:40:08.881401,18.21,Subscriptions,Apple Music,Mobile Payment,Savings,Transfer,Low rather beyond.
+T-906,2024-10-06 14:40:08.881401,139.55,Other,Miscellaneous,Cash,Checking,Deposit,Image team when heavy manage morning indeed.
+T-798,2024-10-06 14:40:08.881401,113.98,Healthcare,Dental Care,Mobile Payment,Investment,Deposit,Beyond cut ask movement.
+T-778,2024-10-06 14:40:08.881401,5.0,Dining,Starbucks,Cash,Checking,Withdrawal,Difficult beat computer front course analysis.
+T-495,2024-10-06 14:40:08.881401,24.61,Entertainment,Concert Hall,Bank Transfer,Investment,Deposit,What fact enough again before of.
+T-298,2024-10-06 14:40:08.881401,2524.07,Other,Miscellaneous,Credit Card,Checking,Transfer,Choice degree speech kitchen tend.
+T-263,2024-10-07 14:40:08.881401,1047.39,Rent/Mortgage,Mortgage Bank,Mobile Payment,Savings,Payment,Painting record mention necessary ever very.
+T-401,2024-10-07 14:40:08.881401,1156.0,Rent/Mortgage,Landlord,Bank Transfer,Savings,Transfer,No prevent attack bag hope.
+T-386,2024-10-07 14:40:08.881401,18.81,Entertainment,Spotify,Cash,Checking,Withdrawal,Inside back white nature bill ball audience.
+T-336,2024-10-08 14:40:08.881401,39.2,Shopping,Target,Bank Transfer,Checking,Transfer,Weight myself source watch.
+T-601,2024-10-09 14:40:08.881401,137.54,Healthcare,Dental Care,Cash,Investment,Withdrawal,Cause cut owner worker city sound American customer.
+T-110,2024-10-09 14:40:08.881401,11.0,Entertainment,Concert Hall,Credit Card,Checking,Payment,Role south field build laugh sort something.
+T-872,2024-10-09 14:40:08.881401,1415.65,Rent/Mortgage,Mortgage Bank,Cash,Checking,Withdrawal,Action capital set hair main off.
+T-905,2024-10-10 14:40:08.881401,18.2,Groceries,Walmart,Mobile Payment,Investment,Payment,Late consider standard air right.
+T-839,2024-10-10 14:40:08.881401,1638.07,Rent/Mortgage,Landlord,Credit Card,Savings,Payment,You be pick resource door.
+T-1076,2024-10-10 14:40:08.881401,17.65,Entertainment,AMC Theatres,Cash,Checking,Transfer,House chair lead arrive poor various.
+T-366,2024-10-11 14:40:08.881401,21.84,Dining,Local Cafe,Bank Transfer,Investment,Deposit,Feel guess cover green.
+T-104,2024-10-11 14:40:08.881401,66.34,Travel,Delta,Mobile Payment,Savings,Deposit,Scientist factor teach good entire.
+T-916,2024-10-11 14:40:08.881401,2202.74,Travel,Uber,Credit Card,Savings,Transfer,Already police structure stop attorney education analysis.
+T-141,2024-10-12 14:40:08.881401,1772.29,Rent/Mortgage,Mortgage Bank,Credit Card,Checking,Payment,Guy must recognize decade manager everyone start kind.
+T-931,2024-10-12 14:40:08.881401,12.45,Entertainment,Spotify,Cash,Checking,Payment,Suffer short Mrs trouble training give lose.
+T-39,2024-10-12 14:40:08.881401,304.96,Shopping,Target,Mobile Payment,Investment,Transfer,Many expert dog per plant write throughout.
+T-639,2024-10-12 14:40:08.881401,49.81,Dining,Local Cafe,Credit Card,Checking,Payment,Doctor other structure ask data.
+T-233,2024-10-12 14:40:08.881401,71.85,Travel,Hilton,Mobile Payment,Savings,Deposit,Statement thought yourself.
+T-892,2024-10-12 14:40:08.881401,45.96,Travel,Delta,Bank Transfer,Checking,Transfer,Major dark operation feel.
+T-3,2024-10-13 14:40:08.881401,76.83,Healthcare,Clinic,Bank Transfer,Investment,Deposit,Series kitchen film certain skill free nearly staff.
+T-780,2024-10-13 14:40:08.881401,128.28,Shopping,Target,Bank Transfer,Savings,Withdrawal,House outside never report certainly.
+T-509,2024-10-14 14:40:08.881401,11.45,Entertainment,Concert Hall,Mobile Payment,Investment,Payment,Car specific cell perform eat.
+T-165,2024-10-14 14:40:08.881401,151.16,Utilities,Water Works,Debit Card,Savings,Deposit,It respond once ball so focus.
+T-212,2024-10-15 14:40:08.881401,7.9,Subscriptions,Gym Membership,Debit Card,Checking,Payment,Oil about night rule heart choice during.
+T-739,2024-10-15 14:40:08.881401,900.48,Travel,Hilton,Bank Transfer,Savings,Withdrawal,Sing air gun measure nation collection protect.
+T-532,2024-10-16 14:40:08.881401,203.34,Utilities,Water Works,Credit Card,Savings,Transfer,Build customer note hotel push.
+T-282,2024-10-16 14:40:08.881401,62.38,Groceries,Costco,Bank Transfer,Investment,Payment,Machine wife itself rest might imagine thought exist.
+T-91,2024-10-16 14:40:08.881401,15.87,Entertainment,Concert Hall,Mobile Payment,Checking,Payment,Interview approach many sound although.
+T-100,2024-10-17 14:40:08.881401,866.1,Rent/Mortgage,Landlord,Debit Card,Savings,Payment,Past eye director store least feel knowledge individual.
+T-392,2024-10-17 14:40:08.881401,13.36,Entertainment,Concert Hall,Mobile Payment,Investment,Payment,Middle coach wonder.
+T-675,2024-10-17 14:40:08.881401,35.98,Dining,Starbucks,Credit Card,Savings,Withdrawal,Force measure voice clearly.
+T-25,2024-10-17 14:40:08.881401,13.62,Subscriptions,Gym Membership,Cash,Investment,Payment,Able late cultural nice.
+T-539,2024-10-18 14:40:08.881401,1709.65,Rent/Mortgage,Mortgage Bank,Mobile Payment,Checking,Transfer,Herself different daughter trouble personal.
+T-1024,2024-10-19 14:40:08.881401,146.23,Travel,Hilton,Debit Card,Checking,Withdrawal,East no form generation ahead.
+T-326,2024-10-19 14:40:08.881401,24.41,Dining,McDonald's,Bank Transfer,Checking,Withdrawal,Market seem thing.
+T-830,2024-10-20 14:40:08.881401,4359.26,Other,Miscellaneous,Debit Card,Savings,Payment,Artist middle word part everyone.
+T-949,2024-10-20 14:40:08.881401,130.93,Utilities,Electric Co,Cash,Checking,Transfer,Fire eight note land involve career.
+T-134,2024-10-21 14:40:08.881401,83.83,Groceries,Walmart,Debit Card,Investment,Transfer,And newspaper husband worry under movement behind.
+T-13,2024-10-21 14:40:08.881401,64.28,Travel,Uber,Mobile Payment,Investment,Payment,Rather base indeed fill star.
+T-868,2024-10-21 14:40:08.881401,125.68,Healthcare,Clinic,Bank Transfer,Checking,Transfer,Nice crime new capital throw purpose memory.
+T-985,2024-10-22 14:40:08.881401,21.46,Entertainment,AMC Theatres,Mobile Payment,Investment,Transfer,Professor scene deep your.
+T-521,2024-10-23 14:40:08.881401,42.5,Dining,Starbucks,Credit Card,Investment,Transfer,Control go film degree.
+T-511,2024-10-24 14:40:08.881401,1207.29,Rent/Mortgage,Mortgage Bank,Credit Card,Savings,Transfer,Open poor traditional final outside meeting black.
+T-505,2024-10-24 14:40:08.881401,185.55,Shopping,Amazon,Debit Card,Investment,Deposit,Score benefit news white suffer conference.
+T-178,2024-10-24 14:40:08.881401,134.04,Groceries,Walmart,Debit Card,Checking,Withdrawal,Sense either condition toward leg successful.
+T-18,2024-10-24 14:40:08.881401,2285.04,Other,Miscellaneous,Credit Card,Investment,Transfer,Defense these throw find place.
+T-784,2024-10-25 14:40:08.881401,2014.09,Rent/Mortgage,Landlord,Debit Card,Savings,Withdrawal,Exist company crime strong dinner and onto.
+R-3,2024-10-25 14:40:08.881401,1714.73,Rent/Mortgage,Landlord,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-161,2024-10-25 14:40:08.881401,4628.06,Other,Miscellaneous,Bank Transfer,Savings,Deposit,Professional toward alone bit.
+S-Amazon Prime-3,2024-10-25 14:40:08.881401,25.19,Subscriptions,Amazon Prime,Mobile Payment,Checking,Payment,Monthly subscription: Amazon Prime
+T-83,2024-10-25 14:40:08.881401,36.54,Dining,Local Cafe,Mobile Payment,Investment,Transfer,Result production natural set at hard their.
+T-330,2024-10-25 14:40:08.881401,184.64,Utilities,Water Works,Bank Transfer,Savings,Transfer,There cause citizen treat yourself top.
+T-897,2024-10-26 14:40:08.881401,18.7,Entertainment,Netflix,Debit Card,Investment,Withdrawal,Remember large Mrs option first.
+T-952,2024-10-26 14:40:08.881401,18.73,Entertainment,AMC Theatres,Mobile Payment,Investment,Payment,Fast term at film ahead herself.
+T-1030,2024-10-26 14:40:08.881401,226.4,Travel,Uber,Mobile Payment,Savings,Deposit,Describe service society increase travel.
+T-128,2024-10-26 14:40:08.881401,1578.8,Rent/Mortgage,Mortgage Bank,Credit Card,Investment,Withdrawal,Eye special important.
+T-380,2024-10-26 14:40:08.881401,345.24,Travel,Airbnb,Cash,Investment,Withdrawal,Crime thus without suddenly whether.
+T-634,2024-10-27 14:40:08.881401,105.88,Utilities,Electric Co,Credit Card,Investment,Transfer,Three live director maybe do.
+T-517,2024-10-27 14:40:08.881401,106.11,Utilities,Electric Co,Debit Card,Savings,Payment,Evidence community quite lay responsibility people on.
+T-481,2024-10-28 14:40:08.881401,33.62,Dining,Local Cafe,Cash,Savings,Withdrawal,Something state seem rich bit federal.
+S-Netflix-3,2024-10-28 14:40:08.881401,0.33,Subscriptions,Netflix,Credit Card,Checking,Payment,Monthly subscription: Netflix
+S-Gym Membership-3,2024-10-30 14:40:08.881401,12.59,Subscriptions,Gym Membership,Credit Card,Checking,Payment,Monthly subscription: Gym Membership
+T-46,2024-10-30 14:40:08.881401,288.97,Healthcare,Pharmacy,Bank Transfer,Savings,Transfer,Give man physical lot tend most.
+T-72,2024-10-30 14:40:08.881401,976.16,Other,Miscellaneous,Bank Transfer,Investment,Payment,Imagine tonight soon state drop.
+T-737,2024-10-30 14:40:08.881401,19.54,Entertainment,Concert Hall,Cash,Investment,Payment,Process improve candidate song next.
+T-935,2024-10-31 14:40:08.881401,8.53,Subscriptions,Amazon Prime,Bank Transfer,Savings,Transfer,Respond lose occur education worry.
+T-746,2024-11-01 14:40:08.881401,49.06,Groceries,Walmart,Credit Card,Checking,Transfer,Reveal sport almost player of most.
+T-1035,2024-11-01 14:40:08.881401,69.44,Groceries,Costco,Cash,Checking,Deposit,Attorney third remain within.
+T-439,2024-11-01 14:40:08.881401,8.02,Entertainment,Spotify,Bank Transfer,Investment,Payment,Serve so while start per Mr painting stage.
+T-713,2024-11-01 14:40:08.881401,71.67,Groceries,Walmart,Cash,Savings,Payment,Outside purpose reveal say shake.
+T-813,2024-11-03 14:40:08.881401,137.58,Shopping,Amazon,Credit Card,Investment,Withdrawal,Better address type meet seek.
+T-908,2024-11-03 14:40:08.881401,162.52,Utilities,Water Works,Credit Card,Investment,Deposit,Medical compare possible community.
+T-790,2024-11-04 14:40:08.881401,143.31,Utilities,Water Works,Bank Transfer,Investment,Deposit,Bill ok wide.
+T-125,2024-11-05 14:40:08.881401,210.77,Shopping,Mall Store,Cash,Savings,Payment,Western support able life manager.
+T-1018,2024-11-05 14:40:08.881401,102.23,Healthcare,Pharmacy,Bank Transfer,Investment,Transfer,Try collection people activity.
+T-138,2024-11-06 14:40:08.881401,27.95,Subscriptions,Gym Membership,Bank Transfer,Savings,Withdrawal,Reality public current style cut.
+T-995,2024-11-06 14:40:08.881401,48.53,Groceries,Whole Foods,Credit Card,Checking,Deposit,Blue smile respond responsibility.
+T-68,2024-11-06 14:40:08.881401,237.6,Shopping,Best Buy,Mobile Payment,Checking,Withdrawal,Region building human fear art feeling sit.
+T-440,2024-11-06 14:40:08.881401,154.88,Utilities,Gas Utility,Mobile Payment,Checking,Withdrawal,Listen image number somebody reduce.
+T-585,2024-11-06 14:40:08.881401,74.72,Groceries,Costco,Bank Transfer,Checking,Transfer,Poor important serve daughter other long chair phone.
+T-16,2024-11-06 14:40:08.881401,167.94,Shopping,Best Buy,Mobile Payment,Savings,Payment,Attack woman pressure.
+T-352,2024-11-07 14:40:08.881401,30.58,Entertainment,Netflix,Debit Card,Savings,Deposit,Staff after protect much talk age population create.
+T-346,2024-11-07 14:40:08.881401,121.36,Shopping,Mall Store,Bank Transfer,Checking,Withdrawal,Value country company short together area happen strategy.
+T-222,2024-11-07 14:40:08.881401,90.43,Healthcare,Dental Care,Bank Transfer,Savings,Transfer,Break among build whom soldier follow teacher.
+T-471,2024-11-08 14:40:08.881401,173.28,Utilities,Water Works,Debit Card,Checking,Withdrawal,Mr hundred between still life.
+T-698,2024-11-08 14:40:08.881401,92.99,Utilities,Water Works,Credit Card,Savings,Payment,Usually I board each.
+T-884,2024-11-08 14:40:08.881401,177.57,Shopping,Amazon,Mobile Payment,Checking,Withdrawal,Boy particular nor right check true.
+T-982,2024-11-09 14:40:08.881401,106.28,Travel,Hilton,Debit Card,Investment,Deposit,Score environmental rate space machine even.
+T-1104,2024-11-09 14:40:08.881401,53.03,Groceries,Walmart,Mobile Payment,Investment,Deposit,Size bad born feeling leave fear.
+T-287,2024-11-09 14:40:08.881401,62.84,Shopping,Best Buy,Credit Card,Savings,Withdrawal,Performance year good role do number.
+T-1128,2024-11-09 14:40:08.881401,2055.13,Shopping,Mall Store,Mobile Payment,Checking,Withdrawal,Husband upon suddenly myself Democrat act still.
+T-970,2024-11-10 14:40:08.881401,23.57,Entertainment,Spotify,Cash,Investment,Transfer,Cell subject church song condition long adult.
+T-1116,2024-11-10 14:40:08.881401,176.83,Utilities,Gas Utility,Cash,Investment,Payment,Particularly while artist job by.
+T-686,2024-11-11 14:40:08.881401,162.88,Healthcare,Dental Care,Debit Card,Savings,Payment,From present hundred suffer become involve.
+T-108,2024-11-11 14:40:08.881401,270.02,Travel,Airbnb,Credit Card,Investment,Payment,Image himself onto would all threat home although.
+T-529,2024-11-11 14:40:08.881401,17.01,Entertainment,Netflix,Bank Transfer,Savings,Withdrawal,Strong smile customer crime less television.
+T-961,2024-11-12 14:40:08.881401,122.25,Travel,Airbnb,Debit Card,Savings,Deposit,Government south meet.
+T-920,2024-11-12 14:40:08.881401,5.0,Subscriptions,Amazon Prime,Credit Card,Checking,Transfer,Kind goal read purpose agree vote.
+T-475,2024-11-12 14:40:08.881401,5.0,Groceries,Trader Joe's,Bank Transfer,Checking,Deposit,Radio central glass.
+T-723,2024-11-12 14:40:08.881401,54.64,Groceries,Trader Joe's,Debit Card,Savings,Transfer,Enter mention state choose coach writer business.
+T-1143,2024-11-13 14:40:08.881401,1554.86,Rent/Mortgage,Mortgage Bank,Cash,Savings,Deposit,Republican stand mouth.
+T-494,2024-11-13 14:40:08.881401,81.34,Shopping,Amazon,Cash,Checking,Transfer,Less professional brother because summer war.
+T-681,2024-11-13 14:40:08.881401,110.49,Utilities,Water Works,Cash,Checking,Withdrawal,Amount worry take view between nothing budget land.
+T-78,2024-11-13 14:40:08.881401,64.26,Utilities,Gas Utility,Debit Card,Investment,Withdrawal,Paper artist sister people certainly.
+T-635,2024-11-14 14:40:08.881401,2340.33,Other,Miscellaneous,Cash,Investment,Payment,Around moment good brother.
+T-738,2024-11-14 14:40:08.881401,1215.4,Rent/Mortgage,Landlord,Debit Card,Investment,Deposit,Together nice any up above child degree.
+T-381,2024-11-14 14:40:08.881401,229.79,Shopping,Target,Debit Card,Investment,Transfer,Year hundred space plant.
+T-239,2024-11-15 14:40:08.881401,112.07,Shopping,Target,Credit Card,Investment,Withdrawal,Find short she player part remember special case.
+T-1064,2024-11-15 14:40:08.881401,105.52,Shopping,Amazon,Bank Transfer,Investment,Withdrawal,President water road will gas experience.
+T-864,2024-11-15 14:40:08.881401,11.17,Subscriptions,Amazon Prime,Cash,Checking,Transfer,Kind avoid style.
+T-680,2024-11-15 14:40:08.881401,151.23,Healthcare,Dental Care,Mobile Payment,Savings,Payment,Door born director traditional measure official.
+T-1101,2024-11-16 14:40:08.881401,115.86,Shopping,Amazon,Credit Card,Savings,Withdrawal,Loss wonder particularly answer least final concern.
+T-1036,2024-11-16 14:40:08.881401,106.41,Groceries,Whole Foods,Mobile Payment,Checking,Payment,Prepare also fall painting.
+T-667,2024-11-16 14:40:08.881401,24.63,Entertainment,AMC Theatres,Debit Card,Investment,Deposit,Where pull Republican section though about never.
+T-540,2024-11-16 14:40:08.881401,124.46,Healthcare,Dental Care,Debit Card,Investment,Deposit,Old program dream color.
+T-553,2024-11-16 14:40:08.881401,73.32,Groceries,Trader Joe's,Debit Card,Investment,Withdrawal,Rather camera practice over.
+T-626,2024-11-17 14:40:08.881401,33.9,Dining,Starbucks,Cash,Savings,Withdrawal,Focus condition section discover hour.
+T-519,2024-11-17 14:40:08.881401,23.28,Subscriptions,Gym Membership,Debit Card,Investment,Withdrawal,Through natural public conference save former animal.
+T-163,2024-11-19 14:40:08.881401,145.87,Shopping,Target,Bank Transfer,Investment,Transfer,Member between risk growth others management hear.
+T-704,2024-11-19 14:40:08.881401,33.1,Entertainment,Netflix,Bank Transfer,Investment,Deposit,Sign society much.
+T-693,2024-11-19 14:40:08.881401,26.75,Subscriptions,Gym Membership,Cash,Investment,Payment,Trouble pattern which music.
+T-1058,2024-11-20 14:40:08.881401,17.98,Dining,McDonald's,Debit Card,Savings,Payment,Instead letter two view single.
+T-873,2024-11-20 14:40:08.881401,142.02,Shopping,Best Buy,Mobile Payment,Checking,Deposit,Also point travel easy daughter.
+T-900,2024-11-20 14:40:08.881401,1488.97,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Deposit,Evening heavy position dinner behind despite.
+T-882,2024-11-20 14:40:08.881401,106.25,Travel,Airbnb,Bank Transfer,Investment,Transfer,Available allow front degree.
+T-769,2024-11-21 14:40:08.881401,118.25,Shopping,Target,Debit Card,Checking,Deposit,Establish reality six service.
+T-58,2024-11-21 14:40:08.881401,27.98,Dining,McDonald's,Cash,Investment,Payment,Air international newspaper meet window term.
+T-200,2024-11-21 14:40:08.881401,9.42,Subscriptions,Amazon Prime,Debit Card,Investment,Deposit,Member wish laugh inside establish drug.
+T-487,2024-11-21 14:40:08.881401,235.46,Shopping,Target,Cash,Savings,Deposit,Compare hair should tell present party under.
+T-42,2024-11-21 14:40:08.881401,162.49,Travel,Delta,Credit Card,Investment,Payment,Two join do send say dinner.
+T-136,2024-11-21 14:40:08.881401,19.45,Entertainment,AMC Theatres,Debit Card,Investment,Deposit,Away job over kind most huge summer.
+T-840,2024-11-21 14:40:08.881401,142.59,Groceries,Trader Joe's,Cash,Savings,Payment,Nearly along to remember fear.
+T-1095,2024-11-21 14:40:08.881401,16.13,Subscriptions,Gym Membership,Cash,Checking,Withdrawal,Again probably support city themselves friend.
+T-557,2024-11-22 14:40:08.881401,17.12,Entertainment,Netflix,Cash,Savings,Transfer,Community enough sea better position can single.
+T-470,2024-11-22 14:40:08.881401,105.82,Groceries,Costco,Mobile Payment,Investment,Transfer,Suddenly tax certain trial four hear.
+T-441,2024-11-22 14:40:08.881401,119.43,Shopping,Target,Bank Transfer,Savings,Transfer,Ago central individual though factor save its.
+T-280,2024-11-22 14:40:08.881401,44.64,Dining,Starbucks,Bank Transfer,Checking,Deposit,Cup fear teacher kind style family.
+T-1150,2024-11-22 14:40:08.881401,80.72,Shopping,Target,Credit Card,Investment,Payment,Enjoy risk seven full three the economic.
+T-607,2024-11-22 14:40:08.881401,85.83,Healthcare,Dental Care,Bank Transfer,Savings,Withdrawal,Chair traditional worry doctor.
+T-1040,2024-11-22 14:40:08.881401,27.1,Dining,Starbucks,Debit Card,Savings,Deposit,Wonder state hot religious newspaper.
+T-815,2024-11-22 14:40:08.881401,42.25,Dining,Starbucks,Cash,Savings,Withdrawal,Thing store child to.
+T-10,2024-11-22 14:40:08.881401,97.92,Shopping,Best Buy,Credit Card,Savings,Payment,Pretty food make less expect would skill.
+T-1052,2024-11-22 14:40:08.881401,11.14,Entertainment,AMC Theatres,Bank Transfer,Investment,Withdrawal,Another trade six actually challenge her.
+T-302,2024-11-24 14:40:08.881401,1822.78,Rent/Mortgage,Mortgage Bank,Mobile Payment,Checking,Withdrawal,Require at write arrive forget food.
+T-596,2024-11-24 14:40:08.881401,17.12,Healthcare,Clinic,Debit Card,Savings,Withdrawal,Why type large idea.
+R-4,2024-11-25 14:40:08.881401,1198.53,Rent/Mortgage,Landlord,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-379,2024-11-25 14:40:08.881401,3871.32,Other,Miscellaneous,Mobile Payment,Checking,Withdrawal,Series east instead.
+T-198,2024-11-25 14:40:08.881401,16.98,Entertainment,AMC Theatres,Credit Card,Savings,Deposit,Situation story fill protect.
+T-720,2024-11-25 14:40:08.881401,16.53,Entertainment,Concert Hall,Mobile Payment,Investment,Withdrawal,Establish responsibility individual present expect customer fear.
+T-1113,2024-11-25 14:40:08.881401,1987.72,Travel,Uber,Credit Card,Savings,Transfer,Nor respond bit Republican.
+T-1045,2024-11-25 14:40:08.881401,133.61,Shopping,Target,Credit Card,Savings,Payment,Wife either experience I prevent.
+T-1038,2024-11-25 14:40:08.881401,76.59,Shopping,Mall Store,Credit Card,Checking,Payment,Parent design carry threat.
+T-145,2024-11-25 14:40:08.881401,93.68,Travel,Hilton,Mobile Payment,Investment,Deposit,Adult week way score decision toward any.
+T-213,2024-11-26 14:40:08.881401,5.0,Groceries,Walmart,Mobile Payment,Savings,Transfer,Best particularly still skin eat now.
+S-Amazon Prime-4,2024-11-26 14:40:08.881401,13.87,Subscriptions,Amazon Prime,Debit Card,Checking,Payment,Monthly subscription: Amazon Prime
+T-925,2024-11-27 14:40:08.881401,8.45,Subscriptions,Apple Music,Credit Card,Checking,Payment,Today market address church expert record culture.
+T-435,2024-11-28 14:40:08.881401,74.4,Shopping,Mall Store,Cash,Investment,Deposit,Manager crime exist organization.
+T-969,2024-11-28 14:40:08.881401,18.46,Subscriptions,Gym Membership,Credit Card,Savings,Deposit,Manager culture election explain.
+T-1008,2024-11-28 14:40:08.881401,120.79,Groceries,Costco,Cash,Savings,Transfer,Including about fish country.
+T-245,2024-11-28 14:40:08.881401,196.43,Utilities,Electric Co,Mobile Payment,Investment,Withdrawal,Yes hold small energy value song century direction.
+T-467,2024-11-28 14:40:08.881401,1577.11,Rent/Mortgage,Landlord,Debit Card,Checking,Payment,Agree opportunity certain suggest.
+T-409,2024-11-28 14:40:08.881401,113.18,Shopping,Mall Store,Credit Card,Investment,Deposit,Family only reflect during short.
+S-Netflix-4,2024-11-29 14:40:08.881401,17.27,Subscriptions,Netflix,Debit Card,Checking,Payment,Monthly subscription: Netflix
+T-146,2024-11-29 14:40:08.881401,32.1,Dining,McDonald's,Credit Card,Checking,Withdrawal,As option human situation cut.
+T-438,2024-11-29 14:40:08.881401,29.12,Entertainment,Netflix,Cash,Investment,Transfer,Actually actually space activity teacher heart blood.
+T-816,2024-11-29 14:40:08.881401,58.17,Dining,Chipotle,Mobile Payment,Savings,Withdrawal,Hair all economic others peace possible people.
+S-Gym Membership-4,2024-11-30 14:40:08.881401,10.63,Subscriptions,Gym Membership,Cash,Checking,Payment,Monthly subscription: Gym Membership
+T-378,2024-11-30 14:40:08.881401,173.97,Shopping,Target,Credit Card,Savings,Payment,Ask story most answer.
+T-528,2024-11-30 14:40:08.881401,846.91,Rent/Mortgage,Mortgage Bank,Mobile Payment,Savings,Transfer,Then traditional add.
+T-74,2024-12-01 14:40:08.881401,37.19,Dining,Starbucks,Bank Transfer,Investment,Transfer,Impact factor my add religious.
+T-1092,2024-12-01 14:40:08.881401,201.48,Shopping,Target,Cash,Savings,Payment,Community administration successful.
+T-707,2024-12-01 14:40:08.881401,54.16,Healthcare,Dental Care,Debit Card,Savings,Payment,Would whatever language deep agent ever strategy.
+T-405,2024-12-02 14:40:08.881401,132.97,Groceries,Whole Foods,Credit Card,Savings,Withdrawal,Soon discuss prevent ground eat important interesting.
+T-592,2024-12-02 14:40:08.881401,72.09,Healthcare,Clinic,Debit Card,Checking,Withdrawal,Relationship I sell modern.
+T-356,2024-12-02 14:40:08.881401,5.0,Shopping,Mall Store,Debit Card,Savings,Payment,Public serve right imagine skin east recognize design.
+T-954,2024-12-02 14:40:08.881401,22.02,Subscriptions,Apple Music,Credit Card,Checking,Deposit,Sport really bed hundred culture live thing.
+T-314,2024-12-03 14:40:08.881401,74.67,Shopping,Target,Credit Card,Checking,Payment,Individual affect painting wind.
+T-453,2024-12-03 14:40:08.881401,7.36,Subscriptions,Apple Music,Credit Card,Savings,Payment,We appear small dream age kind success.
+T-269,2024-12-03 14:40:08.881401,1031.78,Rent/Mortgage,Landlord,Cash,Investment,Withdrawal,Range central type beautiful drop.
+T-546,2024-12-03 14:40:08.881401,103.88,Utilities,Electric Co,Credit Card,Investment,Deposit,Glass owner yet event feel return TV.
+T-334,2024-12-04 14:40:08.881401,222.03,Groceries,Costco,Credit Card,Savings,Payment,Consumer practice pay throughout stuff issue year.
+T-307,2024-12-04 14:40:08.881401,5.73,Entertainment,Netflix,Bank Transfer,Savings,Payment,How firm project enough system.
+T-458,2024-12-04 14:40:08.881401,5.0,Shopping,Mall Store,Debit Card,Investment,Deposit,Art wide third investment south physical.
+T-164,2024-12-04 14:40:08.881401,25.95,Dining,Starbucks,Mobile Payment,Investment,Deposit,Respond rock hotel teacher.
+T-907,2024-12-04 14:40:08.881401,3843.74,Other,Miscellaneous,Cash,Checking,Payment,Talk station technology section movie actually.
+T-911,2024-12-05 14:40:08.881401,8.54,Subscriptions,Amazon Prime,Debit Card,Savings,Transfer,Whom network for read research appear.
+T-849,2024-12-05 14:40:08.881401,188.8,Shopping,Target,Cash,Investment,Transfer,Site cultural tonight class section executive throw laugh.
+T-898,2024-12-05 14:40:08.881401,147.76,Shopping,Mall Store,Mobile Payment,Savings,Deposit,Chance hard social participant manage.
+T-983,2024-12-05 14:40:08.881401,65.57,Healthcare,Pharmacy,Debit Card,Savings,Transfer,Build present staff.
+T-871,2024-12-06 14:40:08.881401,1244.52,Travel,Airbnb,Mobile Payment,Investment,Payment,Price civil buy share Republican.
+T-296,2024-12-07 14:40:08.881401,77.1,Shopping,Mall Store,Debit Card,Savings,Payment,Lot growth democratic hospital.
+T-1069,2024-12-07 14:40:08.881401,29.69,Dining,McDonald's,Cash,Investment,Transfer,Despite state tough public.
+T-1125,2024-12-08 14:40:08.881401,18.81,Dining,Starbucks,Cash,Savings,Deposit,Attention sell share suffer.
+T-921,2024-12-08 14:40:08.881401,152.9,Shopping,Target,Cash,Savings,Deposit,Student carry sell best street wrong leg.
+T-1110,2024-12-08 14:40:08.881401,47.31,Groceries,Walmart,Credit Card,Savings,Deposit,Law plant avoid stay type ground bit.
+T-582,2024-12-09 14:40:08.881401,5.0,Dining,Starbucks,Bank Transfer,Investment,Transfer,Dream list gas discuss.
+T-387,2024-12-10 14:40:08.881401,44.54,Shopping,Best Buy,Cash,Investment,Deposit,Throw experience century.
+T-718,2024-12-10 14:40:08.881401,1582.68,Travel,Hilton,Bank Transfer,Savings,Payment,Cut simple he cultural Mr spend.
+T-142,2024-12-10 14:40:08.881401,8.03,Subscriptions,Apple Music,Debit Card,Savings,Transfer,Health interview when single every around.
+T-512,2024-12-10 14:40:08.881401,124.47,Utilities,Electric Co,Bank Transfer,Savings,Payment,Cup that audience could it campaign.
+T-625,2024-12-10 14:40:08.881401,199.26,Shopping,Best Buy,Cash,Checking,Transfer,Somebody run writer woman option.
+T-452,2024-12-10 14:40:08.881401,1208.65,Travel,Uber,Debit Card,Investment,Withdrawal,Item painting evening buy act.
+T-913,2024-12-10 14:40:08.881401,104.11,Healthcare,Dental Care,Mobile Payment,Investment,Payment,Customer attention long local activity cut.
+T-47,2024-12-10 14:40:08.881401,127.16,Shopping,Target,Bank Transfer,Investment,Transfer,Partner add dog personal small just maintain.
+T-268,2024-12-11 14:40:08.881401,203.81,Healthcare,Dental Care,Mobile Payment,Investment,Transfer,Will top I local leader leader.
+T-866,2024-12-11 14:40:08.881401,24.8,Dining,McDonald's,Credit Card,Investment,Transfer,Beautiful nothing newspaper particularly.
+T-858,2024-12-11 14:40:08.881401,36.92,Dining,Local Cafe,Debit Card,Checking,Deposit,Fire south sign officer material.
+T-1070,2024-12-12 14:40:08.881401,1739.79,Rent/Mortgage,Mortgage Bank,Credit Card,Investment,Withdrawal,Such live our speech recognize benefit hotel.
+T-4,2024-12-12 14:40:08.881401,50.21,Dining,Local Cafe,Bank Transfer,Savings,Withdrawal,Growth modern age part.
+T-1002,2024-12-12 14:40:08.881401,5.0,Dining,Local Cafe,Cash,Checking,Withdrawal,They him which major choose bit move art.
+T-75,2024-12-13 14:40:08.881401,5.0,Entertainment,Spotify,Cash,Investment,Payment,Item theory decision she central.
+T-15,2024-12-13 14:40:08.881401,5.0,Entertainment,Netflix,Mobile Payment,Savings,Deposit,Somebody through who drop Republican start.
+T-614,2024-12-13 14:40:08.881401,119.66,Travel,Delta,Debit Card,Checking,Transfer,Range use poor land responsibility personal.
+T-563,2024-12-13 14:40:08.881401,1488.72,Rent/Mortgage,Landlord,Cash,Investment,Transfer,Operation others want day somebody together.
+T-558,2024-12-13 14:40:08.881401,15.86,Entertainment,Concert Hall,Debit Card,Savings,Payment,Use enjoy east movement.
+T-338,2024-12-14 14:40:08.881401,154.71,Shopping,Amazon,Debit Card,Savings,Payment,Throughout fill prepare water.
+T-576,2024-12-14 14:40:08.881401,34.68,Healthcare,Dental Care,Credit Card,Checking,Transfer,Better attorney policy check deep resource role spend.
+T-342,2024-12-14 14:40:08.881401,1814.23,Rent/Mortgage,Landlord,Credit Card,Investment,Deposit,Not increase truth morning.
+T-1022,2024-12-14 14:40:08.881401,105.14,Groceries,Whole Foods,Credit Card,Investment,Withdrawal,Unit include around service green sometimes call candidate.
+T-633,2024-12-14 14:40:08.881401,153.44,Shopping,Mall Store,Cash,Investment,Withdrawal,Seven senior although off while anything.
+T-962,2024-12-14 14:40:08.881401,167.16,Healthcare,Clinic,Bank Transfer,Investment,Withdrawal,Certainly play if technology effort magazine.
+T-322,2024-12-15 14:40:08.881401,30.66,Dining,Starbucks,Bank Transfer,Checking,Withdrawal,Low TV pick military present our.
+T-327,2024-12-15 14:40:08.881401,76.41,Utilities,Electric Co,Debit Card,Investment,Withdrawal,Anything contain light sense.
+T-629,2024-12-16 14:40:08.881401,199.77,Travel,Hilton,Bank Transfer,Savings,Payment,Bit rest create like.
+T-40,2024-12-16 14:40:08.881401,5.0,Subscriptions,Amazon Prime,Debit Card,Checking,Payment,Fight war nearly heart.
+T-909,2024-12-16 14:40:08.881401,1153.96,Shopping,Target,Debit Card,Checking,Transfer,Rule eye different note other several analysis not.
+T-347,2024-12-16 14:40:08.881401,48.05,Utilities,Water Works,Debit Card,Savings,Withdrawal,Thousand own employee which brother.
+T-679,2024-12-17 14:40:08.881401,24.04,Entertainment,Concert Hall,Credit Card,Checking,Withdrawal,Computer walk forward.
+T-56,2024-12-17 14:40:08.881401,5.0,Shopping,Mall Store,Mobile Payment,Investment,Deposit,Environmental house special particular husband minute.
+T-5,2024-12-17 14:40:08.881401,5.0,Entertainment,Netflix,Cash,Investment,Payment,Firm change account total move nation official present.
+T-973,2024-12-17 14:40:08.881401,1761.84,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Payment,Teach six condition firm idea serve.
+T-404,2024-12-17 14:40:08.881401,37.16,Utilities,Electric Co,Credit Card,Investment,Withdrawal,All range sea wish quite civil himself spend.
+T-354,2024-12-17 14:40:08.881401,169.71,Healthcare,Clinic,Credit Card,Investment,Withdrawal,Near country near trade turn main deep center.
+T-562,2024-12-18 14:40:08.881401,10.64,Entertainment,Netflix,Cash,Savings,Withdrawal,Woman head talk wind.
+T-793,2024-12-18 14:40:08.881401,75.45,Travel,Hilton,Credit Card,Savings,Payment,Like black career message light cause.
+T-175,2024-12-19 14:40:08.881401,168.93,Healthcare,Pharmacy,Debit Card,Investment,Deposit,Character simply huge away support see community.
+T-182,2024-12-19 14:40:08.881401,12.78,Subscriptions,Amazon Prime,Debit Card,Checking,Withdrawal,Technology green but such near.
+T-416,2024-12-19 14:40:08.881401,116.04,Shopping,Mall Store,Bank Transfer,Checking,Payment,Cut scene party will career run by.
+T-825,2024-12-19 14:40:08.881401,26.76,Dining,Chipotle,Mobile Payment,Investment,Payment,Magazine federal off director.
+T-993,2024-12-19 14:40:08.881401,37.79,Dining,Starbucks,Cash,Checking,Payment,Next however consider but fear response.
+T-1148,2024-12-19 14:40:08.881401,117.41,Travel,Delta,Debit Card,Investment,Payment,Computer skin man laugh out benefit nature.
+T-1000,2024-12-20 14:40:08.881401,986.87,Travel,Airbnb,Mobile Payment,Checking,Payment,Recognize understand his bring.
+T-669,2024-12-21 14:40:08.881401,137.71,Healthcare,Pharmacy,Bank Transfer,Investment,Deposit,Protect effort light world sea.
+T-82,2024-12-21 14:40:08.881401,18.03,Entertainment,Netflix,Mobile Payment,Checking,Transfer,Support conference choose.
+T-1042,2024-12-21 14:40:08.881401,54.57,Travel,Hilton,Debit Card,Investment,Transfer,Idea million major soon sport receive happy.
+T-647,2024-12-22 14:40:08.881401,13.79,Dining,Local Cafe,Credit Card,Savings,Withdrawal,Also treatment much.
+T-355,2024-12-22 14:40:08.881401,5.09,Healthcare,Pharmacy,Debit Card,Savings,Withdrawal,Investment explain watch concern marriage.
+T-887,2024-12-22 14:40:08.881401,209.12,Shopping,Amazon,Credit Card,Savings,Transfer,So question spring go happen them follow.
+T-1134,2024-12-22 14:40:08.881401,29.54,Subscriptions,Amazon Prime,Cash,Investment,Withdrawal,Happen green agency best security race collection think.
+T-1091,2024-12-24 14:40:08.881401,171.7,Groceries,Whole Foods,Credit Card,Savings,Payment,Attention again station happy up list less.
+T-377,2024-12-24 14:40:08.881401,31.07,Dining,Local Cafe,Debit Card,Investment,Transfer,Activity camera several open cover down.
+T-221,2024-12-24 14:40:08.881401,181.74,Travel,Delta,Debit Card,Checking,Withdrawal,Provide carry tell woman opportunity sea figure.
+T-810,2024-12-25 14:40:08.881401,18.34,Travel,Hilton,Mobile Payment,Investment,Transfer,Hand admit staff structure.
+T-604,2024-12-25 14:40:08.881401,144.22,Utilities,Gas Utility,Debit Card,Checking,Withdrawal,Foot phone interview result.
+T-678,2024-12-25 14:40:08.881401,2767.99,Shopping,Best Buy,Mobile Payment,Checking,Deposit,Feeling again war animal.
+T-878,2024-12-25 14:40:08.881401,5.0,Entertainment,Netflix,Cash,Savings,Deposit,Suggest charge medical performance crime garden who.
+T-466,2024-12-26 14:40:08.881401,70.06,Utilities,Gas Utility,Credit Card,Investment,Deposit,Site summer staff card must.
+R-5,2024-12-26 14:40:08.881401,1300.1,Rent/Mortgage,Landlord,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-697,2024-12-27 14:40:08.881401,287.98,Shopping,Target,Bank Transfer,Checking,Withdrawal,Current language describe better forward group cause.
+T-751,2024-12-28 14:40:08.881401,11.73,Dining,Chipotle,Mobile Payment,Investment,Payment,Around notice operation operation spring man road.
+T-688,2024-12-28 14:40:08.881401,5.0,Groceries,Walmart,Cash,Savings,Transfer,Statement pull thank relate available south.
+T-139,2024-12-28 14:40:08.881401,1784.68,Rent/Mortgage,Mortgage Bank,Cash,Investment,Transfer,Purpose shake full film eat order.
+S-Amazon Prime-5,2024-12-28 14:40:08.881401,35.1,Subscriptions,Amazon Prime,Credit Card,Checking,Payment,Monthly subscription: Amazon Prime
+T-652,2024-12-29 14:40:08.881401,30.88,Entertainment,Spotify,Bank Transfer,Checking,Withdrawal,Group hundred deep end land administration.
+T-605,2024-12-29 14:40:08.881401,1159.51,Rent/Mortgage,Mortgage Bank,Credit Card,Investment,Deposit,Trade surface peace agent mouth at change leave.
+T-552,2024-12-29 14:40:08.881401,162.15,Healthcare,Dental Care,Credit Card,Checking,Transfer,Toward work check program enter attorney your purpose.
+T-224,2024-12-29 14:40:08.881401,27.18,Dining,Local Cafe,Cash,Investment,Withdrawal,Several southern last full government bag trade push.
+T-578,2024-12-30 14:40:08.881401,10.49,Healthcare,Clinic,Credit Card,Savings,Withdrawal,Player agree goal common market avoid modern.
+S-Netflix-5,2024-12-30 14:40:08.881401,8.0,Subscriptions,Netflix,Debit Card,Checking,Payment,Monthly subscription: Netflix
+T-692,2024-12-30 14:40:08.881401,124.02,Healthcare,Clinic,Debit Card,Checking,Transfer,Doctor either score fill.
+T-806,2024-12-30 14:40:08.881401,176.6,Shopping,Target,Mobile Payment,Savings,Deposit,Forget she certain believe authority growth tough.
+T-857,2024-12-30 14:40:08.881401,6.85,Entertainment,Concert Hall,Cash,Savings,Withdrawal,Media open want affect do.
+T-745,2024-12-30 14:40:08.881401,239.84,Shopping,Target,Bank Transfer,Investment,Deposit,Other plan ever certain.
+T-936,2024-12-31 14:40:08.881401,175.76,Shopping,Amazon,Cash,Checking,Deposit,Employee about mind keep heart speak long same.
+T-107,2024-12-31 14:40:08.881401,23.76,Dining,McDonald's,Debit Card,Checking,Deposit,Which suddenly should yourself gun house Mr.
+T-527,2024-12-31 14:40:08.881401,128.69,Shopping,Mall Store,Bank Transfer,Savings,Transfer,Picture model push baby yes less five.
+T-189,2024-12-31 14:40:08.881401,140.98,Shopping,Mall Store,Credit Card,Investment,Withdrawal,Two attack employee glass.
+S-Gym Membership-5,2024-12-31 14:40:08.881401,23.26,Subscriptions,Gym Membership,Bank Transfer,Checking,Payment,Monthly subscription: Gym Membership
+T-729,2024-12-31 14:40:08.881401,254.96,Travel,Airbnb,Cash,Savings,Deposit,End court hold difference station air understand sit.
+T-655,2025-01-01 14:40:08.881401,5.0,Travel,Airbnb,Mobile Payment,Savings,Withdrawal,Still seven spend night.
+T-786,2025-01-01 14:40:08.881401,126.75,Utilities,Electric Co,Bank Transfer,Checking,Deposit,Kind federal significant song camera cultural.
+T-1057,2025-01-02 14:40:08.881401,23.33,Dining,McDonald's,Bank Transfer,Checking,Deposit,Share student talk clear particularly trial.
+T-956,2025-01-02 14:40:08.881401,120.04,Other,Miscellaneous,Mobile Payment,Investment,Withdrawal,Clearly third will others others bank concern.
+T-408,2025-01-02 14:40:08.881401,124.49,Shopping,Amazon,Mobile Payment,Checking,Payment,Week out thus likely partner rest vote.
+T-157,2025-01-02 14:40:08.881401,110.11,Healthcare,Dental Care,Credit Card,Checking,Transfer,Standard drive real realize sea writer team.
+T-1100,2025-01-02 14:40:08.881401,13.96,Subscriptions,Apple Music,Credit Card,Checking,Withdrawal,Theory middle inside position.
+T-587,2025-01-02 14:40:08.881401,16.79,Entertainment,Netflix,Bank Transfer,Investment,Transfer,Service no prove data party little.
+T-687,2025-01-02 14:40:08.881401,5.0,Healthcare,Pharmacy,Bank Transfer,Investment,Deposit,Population want serve international modern important.
+T-590,2025-01-02 14:40:08.881401,5.0,Entertainment,Spotify,Debit Card,Investment,Withdrawal,Party this few edge style report health feeling.
+T-64,2025-01-03 14:40:08.881401,33.89,Subscriptions,Gym Membership,Credit Card,Savings,Withdrawal,Yet term rise mission view stuff miss suffer.
+T-657,2025-01-03 14:40:08.881401,81.69,Shopping,Best Buy,Bank Transfer,Investment,Transfer,Smile community play.
+T-284,2025-01-04 14:40:08.881401,96.97,Healthcare,Pharmacy,Cash,Investment,Deposit,Style go business himself wife ask work improve.
+T-53,2025-01-05 14:40:08.881401,2838.98,Other,Miscellaneous,Cash,Savings,Deposit,Yes spring firm nothing hope travel.
+T-827,2025-01-05 14:40:08.881401,154.9,Utilities,Electric Co,Debit Card,Savings,Payment,Manager specific foreign four worry I first.
+T-271,2025-01-05 14:40:08.881401,24.75,Shopping,Best Buy,Credit Card,Investment,Payment,Key policy fill possible event bill pull test.
+T-210,2025-01-05 14:40:08.881401,123.75,Groceries,Walmart,Bank Transfer,Investment,Transfer,Network stock face usually.
+T-574,2025-01-05 14:40:08.881401,9.18,Entertainment,Spotify,Bank Transfer,Savings,Payment,Well recent white yet whose material.
+T-193,2025-01-05 14:40:08.881401,39.56,Dining,Starbucks,Cash,Savings,Payment,Everybody stock detail ready like talk those must.
+T-573,2025-01-06 14:40:08.881401,10.72,Dining,Starbucks,Debit Card,Savings,Transfer,Thank prevent follow perhaps box station dark.
+T-1106,2025-01-06 14:40:08.881401,200.74,Healthcare,Clinic,Cash,Savings,Withdrawal,Never major water more believe history cut.
+T-421,2025-01-06 14:40:08.881401,79.57,Travel,Delta,Bank Transfer,Savings,Deposit,Occur store especially money born.
+T-370,2025-01-06 14:40:08.881401,21.4,Dining,Starbucks,Cash,Investment,Deposit,Soon reduce represent.
+T-537,2025-01-07 14:40:08.881401,2825.42,Travel,Uber,Debit Card,Savings,Payment,Subject knowledge concern call week lose this.
+T-57,2025-01-07 14:40:08.881401,30.07,Dining,Local Cafe,Bank Transfer,Savings,Payment,Move company fish collection.
+T-1056,2025-01-07 14:40:08.881401,203.16,Shopping,Target,Cash,Investment,Transfer,Modern region war I sit.
+T-297,2025-01-07 14:40:08.881401,5.0,Subscriptions,Amazon Prime,Cash,Checking,Transfer,Add safe contain boy bag treatment.
+T-415,2025-01-07 14:40:08.881401,1319.14,Rent/Mortgage,Mortgage Bank,Debit Card,Savings,Deposit,Computer reach conference food bank knowledge contain.
+T-185,2025-01-07 14:40:08.881401,1563.26,Rent/Mortgage,Landlord,Mobile Payment,Checking,Deposit,Window century film situation recently.
+T-809,2025-01-08 14:40:08.881401,29.32,Groceries,Whole Foods,Bank Transfer,Investment,Transfer,Despite either discover property instead.
+T-1031,2025-01-08 14:40:08.881401,101.35,Shopping,Target,Debit Card,Savings,Deposit,Argue situation involve too food.
+T-293,2025-01-08 14:40:08.881401,144.4,Utilities,Gas Utility,Bank Transfer,Savings,Deposit,May also possible difficult use anything factor on.
+T-712,2025-01-09 14:40:08.881401,19.32,Dining,Chipotle,Mobile Payment,Checking,Transfer,I attorney final six heart require nearly.
+T-1053,2025-01-10 14:40:08.881401,25.48,Dining,McDonald's,Bank Transfer,Checking,Withdrawal,Tree everyone near bring or certain.
+T-616,2025-01-10 14:40:08.881401,21.96,Dining,Chipotle,Credit Card,Checking,Deposit,Check bad someone as.
+T-151,2025-01-11 14:40:08.881401,46.4,Healthcare,Dental Care,Mobile Payment,Savings,Withdrawal,Listen knowledge all.
+T-876,2025-01-11 14:40:08.881401,19.32,Subscriptions,Gym Membership,Cash,Savings,Payment,Author look hold blue.
+T-20,2025-01-11 14:40:08.881401,33.7,Subscriptions,Amazon Prime,Bank Transfer,Investment,Payment,Technology image health practice stay certainly probably.
+T-321,2025-01-12 14:40:08.881401,18.5,Subscriptions,Apple Music,Cash,Checking,Withdrawal,Science cultural least show draw game model.
+T-1099,2025-01-12 14:40:08.881401,14.62,Entertainment,AMC Theatres,Cash,Investment,Withdrawal,Over open think before season tax significant.
+T-357,2025-01-12 14:40:08.881401,123.4,Shopping,Mall Store,Credit Card,Checking,Payment,Officer year deep money.
+T-474,2025-01-12 14:40:08.881401,162.51,Travel,Uber,Bank Transfer,Investment,Deposit,Particularly perform watch bit first.
+T-805,2025-01-13 14:40:08.881401,10.86,Entertainment,AMC Theatres,Mobile Payment,Checking,Transfer,Pay class risk best.
+T-459,2025-01-13 14:40:08.881401,34.91,Groceries,Trader Joe's,Credit Card,Savings,Deposit,Dream real try better take important treatment situation.
+T-374,2025-01-13 14:40:08.881401,3061.37,Other,Miscellaneous,Credit Card,Savings,Payment,Drop prepare various husband decide exactly condition.
+T-518,2025-01-13 14:40:08.881401,160.08,Healthcare,Clinic,Mobile Payment,Savings,Transfer,Lay unit collection drug land impact likely.
+T-695,2025-01-14 14:40:08.881401,220.64,Travel,Uber,Cash,Checking,Payment,Scene network grow water how.
+T-184,2025-01-14 14:40:08.881401,5.0,Travel,Delta,Cash,Investment,Withdrawal,Middle we difference.
+T-594,2025-01-14 14:40:08.881401,5.0,Travel,Airbnb,Bank Transfer,Investment,Withdrawal,Change building mission technology.
+T-752,2025-01-14 14:40:08.881401,202.55,Shopping,Mall Store,Cash,Investment,Payment,Son everything kind the.
+T-305,2025-01-14 14:40:08.881401,78.06,Groceries,Trader Joe's,Credit Card,Investment,Transfer,Even dream crime need.
+T-597,2025-01-14 14:40:08.881401,18.45,Entertainment,Netflix,Mobile Payment,Savings,Deposit,Program pick ok marriage move but.
+T-814,2025-01-14 14:40:08.881401,19.61,Entertainment,Spotify,Credit Card,Checking,Deposit,Remember subject space understand say very ever.
+T-904,2025-01-14 14:40:08.881401,31.27,Entertainment,Concert Hall,Bank Transfer,Checking,Deposit,Resource level shake look human then central.
+T-835,2025-01-15 14:40:08.881401,112.76,Groceries,Whole Foods,Credit Card,Checking,Transfer,Job yard because Mr.
+T-229,2025-01-15 14:40:08.881401,194.6,Utilities,Gas Utility,Cash,Savings,Deposit,Project cost computer official week person morning true.
+T-11,2025-01-15 14:40:08.881401,4398.46,Other,Miscellaneous,Bank Transfer,Investment,Deposit,Film clear mother also itself attention.
+T-116,2025-01-15 14:40:08.881401,4325.81,Other,Miscellaneous,Mobile Payment,Savings,Transfer,Town actually blue partner moment explain five.
+T-513,2025-01-15 14:40:08.881401,75.98,Healthcare,Pharmacy,Credit Card,Investment,Withdrawal,City rate science total.
+T-258,2025-01-15 14:40:08.881401,66.35,Travel,Uber,Credit Card,Savings,Transfer,Ten another technology main sense.
+T-79,2025-01-16 14:40:08.881401,223.81,Travel,Uber,Cash,Investment,Withdrawal,Agreement Democrat offer not country.
+T-160,2025-01-16 14:40:08.881401,1900.91,Rent/Mortgage,Landlord,Credit Card,Checking,Transfer,Second realize choose two total.
+T-1118,2025-01-16 14:40:08.881401,36.52,Subscriptions,Gym Membership,Mobile Payment,Investment,Transfer,Me pass weight offer.
+T-1006,2025-01-16 14:40:08.881401,30.41,Dining,Local Cafe,Debit Card,Savings,Payment,Young growth small may good usually care develop.
+T-365,2025-01-16 14:40:08.881401,19.17,Entertainment,Concert Hall,Mobile Payment,Checking,Deposit,Herself pick end newspaper air very go.
+T-893,2025-01-17 14:40:08.881401,799.99,Rent/Mortgage,Landlord,Mobile Payment,Investment,Payment,Your simply with huge interview speak.
+T-1131,2025-01-17 14:40:08.881401,70.74,Shopping,Target,Credit Card,Investment,Transfer,Way address bring mission point with.
+T-938,2025-01-17 14:40:08.881401,17.41,Entertainment,Netflix,Debit Card,Savings,Withdrawal,Check strategy student technology whom training.
+T-34,2025-01-17 14:40:08.881401,134.99,Healthcare,Clinic,Credit Card,Savings,Withdrawal,Rock customer white probably political enjoy require.
+T-255,2025-01-18 14:40:08.881401,27.26,Subscriptions,Gym Membership,Bank Transfer,Checking,Transfer,Gas baby later actually.
+T-119,2025-01-18 14:40:08.881401,10.6,Entertainment,AMC Theatres,Mobile Payment,Savings,Transfer,Sell force reason decide.
+T-648,2025-01-18 14:40:08.881401,84.29,Healthcare,Clinic,Credit Card,Investment,Deposit,Administration shake operation term.
+T-41,2025-01-18 14:40:08.881401,7.2,Subscriptions,Amazon Prime,Cash,Savings,Payment,Item whatever same collection.
+T-43,2025-01-18 14:40:08.881401,23.38,Entertainment,Netflix,Debit Card,Investment,Deposit,Pick difficult check involve store low sell.
+T-299,2025-01-19 14:40:08.881401,1402.85,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Deposit,As smile else energy or quite.
+T-1088,2025-01-19 14:40:08.881401,15.22,Subscriptions,Amazon Prime,Credit Card,Investment,Withdrawal,Age there rather wife number air.
+T-429,2025-01-19 14:40:08.881401,98.79,Groceries,Costco,Credit Card,Savings,Payment,Difficult control window goal direction guess.
+T-1059,2025-01-20 14:40:08.881401,144.5,Groceries,Costco,Mobile Payment,Savings,Deposit,Other skin beautiful evening skill manage hundred.
+T-291,2025-01-20 14:40:08.881401,302.64,Shopping,Target,Debit Card,Savings,Payment,Art development candidate nice short get behavior local.
+T-93,2025-01-20 14:40:08.881401,127.06,Utilities,Gas Utility,Debit Card,Checking,Withdrawal,Sit growth spend four.
+T-775,2025-01-20 14:40:08.881401,1798.06,Rent/Mortgage,Landlord,Cash,Checking,Deposit,Behavior quite building apply wait.
+T-572,2025-01-21 14:40:08.881401,85.98,Travel,Hilton,Mobile Payment,Investment,Deposit,Explain factor animal sell world table middle reflect.
+T-359,2025-01-21 14:40:08.881401,175.9,Travel,Airbnb,Cash,Checking,Transfer,Spend return system however face.
+T-446,2025-01-21 14:40:08.881401,1974.41,Other,Miscellaneous,Bank Transfer,Investment,Payment,Peace decade drive.
+T-894,2025-01-21 14:40:08.881401,41.27,Entertainment,Concert Hall,Debit Card,Investment,Transfer,Tax idea economic factor matter here lead.
+T-612,2025-01-22 14:40:08.881401,117.44,Healthcare,Pharmacy,Credit Card,Savings,Deposit,Whatever medical go pay.
+T-659,2025-01-22 14:40:08.881401,90.37,Utilities,Gas Utility,Debit Card,Savings,Payment,Summer field different trouble.
+T-690,2025-01-23 14:40:08.881401,125.13,Utilities,Gas Utility,Cash,Savings,Deposit,Tree science day town room.
+T-579,2025-01-23 14:40:08.881401,27.66,Subscriptions,Gym Membership,Bank Transfer,Investment,Transfer,Help small clearly training increase.
+T-725,2025-01-23 14:40:08.881401,1664.81,Rent/Mortgage,Mortgage Bank,Credit Card,Checking,Transfer,Owner drug city treat simply else question.
+T-756,2025-01-24 14:40:08.881401,15.94,Subscriptions,Amazon Prime,Cash,Investment,Payment,It near matter read.
+T-1080,2025-01-24 14:40:08.881401,139.33,Groceries,Trader Joe's,Credit Card,Investment,Transfer,Amount southern instead cell seven student.
+T-733,2025-01-25 14:40:08.881401,3993.61,Other,Miscellaneous,Mobile Payment,Investment,Withdrawal,Fact avoid job old cell less single minute.
+R-6,2025-01-25 14:40:08.881401,1453.14,Rent/Mortgage,Landlord,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-1145,2025-01-25 14:40:08.881401,40.58,Dining,Starbucks,Bank Transfer,Savings,Deposit,Approach save environmental traditional.
+T-194,2025-01-25 14:40:08.881401,189.39,Shopping,Target,Bank Transfer,Savings,Deposit,A everybody among whether mention.
+T-206,2025-01-25 14:40:08.881401,2234.36,Rent/Mortgage,Mortgage Bank,Mobile Payment,Checking,Transfer,Work machine Mr less.
+T-101,2025-01-26 14:40:08.881401,31.05,Dining,Starbucks,Bank Transfer,Checking,Withdrawal,Toward year kid officer raise crime.
+T-855,2025-01-26 14:40:08.881401,110.02,Healthcare,Clinic,Mobile Payment,Checking,Withdrawal,Walk from get employee debate sport.
+T-853,2025-01-26 14:40:08.881401,176.15,Healthcare,Pharmacy,Credit Card,Savings,Deposit,Save ahead Democrat impact yes.
+T-561,2025-01-27 14:40:08.881401,35.68,Entertainment,Netflix,Cash,Checking,Transfer,Book figure citizen.
+T-252,2025-01-27 14:40:08.881401,90.74,Healthcare,Dental Care,Mobile Payment,Savings,Deposit,Close me role hold this own teacher home.
+T-623,2025-01-27 14:40:08.881401,110.94,Utilities,Electric Co,Credit Card,Investment,Payment,Miss free serious affect dark wife.
+T-272,2025-01-27 14:40:08.881401,98.58,Groceries,Whole Foods,Credit Card,Savings,Transfer,Later turn land quickly economic.
+S-Amazon Prime-6,2025-01-27 14:40:08.881401,14.15,Subscriptions,Amazon Prime,Mobile Payment,Checking,Payment,Monthly subscription: Amazon Prime
+T-1096,2025-01-27 14:40:08.881401,79.41,Utilities,Water Works,Debit Card,Checking,Transfer,Me million push east item customer radio.
+T-683,2025-01-28 14:40:08.881401,1488.08,Rent/Mortgage,Mortgage Bank,Credit Card,Checking,Transfer,How defense something.
+T-618,2025-01-29 14:40:08.881401,100.37,Travel,Delta,Mobile Payment,Investment,Transfer,Design chance pull whom a language staff.
+T-197,2025-01-29 14:40:08.881401,5.0,Entertainment,Netflix,Bank Transfer,Savings,Deposit,Card evening health challenge course news board class.
+T-447,2025-01-29 14:40:08.881401,22.95,Entertainment,Concert Hall,Mobile Payment,Savings,Withdrawal,Indicate plant budget brother from.
+S-Netflix-6,2025-01-29 14:40:08.881401,16.84,Subscriptions,Netflix,Cash,Checking,Payment,Monthly subscription: Netflix
+T-767,2025-01-29 14:40:08.881401,5.0,Entertainment,Spotify,Debit Card,Savings,Transfer,Black energy meet impact organization glass ground.
+T-682,2025-01-30 14:40:08.881401,101.54,Shopping,Mall Store,Cash,Checking,Payment,Officer sign plant of wide without.
+S-Gym Membership-6,2025-01-30 14:40:08.881401,3.29,Subscriptions,Gym Membership,Debit Card,Checking,Payment,Monthly subscription: Gym Membership
+T-496,2025-01-30 14:40:08.881401,91.76,Healthcare,Dental Care,Cash,Savings,Withdrawal,Bag record nation threat.
+T-1032,2025-01-30 14:40:08.881401,31.31,Dining,Local Cafe,Bank Transfer,Checking,Withdrawal,Bill price six mother protect media huge.
+T-749,2025-01-30 14:40:08.881401,10.82,Subscriptions,Amazon Prime,Mobile Payment,Checking,Payment,Every event compare husband.
+T-162,2025-01-30 14:40:08.881401,5.47,Groceries,Trader Joe's,Bank Transfer,Investment,Deposit,Avoid play face check few every agreement.
+T-422,2025-01-31 14:40:08.881401,20.05,Dining,McDonald's,Mobile Payment,Checking,Withdrawal,Real major room impact experience.
+T-1136,2025-01-31 14:40:08.881401,5.0,Subscriptions,Apple Music,Credit Card,Checking,Withdrawal,Office floor image four.
+T-766,2025-02-01 14:40:08.881401,57.68,Shopping,Amazon,Cash,Investment,Deposit,Poor think individual black specific young.
+T-2,2025-02-01 14:40:08.881401,91.07,Travel,Airbnb,Bank Transfer,Savings,Transfer,Ball difficult summer study already occur.
+T-1044,2025-02-01 14:40:08.881401,292.91,Travel,Uber,Bank Transfer,Savings,Withdrawal,Father ok because hit exactly join data.
+T-159,2025-02-02 14:40:08.881401,27.91,Subscriptions,Apple Music,Credit Card,Savings,Deposit,Decision per pass popular almost example.
+T-49,2025-02-02 14:40:08.881401,145.07,Utilities,Water Works,Cash,Savings,Withdrawal,Election level news western director nearly behind.
+T-676,2025-02-02 14:40:08.881401,126.61,Groceries,Trader Joe's,Debit Card,Investment,Withdrawal,Perform last expect exist none.
+T-153,2025-02-03 14:40:08.881401,3490.77,Other,Miscellaneous,Bank Transfer,Savings,Payment,Apply feeling evidence major.
+T-38,2025-02-04 14:40:08.881401,339.88,Other,Miscellaneous,Mobile Payment,Checking,Transfer,Early service about.
+T-253,2025-02-04 14:40:08.881401,11.62,Entertainment,Concert Hall,Cash,Investment,Transfer,Crime want point food.
+T-593,2025-02-04 14:40:08.881401,42.32,Groceries,Costco,Debit Card,Investment,Payment,This suffer happy maybe able give also hot.
+T-188,2025-02-05 14:40:08.881401,116.61,Utilities,Water Works,Mobile Payment,Checking,Transfer,Out manage simple majority size this beyond prevent.
+T-135,2025-02-05 14:40:08.881401,29.38,Subscriptions,Apple Music,Credit Card,Savings,Deposit,Suddenly eye future second very mean.
+T-127,2025-02-05 14:40:08.881401,17.74,Groceries,Costco,Credit Card,Checking,Transfer,If eight sell simply appear trade.
+T-555,2025-02-05 14:40:08.881401,107.04,Healthcare,Clinic,Cash,Checking,Transfer,Pressure listen billion deep challenge former fill.
+T-256,2025-02-06 14:40:08.881401,132.01,Healthcare,Clinic,Credit Card,Investment,Deposit,Tree add anyone.
+T-237,2025-02-06 14:40:08.881401,45.34,Shopping,Target,Mobile Payment,Checking,Withdrawal,Cold customer process first.
+T-915,2025-02-06 14:40:08.881401,82.19,Healthcare,Pharmacy,Debit Card,Savings,Transfer,Animal house state national compare design.
+T-812,2025-02-07 14:40:08.881401,5.0,Dining,McDonald's,Credit Card,Checking,Deposit,Society hair particular top wide task miss win.
+T-208,2025-02-08 14:40:08.881401,7.01,Entertainment,Concert Hall,Debit Card,Checking,Transfer,See so list.
+T-638,2025-02-08 14:40:08.881401,103.35,Healthcare,Clinic,Debit Card,Investment,Deposit,Share matter car seem.
+T-343,2025-02-08 14:40:08.881401,1301.45,Rent/Mortgage,Landlord,Cash,Investment,Payment,Common cup hot gun answer.
+T-799,2025-02-08 14:40:08.881401,21.06,Travel,Hilton,Debit Card,Investment,Transfer,Capital energy true wish election.
+T-759,2025-02-08 14:40:08.881401,71.12,Healthcare,Dental Care,Cash,Savings,Transfer,Crime maybe alone.
+T-264,2025-02-09 14:40:08.881401,14.4,Entertainment,Spotify,Credit Card,Investment,Deposit,Media role event feel.
+T-768,2025-02-09 14:40:08.881401,75.06,Utilities,Electric Co,Mobile Payment,Savings,Withdrawal,Beyond effort game agent car.
+T-1016,2025-02-09 14:40:08.881401,22.96,Dining,Chipotle,Cash,Investment,Deposit,Then response stuff tax race.
+T-295,2025-02-09 14:40:08.881401,186.79,Travel,Airbnb,Mobile Payment,Checking,Payment,Box edge financial necessary simple similar.
+T-174,2025-02-09 14:40:08.881401,5.0,Entertainment,Concert Hall,Mobile Payment,Savings,Deposit,What billion real interesting sure voice collection.
+T-149,2025-02-10 14:40:08.881401,8.6,Entertainment,AMC Theatres,Credit Card,Checking,Payment,That show live wrong painting.
+T-94,2025-02-10 14:40:08.881401,121.67,Groceries,Whole Foods,Cash,Checking,Transfer,Student meet improve fight type industry sense there.
+T-301,2025-02-10 14:40:08.881401,28.55,Shopping,Best Buy,Debit Card,Savings,Payment,Reality teacher stuff subject bar matter.
+T-393,2025-02-11 14:40:08.881401,2613.87,Other,Miscellaneous,Cash,Checking,Payment,Home only every buy understand service.
+T-743,2025-02-11 14:40:08.881401,3984.03,Other,Miscellaneous,Bank Transfer,Investment,Deposit,Determine many sound coach business line.
+T-360,2025-02-12 14:40:08.881401,125.1,Utilities,Water Works,Bank Transfer,Savings,Deposit,Study direction surface media then.
+T-560,2025-02-12 14:40:08.881401,130.86,Healthcare,Dental Care,Mobile Payment,Investment,Transfer,Science certain surface realize.
+T-1026,2025-02-13 14:40:08.881401,5.0,Entertainment,Netflix,Mobile Payment,Savings,Payment,Total blood phone age conference thing pretty detail.
+T-1029,2025-02-13 14:40:08.881401,32.08,Dining,Chipotle,Debit Card,Savings,Withdrawal,Suddenly dream environment while.
+T-1075,2025-02-14 14:40:08.881401,5.0,Entertainment,Spotify,Debit Card,Savings,Payment,Commercial difficult present above agree television kitchen.
+T-642,2025-02-15 14:40:08.881401,3482.96,Other,Miscellaneous,Cash,Checking,Transfer,Guy bad rise message shoulder.
+T-643,2025-02-15 14:40:08.881401,1837.58,Rent/Mortgage,Mortgage Bank,Credit Card,Investment,Withdrawal,In start heavy interview partner.
+T-117,2025-02-15 14:40:08.881401,117.73,Utilities,Electric Co,Credit Card,Checking,Payment,Minute support black production rest page.
+T-785,2025-02-16 14:40:08.881401,76.97,Healthcare,Clinic,Mobile Payment,Savings,Deposit,Against treatment once late another open.
+T-99,2025-02-16 14:40:08.881401,187.93,Travel,Delta,Debit Card,Investment,Payment,Heavy site hit front development difference.
+T-644,2025-02-17 14:40:08.881401,24.18,Entertainment,Netflix,Debit Card,Savings,Payment,Third seat especially performance painting music way TV.
+T-215,2025-02-17 14:40:08.881401,7.95,Subscriptions,Gym Membership,Cash,Checking,Payment,Ten yes least job identify.
+T-364,2025-02-17 14:40:08.881401,64.09,Groceries,Whole Foods,Credit Card,Checking,Payment,Woman truth woman lead.
+T-482,2025-02-17 14:40:08.881401,5.31,Entertainment,Concert Hall,Cash,Investment,Payment,Style let care station today fish.
+T-273,2025-02-18 14:40:08.881401,1322.6,Travel,Hilton,Mobile Payment,Investment,Transfer,Among artist nor physical together statement agency.
+T-398,2025-02-18 14:40:08.881401,1236.97,Other,Miscellaneous,Mobile Payment,Savings,Payment,Follow else accept three four especially.
+T-1138,2025-02-18 14:40:08.881401,1413.63,Rent/Mortgage,Landlord,Cash,Checking,Withdrawal,Break order strategy official.
+T-670,2025-02-19 14:40:08.881401,177.34,Travel,Hilton,Mobile Payment,Checking,Deposit,Couple continue job.
+T-503,2025-02-19 14:40:08.881401,131.34,Utilities,Gas Utility,Credit Card,Checking,Transfer,Beat drive tax current official stock where.
+T-711,2025-02-19 14:40:08.881401,57.97,Groceries,Walmart,Bank Transfer,Investment,Deposit,Feel protect join citizen.
+T-645,2025-02-19 14:40:08.881401,1037.7,Travel,Hilton,Debit Card,Investment,Withdrawal,Relationship way build.
+T-249,2025-02-20 14:40:08.881401,86.26,Groceries,Costco,Cash,Savings,Deposit,Health mouth pressure goal.
+T-977,2025-02-20 14:40:08.881401,5.0,Dining,Starbucks,Bank Transfer,Savings,Transfer,Have thing mother forward individual owner safe.
+T-591,2025-02-20 14:40:08.881401,104.33,Utilities,Gas Utility,Credit Card,Savings,Transfer,Here leave account drive human away.
+T-424,2025-02-21 14:40:08.881401,1969.85,Rent/Mortgage,Mortgage Bank,Debit Card,Investment,Deposit,Pull answer bed machine anyone.
+T-375,2025-02-21 14:40:08.881401,33.93,Dining,McDonald's,Debit Card,Checking,Withdrawal,Why become continue difficult artist room focus.
+T-890,2025-02-22 14:40:08.881401,145.89,Utilities,Water Works,Debit Card,Checking,Transfer,Really reflect happen.
+T-103,2025-02-23 14:40:08.881401,1756.01,Rent/Mortgage,Landlord,Bank Transfer,Savings,Deposit,Although production new talk author south.
+T-413,2025-02-23 14:40:08.881401,90.24,Travel,Delta,Debit Card,Checking,Transfer,Smile evidence financial religious various despite character.
+T-824,2025-02-23 14:40:08.881401,54.44,Shopping,Mall Store,Bank Transfer,Savings,Deposit,Administration any support feeling.
+T-520,2025-02-23 14:40:08.881401,52.99,Groceries,Costco,Bank Transfer,Investment,Payment,You purpose top center entire a Mrs.
+T-114,2025-02-23 14:40:08.881401,29.18,Shopping,Target,Bank Transfer,Checking,Deposit,Left official ground sit important practice.
+T-437,2025-02-24 14:40:08.881401,89.15,Groceries,Trader Joe's,Cash,Checking,Deposit,Central either face record Republican.
+T-999,2025-02-24 14:40:08.881401,3253.8,Other,Miscellaneous,Bank Transfer,Checking,Deposit,Real like itself.
+T-289,2025-02-24 14:40:08.881401,2584.4,Other,Miscellaneous,Credit Card,Investment,Deposit,Recent again most network safe.
+T-689,2025-02-24 14:40:08.881401,177.34,Shopping,Amazon,Cash,Checking,Withdrawal,Specific individual wind law blood only.
+S-Amazon Prime-7,2025-02-24 14:40:08.881401,23.02,Subscriptions,Amazon Prime,Debit Card,Checking,Payment,Monthly subscription: Amazon Prime
+R-7,2025-02-24 14:40:08.881401,1700.73,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-309,2025-02-24 14:40:08.881401,94.94,Travel,Hilton,Bank Transfer,Investment,Transfer,North loss lay father article machine happy cultural.
+T-410,2025-02-25 14:40:08.881401,9.85,Entertainment,Spotify,Credit Card,Investment,Withdrawal,Card two usually moment.
+S-Netflix-7,2025-02-25 14:40:08.881401,15.33,Subscriptions,Netflix,Debit Card,Checking,Payment,Monthly subscription: Netflix
+T-311,2025-02-25 14:40:08.881401,5.0,Entertainment,Netflix,Bank Transfer,Investment,Deposit,Represent church focus hot service human perform city.
+T-23,2025-02-25 14:40:08.881401,5.0,Subscriptions,Gym Membership,Bank Transfer,Investment,Payment,College worry impact goal above hot fact.
+T-67,2025-02-25 14:40:08.881401,69.05,Shopping,Target,Debit Card,Savings,Deposit,Service able what include simple hair stage own.
+T-603,2025-02-26 14:40:08.881401,35.09,Healthcare,Clinic,Debit Card,Investment,Transfer,Suffer mean behavior talk establish image.
+T-48,2025-02-26 14:40:08.881401,20.93,Subscriptions,Amazon Prime,Bank Transfer,Investment,Deposit,Art out poor military these western.
+T-506,2025-02-26 14:40:08.881401,5.0,Shopping,Best Buy,Credit Card,Investment,Withdrawal,Increase sit enter every other assume.
+T-929,2025-02-27 14:40:08.881401,1948.16,Rent/Mortgage,Mortgage Bank,Bank Transfer,Investment,Transfer,Close everyone central interesting us.
+T-230,2025-02-27 14:40:08.881401,89.45,Shopping,Best Buy,Credit Card,Checking,Deposit,Marriage play never official newspaper.
+T-1048,2025-02-27 14:40:08.881401,23.27,Subscriptions,Gym Membership,Mobile Payment,Savings,Transfer,Writer question future better base increase just.
+T-1107,2025-02-28 14:40:08.881401,4735.98,Other,Miscellaneous,Mobile Payment,Investment,Deposit,North small some scene win prepare.
+T-28,2025-02-28 14:40:08.881401,154.44,Shopping,Mall Store,Debit Card,Checking,Deposit,Forward something main.
+T-1012,2025-02-28 14:40:08.881401,136.69,Travel,Airbnb,Cash,Checking,Transfer,Charge firm such ahead before time fire.
+T-773,2025-02-28 14:40:08.881401,1260.17,Other,Miscellaneous,Debit Card,Savings,Deposit,Answer yard foreign suddenly house interesting.
+S-Gym Membership-7,2025-03-01 14:40:08.881401,9.71,Subscriptions,Gym Membership,Mobile Payment,Checking,Payment,Monthly subscription: Gym Membership
+T-121,2025-03-01 14:40:08.881401,116.28,Groceries,Costco,Cash,Investment,Withdrawal,Work Congress near Mr cultural.
+T-63,2025-03-01 14:40:08.881401,220.6,Shopping,Amazon,Mobile Payment,Checking,Payment,Line food reduce great.
+T-694,2025-03-02 14:40:08.881401,13.83,Entertainment,AMC Theatres,Debit Card,Investment,Transfer,Million picture right machine that artist phone eight.
+T-340,2025-03-03 14:40:08.881401,58.76,Healthcare,Pharmacy,Credit Card,Investment,Payment,Think word situation today there cultural.
+T-891,2025-03-03 14:40:08.881401,26.93,Entertainment,Netflix,Mobile Payment,Investment,Deposit,Turn window happen national wonder.
+T-965,2025-03-04 14:40:08.881401,132.96,Groceries,Whole Foods,Bank Transfer,Checking,Withdrawal,Great better political detail.
+T-202,2025-03-05 14:40:08.881401,15.14,Entertainment,Netflix,Cash,Checking,Deposit,Floor soldier sit fire painting.
+T-979,2025-03-05 14:40:08.881401,1453.31,Other,Miscellaneous,Credit Card,Investment,Payment,Enter game sign among way.
+T-1103,2025-03-05 14:40:08.881401,148.78,Shopping,Best Buy,Mobile Payment,Checking,Payment,Accept after break particular.
+T-464,2025-03-05 14:40:08.881401,7.98,Subscriptions,Gym Membership,Debit Card,Investment,Transfer,Explain environmental hit heart store.
+T-967,2025-03-06 14:40:08.881401,212.61,Healthcare,Pharmacy,Credit Card,Investment,Withdrawal,Throw student city everything leader foot mind.
+T-1133,2025-03-06 14:40:08.881401,18.95,Subscriptions,Gym Membership,Mobile Payment,Savings,Withdrawal,Trade career test show environment fund nor thousand.
+T-455,2025-03-06 14:40:08.881401,211.82,Shopping,Amazon,Bank Transfer,Checking,Withdrawal,Husband life heavy design to.
+T-155,2025-03-06 14:40:08.881401,197.71,Travel,Hilton,Bank Transfer,Checking,Withdrawal,Never realize yet watch clearly per assume.
+T-800,2025-03-06 14:40:08.881401,13.58,Entertainment,Netflix,Bank Transfer,Checking,Withdrawal,Until term movie tough.
+T-350,2025-03-07 14:40:08.881401,939.84,Other,Miscellaneous,Bank Transfer,Checking,Payment,Long player large so any base system someone.
+T-569,2025-03-07 14:40:08.881401,1000.94,Travel,Uber,Debit Card,Checking,Withdrawal,Or number because receive town.
+T-220,2025-03-07 14:40:08.881401,23.4,Subscriptions,Gym Membership,Debit Card,Investment,Deposit,Property who force have seven event.
+T-922,2025-03-09 14:40:08.881401,2410.57,Other,Miscellaneous,Mobile Payment,Savings,Payment,Garden full window pretty hair news.
+T-932,2025-03-09 14:40:08.881401,123.15,Utilities,Water Works,Credit Card,Investment,Payment,Region involve movement with.
+T-1062,2025-03-09 14:40:08.881401,2083.31,Rent/Mortgage,Landlord,Bank Transfer,Investment,Deposit,Believe lose life see cultural week by.
+T-1115,2025-03-09 14:40:08.881401,22.28,Groceries,Whole Foods,Bank Transfer,Savings,Payment,Sit student almost factor example analysis.
+T-329,2025-03-09 14:40:08.881401,23.12,Entertainment,Concert Hall,Debit Card,Savings,Payment,Music deep little into.
+T-1027,2025-03-09 14:40:08.881401,221.45,Shopping,Amazon,Mobile Payment,Savings,Deposit,Much fire few air.
+T-427,2025-03-09 14:40:08.881401,5.0,Subscriptions,Apple Music,Mobile Payment,Investment,Transfer,Environment third inside common.
+T-848,2025-03-09 14:40:08.881401,117.94,Shopping,Target,Bank Transfer,Checking,Payment,Doctor specific toward certainly.
+T-493,2025-03-10 14:40:08.881401,5.0,Subscriptions,Amazon Prime,Cash,Investment,Deposit,Exactly it vote trip grow customer owner.
+T-699,2025-03-10 14:40:08.881401,90.14,Groceries,Whole Foods,Cash,Savings,Payment,Since ten control idea woman.
+T-651,2025-03-11 14:40:08.881401,1216.9,Shopping,Amazon,Mobile Payment,Savings,Deposit,Between hot wish.
+T-1094,2025-03-11 14:40:08.881401,81.77,Groceries,Walmart,Cash,Checking,Transfer,Century avoid here entire water course against.
+T-277,2025-03-12 14:40:08.881401,159.92,Utilities,Gas Utility,Debit Card,Savings,Payment,Fight particularly actually nation dark.
+T-426,2025-03-12 14:40:08.881401,120.29,Healthcare,Dental Care,Mobile Payment,Savings,Payment,Top collection leave apply police fast course.
+T-498,2025-03-12 14:40:08.881401,25.02,Dining,Chipotle,Bank Transfer,Checking,Deposit,Happy send career ahead to.
+T-267,2025-03-12 14:40:08.881401,13.68,Dining,Local Cafe,Credit Card,Investment,Withdrawal,Soon night hair as.
+T-288,2025-03-13 14:40:08.881401,34.31,Dining,Starbucks,Credit Card,Investment,Payment,Score number fight defense son.
+T-120,2025-03-14 14:40:08.881401,7.79,Entertainment,Concert Hall,Cash,Checking,Transfer,Fear order service simple on life ready.
+T-797,2025-03-14 14:40:08.881401,788.22,Shopping,Amazon,Mobile Payment,Savings,Withdrawal,Particularly learn through tell.
+T-1066,2025-03-14 14:40:08.881401,4637.35,Other,Miscellaneous,Cash,Checking,Transfer,Toward operation matter hard source.
+T-1010,2025-03-15 14:40:08.881401,100.01,Healthcare,Pharmacy,Mobile Payment,Investment,Withdrawal,Firm write brother well play let.
+T-407,2025-03-15 14:40:08.881401,5.0,Subscriptions,Gym Membership,Cash,Investment,Withdrawal,Their entire sort room direction chance owner color.
+T-620,2025-03-16 14:40:08.881401,9.73,Shopping,Amazon,Debit Card,Investment,Deposit,Address newspaper guess six work despite record.
+T-191,2025-03-17 14:40:08.881401,2546.27,Other,Miscellaneous,Mobile Payment,Investment,Transfer,Very affect shoulder again.
+T-802,2025-03-17 14:40:08.881401,22.6,Dining,Chipotle,Debit Card,Investment,Transfer,Certainly great prevent usually set scene off.
+T-90,2025-03-17 14:40:08.881401,27.12,Dining,McDonald's,Debit Card,Investment,Deposit,Issue drive entire enter politics indicate future affect.
+T-997,2025-03-17 14:40:08.881401,35.73,Shopping,Target,Bank Transfer,Investment,Transfer,Blood air dream girl list respond hard.
+T-315,2025-03-18 14:40:08.881401,75.19,Groceries,Whole Foods,Credit Card,Checking,Withdrawal,Concern training effort her agreement major center next.
+T-507,2025-03-18 14:40:08.881401,76.51,Utilities,Gas Utility,Debit Card,Savings,Withdrawal,Into rock myself probably add.
+T-1126,2025-03-18 14:40:08.881401,1610.35,Rent/Mortgage,Landlord,Credit Card,Checking,Withdrawal,Mention compare under.
+T-658,2025-03-18 14:40:08.881401,55.22,Healthcare,Pharmacy,Debit Card,Investment,Transfer,Individual deep act customer try.
+T-748,2025-03-18 14:40:08.881401,74.68,Groceries,Walmart,Cash,Investment,Transfer,Resource seven although fish minute.
+T-6,2025-03-19 14:40:08.881401,295.51,Shopping,Best Buy,Credit Card,Checking,Transfer,Rock establish thought wall have check.
+T-788,2025-03-19 14:40:08.881401,45.84,Utilities,Water Works,Debit Card,Investment,Transfer,Level lose life much.
+T-941,2025-03-19 14:40:08.881401,127.72,Healthcare,Dental Care,Cash,Savings,Transfer,See compare however party practice receive.
+T-445,2025-03-19 14:40:08.881401,251.07,Travel,Delta,Credit Card,Savings,Withdrawal,Town car allow bed from last prevent.
+T-172,2025-03-19 14:40:08.881401,4665.79,Other,Miscellaneous,Credit Card,Savings,Deposit,Material probably white as reduce trouble charge.
+T-444,2025-03-19 14:40:08.881401,18.81,Subscriptions,Apple Music,Cash,Checking,Deposit,Less edge subject across provide.
+T-776,2025-03-19 14:40:08.881401,1836.76,Rent/Mortgage,Landlord,Cash,Checking,Payment,Section fine campaign world never.
+T-903,2025-03-20 14:40:08.881401,6.78,Subscriptions,Amazon Prime,Credit Card,Investment,Withdrawal,Training peace what father.
+T-741,2025-03-20 14:40:08.881401,12.6,Entertainment,Spotify,Cash,Investment,Withdrawal,During figure few.
+T-856,2025-03-20 14:40:08.881401,5.0,Subscriptions,Apple Music,Mobile Payment,Checking,Deposit,Cover near since whose arm include born.
+T-650,2025-03-20 14:40:08.881401,172.62,Travel,Delta,Credit Card,Savings,Withdrawal,Rather idea education.
+T-536,2025-03-21 14:40:08.881401,150.69,Shopping,Best Buy,Mobile Payment,Investment,Deposit,Chance audience quality doctor.
+T-376,2025-03-22 14:40:08.881401,1757.27,Other,Miscellaneous,Mobile Payment,Investment,Payment,Strategy national end range year.
+T-140,2025-03-22 14:40:08.881401,19.93,Entertainment,AMC Theatres,Debit Card,Checking,Payment,Next and air about kind southern.
+T-81,2025-03-22 14:40:08.881401,278.49,Travel,Airbnb,Cash,Savings,Deposit,His service investment machine then.
+T-156,2025-03-22 14:40:08.881401,122.33,Healthcare,Clinic,Cash,Checking,Payment,Standard miss tend effect start difference.
+T-910,2025-03-24 14:40:08.881401,80.37,Travel,Hilton,Bank Transfer,Investment,Withdrawal,Member leave anyone world.
+T-947,2025-03-24 14:40:08.881401,253.87,Travel,Uber,Credit Card,Investment,Deposit,Myself officer finally evening article popular box.
+T-250,2025-03-24 14:40:08.881401,124.78,Utilities,Electric Co,Cash,Investment,Deposit,Most certainly director.
+T-402,2025-03-24 14:40:08.881401,23.48,Subscriptions,Amazon Prime,Credit Card,Checking,Transfer,Leave pretty decision.
+R-8,2025-03-25 14:40:08.881401,1167.87,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+S-Gym Membership-8,2025-03-25 14:40:08.881401,26.41,Subscriptions,Gym Membership,Mobile Payment,Checking,Payment,Monthly subscription: Gym Membership
+T-930,2025-03-25 14:40:08.881401,31.26,Dining,Chipotle,Cash,Investment,Deposit,Send about for.
+T-418,2025-03-27 14:40:08.881401,13.29,Subscriptions,Gym Membership,Credit Card,Savings,Payment,Foreign center conference oil store.
+T-714,2025-03-27 14:40:08.881401,2038.63,Shopping,Mall Store,Debit Card,Checking,Transfer,Network above particularly thing approach person have world.
+T-433,2025-03-27 14:40:08.881401,1725.28,Rent/Mortgage,Landlord,Mobile Payment,Investment,Payment,Environment economy assume enough foot public.
+T-1105,2025-03-27 14:40:08.881401,5.0,Dining,Chipotle,Bank Transfer,Checking,Transfer,Brother skin our rock arm speak.
+S-Netflix-8,2025-03-27 14:40:08.881401,13.92,Subscriptions,Netflix,Debit Card,Checking,Payment,Monthly subscription: Netflix
+T-859,2025-03-27 14:40:08.881401,77.64,Groceries,Costco,Bank Transfer,Savings,Deposit,Theory determine respond listen baby doctor paper age.
+T-862,2025-03-28 14:40:08.881401,21.93,Entertainment,Netflix,Debit Card,Savings,Transfer,Magazine their within.
+T-399,2025-03-29 14:40:08.881401,26.11,Dining,McDonald's,Debit Card,Savings,Deposit,Plant benefit easy learn early.
+T-303,2025-03-29 14:40:08.881401,1461.1,Rent/Mortgage,Mortgage Bank,Bank Transfer,Savings,Withdrawal,Newspaper rather last democratic second perhaps cultural.
+T-216,2025-03-29 14:40:08.881401,1347.05,Rent/Mortgage,Landlord,Cash,Checking,Deposit,Work majority already suddenly.
+T-750,2025-03-29 14:40:08.881401,1633.09,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Transfer,Arrive admit staff third career.
+T-842,2025-03-29 14:40:08.881401,28.79,Dining,Starbucks,Debit Card,Savings,Payment,Letter Republican since bag.
+T-33,2025-03-29 14:40:08.881401,136.2,Travel,Delta,Credit Card,Checking,Deposit,She however important sister future.
+T-118,2025-03-30 14:40:08.881401,6.67,Dining,Chipotle,Debit Card,Checking,Payment,Community floor like feeling international theory prove hear.
+S-Amazon Prime-8,2025-03-30 14:40:08.881401,15.66,Subscriptions,Amazon Prime,Cash,Checking,Payment,Monthly subscription: Amazon Prime
+T-50,2025-03-31 14:40:08.881401,1787.32,Rent/Mortgage,Mortgage Bank,Cash,Investment,Deposit,Choose environmental model meet.
+T-502,2025-03-31 14:40:08.881401,92.79,Travel,Airbnb,Cash,Checking,Payment,Less account Democrat still.
+T-988,2025-03-31 14:40:08.881401,219.24,Shopping,Amazon,Cash,Savings,Withdrawal,Series that add type tend.
+T-226,2025-03-31 14:40:08.881401,103.88,Utilities,Gas Utility,Debit Card,Checking,Deposit,Full safe table course.
+T-1072,2025-03-31 14:40:08.881401,20.79,Subscriptions,Gym Membership,Debit Card,Savings,Deposit,Either get appear own issue middle life.
+T-241,2025-04-01 14:40:08.881401,82.13,Travel,Hilton,Bank Transfer,Investment,Withdrawal,Man remember old air picture.
+T-534,2025-04-01 14:40:08.881401,2164.7,Travel,Hilton,Mobile Payment,Savings,Transfer,Deal community production network student.
+T-431,2025-04-01 14:40:08.881401,165.16,Travel,Uber,Debit Card,Savings,Payment,Sound discussion security writer.
+T-980,2025-04-02 14:40:08.881401,1951.96,Other,Miscellaneous,Bank Transfer,Investment,Withdrawal,Result dark box represent individual develop social.
+T-476,2025-04-03 14:40:08.881401,500.57,Other,Miscellaneous,Bank Transfer,Investment,Deposit,Enough who task new morning indicate business.
+T-1067,2025-04-03 14:40:08.881401,1765.5,Rent/Mortgage,Mortgage Bank,Cash,Checking,Deposit,Picture remain kitchen list but check.
+T-425,2025-04-03 14:40:08.881401,1077.49,Other,Miscellaneous,Bank Transfer,Investment,Deposit,Put during eat explain choice step.
+T-1083,2025-04-04 14:40:08.881401,114.12,Healthcare,Clinic,Credit Card,Checking,Transfer,World meet news more computer.
+T-242,2025-04-04 14:40:08.881401,1182.48,Rent/Mortgage,Landlord,Cash,Investment,Deposit,Strategy else cold quality they decade.
+T-70,2025-04-04 14:40:08.881401,97.75,Utilities,Electric Co,Credit Card,Investment,Withdrawal,Author always vote may sister.
+T-372,2025-04-04 14:40:08.881401,119.11,Healthcare,Pharmacy,Cash,Checking,Transfer,Role north owner poor sport.
+T-183,2025-04-04 14:40:08.881401,57.29,Shopping,Amazon,Cash,Savings,Deposit,Blood doctor blue authority professional society.
+T-152,2025-04-05 14:40:08.881401,2924.72,Other,Miscellaneous,Debit Card,Checking,Deposit,Kitchen difference when red drop go level.
+T-484,2025-04-05 14:40:08.881401,31.45,Groceries,Trader Joe's,Credit Card,Checking,Deposit,Above another modern act she.
+T-324,2025-04-05 14:40:08.881401,1119.02,Rent/Mortgage,Mortgage Bank,Mobile Payment,Checking,Withdrawal,Weight TV expert music.
+T-837,2025-04-05 14:40:08.881401,2841.14,Other,Miscellaneous,Cash,Savings,Deposit,Program phone space or course style director.
+T-703,2025-04-05 14:40:08.881401,1472.62,Rent/Mortgage,Landlord,Credit Card,Savings,Deposit,Question prepare job ability south budget drop test.
+T-545,2025-04-05 14:40:08.881401,47.68,Groceries,Trader Joe's,Cash,Investment,Transfer,Onto scene campaign wish some.
+T-653,2025-04-05 14:40:08.881401,136.58,Healthcare,Pharmacy,Cash,Investment,Withdrawal,Argue physical figure deal popular compare.
+T-684,2025-04-05 14:40:08.881401,15.77,Dining,McDonald's,Debit Card,Investment,Deposit,Teach prepare economic write organization.
+T-219,2025-04-06 14:40:08.881401,679.53,Other,Miscellaneous,Credit Card,Savings,Payment,War evening compare energy wonder yet former collection.
+T-508,2025-04-06 14:40:08.881401,5.0,Dining,McDonald's,Bank Transfer,Checking,Transfer,Party radio respond prepare media matter throughout.
+T-710,2025-04-06 14:40:08.881401,49.25,Groceries,Walmart,Debit Card,Savings,Payment,Stock computer care city fast capital.
+T-850,2025-04-06 14:40:08.881401,153.22,Utilities,Gas Utility,Debit Card,Investment,Withdrawal,Walk born mission admit quickly financial.
+T-207,2025-04-06 14:40:08.881401,75.74,Groceries,Walmart,Credit Card,Checking,Deposit,Hair such including scientist create.
+T-901,2025-04-07 14:40:08.881401,1663.47,Other,Miscellaneous,Cash,Savings,Withdrawal,Skin itself according.
+T-753,2025-04-07 14:40:08.881401,1302.88,Rent/Mortgage,Mortgage Bank,Debit Card,Checking,Transfer,Same PM officer theory.
+T-456,2025-04-07 14:40:08.881401,75.92,Utilities,Electric Co,Bank Transfer,Savings,Transfer,Blue push song they protect affect turn thought.
+T-721,2025-04-08 14:40:08.881401,69.01,Travel,Uber,Mobile Payment,Investment,Payment,Manager future include understand mention.
+T-259,2025-04-08 14:40:08.881401,232.95,Shopping,Amazon,Credit Card,Checking,Deposit,Onto compare new little.
+T-522,2025-04-09 14:40:08.881401,1357.08,Rent/Mortgage,Mortgage Bank,Bank Transfer,Investment,Withdrawal,Eat mean hard guess.
+T-1114,2025-04-09 14:40:08.881401,1409.98,Rent/Mortgage,Landlord,Cash,Checking,Deposit,Push financial between soon almost everybody hard hotel.
+T-26,2025-04-09 14:40:08.881401,5.0,Subscriptions,Apple Music,Mobile Payment,Checking,Payment,Enjoy respond us section whatever structure project piece.
+T-792,2025-04-09 14:40:08.881401,57.69,Utilities,Gas Utility,Credit Card,Checking,Payment,However authority positive line wait action.
+T-1063,2025-04-10 14:40:08.881401,4528.23,Other,Miscellaneous,Credit Card,Savings,Transfer,Republican sure box third.
+T-1081,2025-04-10 14:40:08.881401,181.53,Shopping,Amazon,Credit Card,Checking,Withdrawal,Discuss wind less agency where discover each care.
+T-665,2025-04-10 14:40:08.881401,4524.34,Other,Miscellaneous,Bank Transfer,Investment,Deposit,Long under decision six energy last tell.
+T-143,2025-04-11 14:40:08.881401,106.32,Shopping,Mall Store,Debit Card,Investment,Payment,Mean this own adult century worry agreement.
+T-832,2025-04-12 14:40:08.881401,22.6,Dining,Starbucks,Mobile Payment,Savings,Withdrawal,Threat try see there enough.
+T-177,2025-04-12 14:40:08.881401,1501.48,Rent/Mortgage,Mortgage Bank,Credit Card,Savings,Transfer,Minute one what throw.
+T-369,2025-04-12 14:40:08.881401,151.51,Travel,Hilton,Mobile Payment,Savings,Transfer,Truth about threat good gas much.
+T-388,2025-04-13 14:40:08.881401,170.83,Travel,Hilton,Debit Card,Investment,Withdrawal,Newspaper either view too.
+T-214,2025-04-13 14:40:08.881401,2054.37,Rent/Mortgage,Mortgage Bank,Credit Card,Checking,Payment,Way brother include stop to finish.
+T-232,2025-04-13 14:40:08.881401,21.52,Dining,McDonald's,Mobile Payment,Savings,Withdrawal,Town word marriage indicate tax.
+T-734,2025-04-15 14:40:08.881401,166.82,Groceries,Walmart,Bank Transfer,Investment,Payment,Save model authority culture central determine.
+T-533,2025-04-15 14:40:08.881401,3076.51,Other,Miscellaneous,Cash,Investment,Transfer,Us husband address.
+T-602,2025-04-16 14:40:08.881401,104.58,Groceries,Walmart,Mobile Payment,Savings,Withdrawal,Program now everybody better move.
+T-180,2025-04-16 14:40:08.881401,94.34,Healthcare,Clinic,Mobile Payment,Investment,Payment,In right main feeling beautiful two buy husband.
+T-21,2025-04-16 14:40:08.881401,2915.47,Other,Miscellaneous,Credit Card,Checking,Deposit,As Congress artist.
+T-109,2025-04-17 14:40:08.881401,20.79,Entertainment,Netflix,Credit Card,Checking,Withdrawal,Listen left behavior himself enjoy model hot.
+T-1129,2025-04-17 14:40:08.881401,1857.64,Rent/Mortgage,Landlord,Bank Transfer,Investment,Deposit,Employee side program vote who provide argue.
+T-71,2025-04-17 14:40:08.881401,61.83,Utilities,Gas Utility,Mobile Payment,Investment,Payment,Either onto spend serious boy.
+T-722,2025-04-17 14:40:08.881401,1635.35,Other,Miscellaneous,Credit Card,Investment,Payment,Remain skill among maintain capital fast degree.
+T-234,2025-04-17 14:40:08.881401,26.4,Dining,Local Cafe,Mobile Payment,Checking,Deposit,Us perform across central own add.
+T-724,2025-04-18 14:40:08.881401,5.85,Entertainment,Netflix,Cash,Checking,Transfer,Seem let attention.
+T-52,2025-04-19 14:40:08.881401,254.06,Shopping,Best Buy,Cash,Investment,Transfer,Cost weight plan car soon cost exactly.
+T-60,2025-04-19 14:40:08.881401,202.84,Travel,Uber,Debit Card,Investment,Payment,Live score another add.
+T-492,2025-04-19 14:40:08.881401,1430.31,Rent/Mortgage,Mortgage Bank,Cash,Checking,Transfer,Pick issue project car.
+T-996,2025-04-19 14:40:08.881401,103.58,Groceries,Whole Foods,Bank Transfer,Investment,Deposit,Leg team bad.
+T-337,2025-04-19 14:40:08.881401,14.97,Entertainment,AMC Theatres,Mobile Payment,Savings,Deposit,Above serve write the final five.
+T-218,2025-04-21 14:40:08.881401,2510.14,Other,Miscellaneous,Debit Card,Investment,Withdrawal,Even mention begin next next drug want discover.
+T-400,2025-04-21 14:40:08.881401,128.46,Shopping,Amazon,Mobile Payment,Checking,Withdrawal,Town remain number.
+T-1132,2025-04-21 14:40:08.881401,126.93,Travel,Delta,Debit Card,Savings,Withdrawal,Only newspaper discover very.
+T-666,2025-04-21 14:40:08.881401,3650.18,Other,Miscellaneous,Bank Transfer,Investment,Withdrawal,Water buy this agree.
+T-1050,2025-04-22 14:40:08.881401,93.47,Utilities,Gas Utility,Cash,Savings,Deposit,Trip age anyone set situation nice.
+T-951,2025-04-22 14:40:08.881401,273.4,Shopping,Best Buy,Debit Card,Savings,Withdrawal,Black face day here old hundred.
+T-637,2025-04-24 14:40:08.881401,3702.98,Other,Miscellaneous,Mobile Payment,Investment,Transfer,Recognize close trip someone learn laugh.
+T-300,2025-04-24 14:40:08.881401,186.4,Travel,Delta,Mobile Payment,Savings,Transfer,Hold identify performance deep letter arm stuff across.
+R-9,2025-04-24 14:40:08.881401,1644.71,Rent/Mortgage,Landlord,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-564,2025-04-24 14:40:08.881401,14.49,Entertainment,Concert Hall,Cash,Investment,Deposit,Arm white act individual if fly fact.
+T-462,2025-04-24 14:40:08.881401,10.33,Subscriptions,Gym Membership,Bank Transfer,Investment,Payment,Hour rock down agency science budget less.
+T-1120,2025-04-25 14:40:08.881401,117.21,Groceries,Whole Foods,Cash,Savings,Withdrawal,Could according watch.
+T-428,2025-04-25 14:40:08.881401,1592.57,Other,Miscellaneous,Mobile Payment,Savings,Transfer,Responsibility nation Congress fight necessary.
+T-791,2025-04-25 14:40:08.881401,126.06,Healthcare,Dental Care,Cash,Savings,Withdrawal,Yard wall special require effect write.
+T-820,2025-04-25 14:40:08.881401,5.0,Entertainment,Spotify,Debit Card,Savings,Deposit,Rate kind save.
+S-Netflix-9,2025-04-26 14:40:08.881401,20.1,Subscriptions,Netflix,Bank Transfer,Checking,Payment,Monthly subscription: Netflix
+T-144,2025-04-26 14:40:08.881401,3468.03,Other,Miscellaneous,Debit Card,Investment,Withdrawal,Firm next issue ok.
+S-Gym Membership-9,2025-04-26 14:40:08.881401,-4.14,Subscriptions,Gym Membership,Cash,Checking,Payment,Monthly subscription: Gym Membership
+T-705,2025-04-27 14:40:08.881401,86.25,Groceries,Walmart,Bank Transfer,Investment,Transfer,Bill must run response total move be.
+T-489,2025-04-27 14:40:08.881401,12.91,Subscriptions,Amazon Prime,Cash,Savings,Withdrawal,Case quality senior young court community few public.
+T-363,2025-04-27 14:40:08.881401,13.56,Healthcare,Dental Care,Mobile Payment,Savings,Deposit,Drop might college various ball development form.
+T-943,2025-04-27 14:40:08.881401,190.4,Travel,Hilton,Debit Card,Investment,Transfer,Treat compare food bring nature there way.
+T-353,2025-04-27 14:40:08.881401,4463.17,Other,Miscellaneous,Mobile Payment,Investment,Deposit,Admit least religious young blue skill.
+T-341,2025-04-27 14:40:08.881401,1014.16,Shopping,Amazon,Debit Card,Savings,Transfer,Not paper always event opportunity cover.
+T-523,2025-04-28 14:40:08.881401,5.0,Groceries,Costco,Bank Transfer,Checking,Withdrawal,Manager exactly expect draw.
+T-179,2025-04-28 14:40:08.881401,66.77,Groceries,Whole Foods,Bank Transfer,Checking,Withdrawal,Physical various professional cultural own score.
+S-Amazon Prime-9,2025-04-28 14:40:08.881401,-2.97,Subscriptions,Amazon Prime,Bank Transfer,Checking,Payment,Monthly subscription: Amazon Prime
+T-987,2025-04-28 14:40:08.881401,117.19,Travel,Airbnb,Bank Transfer,Savings,Transfer,Stock minute reason risk suffer fine page establish.
+T-570,2025-04-29 14:40:08.881401,21.77,Subscriptions,Gym Membership,Mobile Payment,Investment,Deposit,Market performance use produce.
+T-514,2025-04-29 14:40:08.881401,1732.53,Rent/Mortgage,Landlord,Mobile Payment,Checking,Payment,Arm job address spring court general capital.
+T-1049,2025-04-29 14:40:08.881401,1477.68,Travel,Hilton,Cash,Savings,Payment,Just perform child heart.
+T-243,2025-04-29 14:40:08.881401,63.49,Healthcare,Clinic,Mobile Payment,Checking,Deposit,Between since money section budget speak any.
+T-361,2025-04-29 14:40:08.881401,116.92,Groceries,Walmart,Cash,Investment,Payment,Suggest house perhaps attack magazine.
+T-598,2025-04-30 14:40:08.881401,47.75,Shopping,Target,Cash,Investment,Withdrawal,End usually whole even.
+T-833,2025-04-30 14:40:08.881401,19.61,Entertainment,AMC Theatres,Credit Card,Savings,Transfer,Car consider television watch evening step nation address.
+T-231,2025-04-30 14:40:08.881401,717.31,Shopping,Amazon,Credit Card,Savings,Transfer,Week before specific.
+T-1082,2025-05-01 14:40:08.881401,17.37,Dining,McDonald's,Credit Card,Savings,Transfer,Him throughout tonight condition stop.
+T-619,2025-05-01 14:40:08.881401,28.33,Entertainment,Concert Hall,Debit Card,Checking,Transfer,Require put wonder in herself.
+T-575,2025-05-01 14:40:08.881401,67.73,Groceries,Costco,Mobile Payment,Savings,Transfer,Camera like whether machine executive interesting.
+T-457,2025-05-02 14:40:08.881401,1894.0,Rent/Mortgage,Mortgage Bank,Debit Card,Investment,Payment,On region develop single thank.
+T-548,2025-05-02 14:40:08.881401,72.35,Travel,Hilton,Credit Card,Investment,Transfer,Of show you response.
+T-261,2025-05-02 14:40:08.881401,89.17,Utilities,Gas Utility,Mobile Payment,Savings,Transfer,All war building certainly full something back trouble.
+T-881,2025-05-02 14:40:08.881401,104.11,Shopping,Target,Cash,Investment,Payment,That focus event case would forget.
+T-129,2025-05-02 14:40:08.881401,167.96,Healthcare,Dental Care,Mobile Payment,Checking,Transfer,Prepare exist assume long.
+T-796,2025-05-02 14:40:08.881401,113.98,Utilities,Gas Utility,Credit Card,Investment,Payment,Election election yeah hope decide.
+T-606,2025-05-03 14:40:08.881401,117.18,Healthcare,Clinic,Bank Transfer,Savings,Transfer,Still consumer institution wrong itself part nearly.
+T-483,2025-05-03 14:40:08.881401,185.71,Healthcare,Dental Care,Bank Transfer,Investment,Payment,Religious born organization sport professor.
+T-69,2025-05-03 14:40:08.881401,4581.64,Other,Miscellaneous,Mobile Payment,Investment,Deposit,Mission dream network season also.
+T-559,2025-05-03 14:40:08.881401,302.22,Travel,Airbnb,Debit Card,Investment,Payment,Soldier thing article if who difficult.
+T-542,2025-05-03 14:40:08.881401,3628.3,Other,Miscellaneous,Bank Transfer,Checking,Transfer,Table still respond feel boy.
+T-547,2025-05-03 14:40:08.881401,121.27,Shopping,Mall Store,Cash,Checking,Payment,Partner make eye laugh control indeed east must.
+T-199,2025-05-04 14:40:08.881401,4745.4,Other,Miscellaneous,Debit Card,Savings,Withdrawal,Big onto sea Democrat cold success.
+T-706,2025-05-04 14:40:08.881401,138.18,Groceries,Whole Foods,Debit Card,Checking,Payment,Create car ever site student pay.
+T-668,2025-05-04 14:40:08.881401,5.0,Entertainment,Concert Hall,Mobile Payment,Savings,Deposit,Along want again glass.
+T-209,2025-05-04 14:40:08.881401,178.42,Utilities,Gas Utility,Cash,Savings,Transfer,Ready early shake develop room debate.
+T-696,2025-05-04 14:40:08.881401,22.88,Dining,Chipotle,Mobile Payment,Checking,Withdrawal,Fill which require center environment.
+T-834,2025-05-04 14:40:08.881401,11.86,Subscriptions,Gym Membership,Mobile Payment,Investment,Payment,Manage treat charge item then.
+T-294,2025-05-05 14:40:08.881401,217.05,Other,Miscellaneous,Cash,Checking,Withdrawal,Name least year fine candidate system finish.
+T-394,2025-05-05 14:40:08.881401,89.76,Shopping,Mall Store,Credit Card,Investment,Payment,Store herself professional role song.
+T-968,2025-05-05 14:40:08.881401,111.6,Utilities,Water Works,Debit Card,Investment,Payment,Country outside them discover floor range seat.
+T-565,2025-05-07 14:40:08.881401,172.59,Utilities,Gas Utility,Debit Card,Checking,Withdrawal,What stop I professor lot agent international exist.
+T-764,2025-05-08 14:40:08.881401,46.04,Healthcare,Dental Care,Cash,Checking,Deposit,Clearly open general make.
+T-986,2025-05-08 14:40:08.881401,23.8,Entertainment,Spotify,Cash,Savings,Payment,Main data country with front.
+T-228,2025-05-08 14:40:08.881401,152.35,Shopping,Best Buy,Debit Card,Savings,Transfer,Congress unit program factor goal order evening none.
+T-247,2025-05-09 14:40:08.881401,20.89,Entertainment,Spotify,Cash,Checking,Deposit,Floor foot arrive sit late stand girl record.
+T-1014,2025-05-09 14:40:08.881401,13.3,Subscriptions,Amazon Prime,Mobile Payment,Investment,Payment,Her mouth debate from message.
+T-917,2025-05-09 14:40:08.881401,63.8,Shopping,Target,Credit Card,Checking,Transfer,Pretty cost fall newspaper record ahead.
+T-863,2025-05-11 14:40:08.881401,41.1,Dining,Local Cafe,Cash,Checking,Deposit,East either other.
+T-1003,2025-05-11 14:40:08.881401,2059.88,Other,Miscellaneous,Credit Card,Investment,Withdrawal,Light court sing forward.
+T-281,2025-05-11 14:40:08.881401,172.5,Utilities,Electric Co,Bank Transfer,Checking,Payment,For total audience tough town.
+T-1017,2025-05-11 14:40:08.881401,62.88,Groceries,Walmart,Credit Card,Investment,Withdrawal,Short establish bill simply.
+T-203,2025-05-11 14:40:08.881401,100.57,Healthcare,Clinic,Bank Transfer,Investment,Deposit,Race act leg bit page raise relationship.
+T-223,2025-05-12 14:40:08.881401,253.0,Shopping,Amazon,Mobile Payment,Investment,Deposit,Certainly business able south leader send risk.
+T-795,2025-05-12 14:40:08.881401,49.59,Dining,Starbucks,Credit Card,Savings,Withdrawal,Line agent land magazine term role not.
+T-248,2025-05-12 14:40:08.881401,149.06,Utilities,Water Works,Bank Transfer,Investment,Deposit,Conference general bank knowledge.
+T-1140,2025-05-13 14:40:08.881401,36.8,Shopping,Mall Store,Credit Card,Checking,Deposit,Wall international store.
+T-584,2025-05-13 14:40:08.881401,14.62,Healthcare,Pharmacy,Mobile Payment,Savings,Deposit,Sing ground ability party because series.
+T-403,2025-05-14 14:40:08.881401,31.34,Dining,Local Cafe,Mobile Payment,Checking,Withdrawal,From effect get them whatever standard.
+T-113,2025-05-15 14:40:08.881401,18.39,Groceries,Costco,Bank Transfer,Investment,Payment,Around learn herself thus service chance.
+T-122,2025-05-16 14:40:08.881401,37.62,Dining,McDonald's,Credit Card,Checking,Payment,Air international add pattern claim unit.
+T-1055,2025-05-18 14:40:08.881401,5.0,Groceries,Whole Foods,Mobile Payment,Investment,Withdrawal,Hard rich worry industry store true sister.
+T-95,2025-05-18 14:40:08.881401,1552.83,Rent/Mortgage,Mortgage Bank,Bank Transfer,Investment,Payment,Water but feeling PM.
+T-1152,2025-05-18 14:40:08.881401,204.73,Shopping,Mall Store,Cash,Investment,Transfer,Soldier surface short both.
+T-186,2025-05-18 14:40:08.881401,41.58,Subscriptions,Apple Music,Mobile Payment,Checking,Payment,Ahead should western night inside.
+T-1085,2025-05-18 14:40:08.881401,15.29,Entertainment,Concert Hall,Debit Card,Investment,Transfer,Cut group citizen front station.
+T-265,2025-05-19 14:40:08.881401,5.0,Healthcare,Pharmacy,Bank Transfer,Checking,Transfer,Cause stock then onto and.
+T-278,2025-05-19 14:40:08.881401,2136.01,Rent/Mortgage,Mortgage Bank,Cash,Checking,Payment,Hard what back truth design finally walk.
+T-1046,2025-05-19 14:40:08.881401,2781.77,Shopping,Target,Credit Card,Investment,Withdrawal,Protect exist nor must.
+T-14,2025-05-20 14:40:08.881401,642.37,Other,Miscellaneous,Debit Card,Checking,Deposit,Week certain idea draw speech.
+T-167,2025-05-20 14:40:08.881401,24.8,Entertainment,Concert Hall,Cash,Savings,Transfer,Partner away of.
+T-276,2025-05-20 14:40:08.881401,94.31,Groceries,Trader Joe's,Debit Card,Savings,Deposit,Remain cold painting still matter.
+T-568,2025-05-20 14:40:08.881401,1777.63,Other,Miscellaneous,Cash,Investment,Payment,Court sound after better couple cultural yet.
+T-958,2025-05-20 14:40:08.881401,94.6,Healthcare,Dental Care,Credit Card,Savings,Deposit,At me throw fear large.
+T-1007,2025-05-20 14:40:08.881401,20.88,Shopping,Target,Cash,Checking,Transfer,Trip next window whether social.
+T-957,2025-05-20 14:40:08.881401,1441.85,Rent/Mortgage,Mortgage Bank,Cash,Checking,Transfer,Clearly year seven lawyer.
+T-51,2025-05-21 14:40:08.881401,3777.11,Other,Miscellaneous,Mobile Payment,Savings,Transfer,Church owner road ago read issue sing pressure.
+T-781,2025-05-21 14:40:08.881401,5.0,Shopping,Best Buy,Cash,Savings,Payment,Seat note free ahead hair.
+T-927,2025-05-21 14:40:08.881401,317.84,Shopping,Best Buy,Debit Card,Savings,Transfer,Side ten also yeah series easy product.
+T-420,2025-05-21 14:40:08.881401,25.88,Dining,McDonald's,Mobile Payment,Checking,Deposit,Third education personal term huge doctor wall.
+T-397,2025-05-21 14:40:08.881401,59.75,Healthcare,Dental Care,Cash,Savings,Deposit,Else myself others price.
+T-274,2025-05-22 14:40:08.881401,94.45,Shopping,Target,Mobile Payment,Checking,Payment,Example example record.
+T-1142,2025-05-22 14:40:08.881401,57.54,Shopping,Best Buy,Cash,Savings,Payment,Class cut rather total.
+T-964,2025-05-23 14:40:08.881401,116.62,Travel,Airbnb,Debit Card,Checking,Withdrawal,Morning force thought education.
+T-823,2025-05-23 14:40:08.881401,723.79,Other,Miscellaneous,Cash,Investment,Withdrawal,Bring fall full than.
+R-10,2025-05-24 14:40:08.881401,1800.73,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-137,2025-05-24 14:40:08.881401,26.74,Subscriptions,Apple Music,Bank Transfer,Investment,Withdrawal,Beyond fast pick industry.
+T-550,2025-05-25 14:40:08.881401,71.75,Groceries,Costco,Debit Card,Savings,Payment,Soon fight career factor.
+S-Netflix-10,2025-05-25 14:40:08.881401,17.9,Subscriptions,Netflix,Debit Card,Checking,Payment,Monthly subscription: Netflix
+T-9,2025-05-25 14:40:08.881401,54.45,Healthcare,Clinic,Cash,Investment,Payment,Away deal community hear agent employee any.
+T-926,2025-05-25 14:40:08.881401,4741.53,Other,Miscellaneous,Cash,Investment,Transfer,Agent small lawyer serious.
+T-912,2025-05-26 14:40:08.881401,111.03,Groceries,Costco,Bank Transfer,Investment,Deposit,Always company action clearly I mention walk.
+T-544,2025-05-26 14:40:08.881401,81.21,Groceries,Trader Joe's,Debit Card,Checking,Transfer,Realize girl follow sister child huge budget.
+T-115,2025-05-26 14:40:08.881401,899.76,Rent/Mortgage,Mortgage Bank,Mobile Payment,Savings,Deposit,Again discover issue total current machine people.
+T-132,2025-05-26 14:40:08.881401,1256.43,Rent/Mortgage,Landlord,Cash,Checking,Payment,Cell memory summer first radio foot.
+S-Gym Membership-10,2025-05-27 14:40:08.881401,17.12,Subscriptions,Gym Membership,Cash,Checking,Payment,Monthly subscription: Gym Membership
+T-1025,2025-05-27 14:40:08.881401,137.7,Shopping,Target,Cash,Investment,Withdrawal,Personal support bad recently trial.
+T-266,2025-05-28 14:40:08.881401,131.64,Shopping,Amazon,Mobile Payment,Checking,Transfer,White fire rock officer point health else.
+T-671,2025-05-29 14:40:08.881401,1589.56,Other,Miscellaneous,Cash,Savings,Withdrawal,End shoulder later travel happy.
+T-1023,2025-05-29 14:40:08.881401,69.53,Groceries,Costco,Cash,Savings,Transfer,Force night service open culture their no third.
+S-Amazon Prime-10,2025-05-29 14:40:08.881401,29.62,Subscriptions,Amazon Prime,Bank Transfer,Checking,Payment,Monthly subscription: Amazon Prime
+T-306,2025-05-30 14:40:08.881401,52.33,Groceries,Whole Foods,Mobile Payment,Savings,Transfer,Its place school.
+T-262,2025-05-31 14:40:08.881401,5.0,Healthcare,Pharmacy,Cash,Investment,Deposit,Game board officer local find clearly.
+T-499,2025-05-31 14:40:08.881401,1720.68,Other,Miscellaneous,Debit Card,Investment,Payment,Set possible hit very add contain fear.
+T-497,2025-05-31 14:40:08.881401,5.0,Dining,Starbucks,Bank Transfer,Investment,Transfer,Beautiful new world officer people lead economic.
+T-783,2025-05-31 14:40:08.881401,50.76,Groceries,Trader Joe's,Credit Card,Investment,Deposit,Indeed word million which president economic strategy sign.
+T-875,2025-05-31 14:40:08.881401,165.82,Utilities,Electric Co,Debit Card,Checking,Withdrawal,Their wish still general expert ready little.
+T-382,2025-06-01 14:40:08.881401,5.0,Dining,McDonald's,Bank Transfer,Investment,Transfer,Learn data represent major hospital.
+T-150,2025-06-01 14:40:08.881401,70.9,Groceries,Walmart,Credit Card,Investment,Payment,Any why will not statement.
+T-1137,2025-06-02 14:40:08.881401,5.0,Entertainment,Spotify,Bank Transfer,Investment,Withdrawal,Fall hear strong quality miss.
+T-7,2025-06-02 14:40:08.881401,123.92,Shopping,Mall Store,Cash,Investment,Transfer,Million start car message machine purpose we.
+T-896,2025-06-02 14:40:08.881401,32.44,Dining,McDonald's,Cash,Checking,Withdrawal,Something western easy.
+T-96,2025-06-02 14:40:08.881401,50.21,Dining,Local Cafe,Credit Card,Savings,Deposit,Grow choice ball most.
+T-847,2025-06-03 14:40:08.881401,46.18,Dining,Starbucks,Bank Transfer,Savings,Deposit,Later task century.
+T-992,2025-06-04 14:40:08.881401,42.68,Groceries,Costco,Mobile Payment,Investment,Transfer,Unit car mean democratic ahead through.
+T-414,2025-06-04 14:40:08.881401,53.42,Shopping,Best Buy,Mobile Payment,Investment,Deposit,Stuff station mean.
+T-1146,2025-06-04 14:40:08.881401,28.61,Groceries,Whole Foods,Credit Card,Checking,Deposit,Identify really street them tax.
+T-632,2025-06-05 14:40:08.881401,18.17,Subscriptions,Apple Music,Credit Card,Savings,Transfer,Mention many doctor most shake base stage.
+T-1151,2025-06-05 14:40:08.881401,29.78,Entertainment,AMC Theatres,Credit Card,Savings,Deposit,So teach treatment number force approach question.
+T-1041,2025-06-05 14:40:08.881401,304.4,Shopping,Amazon,Mobile Payment,Checking,Deposit,True skin over one.
+T-1061,2025-06-06 14:40:08.881401,103.69,Utilities,Water Works,Cash,Investment,Withdrawal,Single instead approach beat should simple.
+T-656,2025-06-07 14:40:08.881401,127.91,Groceries,Walmart,Credit Card,Investment,Withdrawal,Describe blue area value sort.
+T-727,2025-06-07 14:40:08.881401,103.42,Groceries,Whole Foods,Debit Card,Checking,Withdrawal,Reveal statement prevent between.
+T-270,2025-06-07 14:40:08.881401,5.0,Entertainment,Netflix,Bank Transfer,Checking,Withdrawal,Kind ok data never.
+T-1123,2025-06-07 14:40:08.881401,123.08,Shopping,Best Buy,Cash,Savings,Payment,Notice lead social star car.
+T-1060,2025-06-07 14:40:08.881401,12.02,Subscriptions,Amazon Prime,Bank Transfer,Savings,Deposit,Door statement all make better to.
+T-477,2025-06-08 14:40:08.881401,69.18,Healthcare,Clinic,Debit Card,Savings,Payment,Century environment father.
+T-928,2025-06-08 14:40:08.881401,3462.76,Other,Miscellaneous,Debit Card,Investment,Deposit,Buy ahead Mrs doctor more three term.
+T-490,2025-06-08 14:40:08.881401,5.0,Dining,Starbucks,Mobile Payment,Investment,Transfer,Participant rate quickly new business.
+T-959,2025-06-08 14:40:08.881401,30.86,Dining,Local Cafe,Credit Card,Savings,Deposit,Message daughter suddenly across.
+T-944,2025-06-08 14:40:08.881401,9.64,Subscriptions,Amazon Prime,Mobile Payment,Checking,Deposit,Word free yeah structure important.
+T-817,2025-06-08 14:40:08.881401,2634.48,Shopping,Target,Debit Card,Investment,Withdrawal,Begin see future discussion reduce energy peace.
+T-31,2025-06-08 14:40:08.881401,183.36,Shopping,Amazon,Mobile Payment,Investment,Deposit,Husband operation great remember.
+T-1079,2025-06-08 14:40:08.881401,15.19,Travel,Airbnb,Credit Card,Savings,Deposit,Age cut night energy little into.
+T-535,2025-06-08 14:40:08.881401,3816.51,Other,Miscellaneous,Mobile Payment,Checking,Transfer,Produce piece buy white best card strategy agency.
+T-236,2025-06-08 14:40:08.881401,170.39,Utilities,Gas Utility,Mobile Payment,Investment,Withdrawal,Operation relate hour check occur.
+T-889,2025-06-09 14:40:08.881401,154.33,Utilities,Gas Utility,Cash,Checking,Withdrawal,Wonder recent have actually.
+T-984,2025-06-09 14:40:08.881401,5.0,Subscriptions,Gym Membership,Credit Card,Savings,Withdrawal,View increase describe raise finally through oil.
+T-196,2025-06-09 14:40:08.881401,45.98,Groceries,Costco,Credit Card,Checking,Payment,Draw politics perform everything allow.
+T-485,2025-06-09 14:40:08.881401,28.65,Entertainment,Netflix,Debit Card,Savings,Payment,Character first type camera seat person government.
+T-317,2025-06-09 14:40:08.881401,147.83,Groceries,Walmart,Mobile Payment,Savings,Payment,Magazine quickly instead prove.
+T-716,2025-06-10 14:40:08.881401,66.97,Travel,Delta,Bank Transfer,Investment,Deposit,Finally national president hot exactly sort.
+T-251,2025-06-10 14:40:08.881401,2462.69,Other,Miscellaneous,Credit Card,Investment,Withdrawal,Industry idea time medical matter baby structure.
+T-1054,2025-06-10 14:40:08.881401,2440.67,Travel,Uber,Mobile Payment,Investment,Payment,Find yet although buy bar.
+T-111,2025-06-10 14:40:08.881401,53.4,Travel,Delta,Mobile Payment,Checking,Payment,Garden save law almost somebody foreign according.
+T-946,2025-06-10 14:40:08.881401,11.17,Subscriptions,Gym Membership,Mobile Payment,Savings,Withdrawal,Rather know share important notice necessary.
+T-279,2025-06-10 14:40:08.881401,7.0,Entertainment,Spotify,Credit Card,Savings,Transfer,Always expert owner.
+T-709,2025-06-11 14:40:08.881401,89.77,Groceries,Walmart,Bank Transfer,Investment,Deposit,Remember reduce day church should marriage.
+T-391,2025-06-11 14:40:08.881401,203.4,Shopping,Target,Bank Transfer,Checking,Transfer,Involve idea education high color son name memory.
+T-978,2025-06-12 14:40:08.881401,71.42,Travel,Uber,Debit Card,Checking,Deposit,Husband protect star space teach but.
+T-556,2025-06-12 14:40:08.881401,64.44,Utilities,Water Works,Cash,Savings,Deposit,Speech act consider attack force culture.
+T-473,2025-06-12 14:40:08.881401,136.16,Travel,Uber,Cash,Savings,Payment,Discussion beyond pay imagine room old.
+T-867,2025-06-13 14:40:08.881401,49.86,Dining,Chipotle,Debit Card,Checking,Withdrawal,Together professional with early.
+T-211,2025-06-13 14:40:08.881401,74.06,Travel,Hilton,Debit Card,Savings,Withdrawal,Quite picture military opportunity onto sea open.
+T-885,2025-06-14 14:40:08.881401,66.5,Utilities,Gas Utility,Debit Card,Investment,Deposit,Pretty sense sing matter gas.
+T-819,2025-06-14 14:40:08.881401,34.0,Healthcare,Dental Care,Credit Card,Savings,Payment,Value seem range media.
+T-323,2025-06-14 14:40:08.881401,25.11,Entertainment,AMC Theatres,Bank Transfer,Investment,Deposit,She throughout alone more ask after rich public.
+T-841,2025-06-14 14:40:08.881401,55.14,Shopping,Best Buy,Cash,Checking,Withdrawal,Call practice decision impact of.
+T-478,2025-06-15 14:40:08.881401,37.58,Dining,Starbucks,Debit Card,Investment,Deposit,Song risk position rise help one late movement.
+T-384,2025-06-15 14:40:08.881401,143.76,Travel,Hilton,Mobile Payment,Investment,Deposit,Site big north nice.
+T-37,2025-06-15 14:40:08.881401,196.53,Shopping,Mall Store,Cash,Checking,Payment,Later lead strong situation get.
+T-1087,2025-06-15 14:40:08.881401,235.47,Travel,Hilton,Bank Transfer,Savings,Withdrawal,Five fall federal second indeed.
+T-460,2025-06-16 14:40:08.881401,127.77,Shopping,Amazon,Debit Card,Savings,Withdrawal,East seem rich charge because run.
+T-480,2025-06-16 14:40:08.881401,142.05,Shopping,Target,Debit Card,Investment,Withdrawal,Spend visit pick material general church.
+T-389,2025-06-17 14:40:08.881401,5.0,Shopping,Amazon,Credit Card,Checking,Withdrawal,Drug someone member six serious imagine list.
+T-516,2025-06-17 14:40:08.881401,22.54,Entertainment,Netflix,Debit Card,Investment,Payment,Suddenly simply thousand everyone shake eat.
+T-870,2025-06-17 14:40:08.881401,116.7,Shopping,Amazon,Credit Card,Savings,Withdrawal,Good cultural hospital set else back model floor.
+T-807,2025-06-17 14:40:08.881401,45.41,Shopping,Amazon,Mobile Payment,Investment,Transfer,Energy center financial success.
+T-1139,2025-06-17 14:40:08.881401,152.91,Healthcare,Pharmacy,Cash,Checking,Withdrawal,Always collection send admit herself.
+T-631,2025-06-18 14:40:08.881401,5.0,Dining,McDonald's,Mobile Payment,Checking,Withdrawal,Probably treatment close these stop official.
+T-981,2025-06-19 14:40:08.881401,11.68,Dining,Chipotle,Credit Card,Investment,Payment,Mrs environmental improve quite ten sort spend.
+T-1098,2025-06-19 14:40:08.881401,97.33,Groceries,Costco,Mobile Payment,Savings,Deposit,Bank prove decade fight between however.
+T-845,2025-06-20 14:40:08.881401,119.68,Travel,Hilton,Debit Card,Checking,Withdrawal,Form nor hand.
+T-36,2025-06-20 14:40:08.881401,18.38,Subscriptions,Gym Membership,Cash,Checking,Transfer,Difference between for pass run personal edge.
+T-755,2025-06-20 14:40:08.881401,26.0,Travel,Uber,Credit Card,Checking,Withdrawal,Probably protect hold.
+T-1051,2025-06-20 14:40:08.881401,1263.19,Rent/Mortgage,Mortgage Bank,Cash,Investment,Withdrawal,Speech structure bank send.
+T-55,2025-06-20 14:40:08.881401,17.37,Entertainment,Concert Hall,Debit Card,Investment,Transfer,Car force describe with.
+T-65,2025-06-21 14:40:08.881401,50.02,Dining,Chipotle,Cash,Savings,Withdrawal,Order large majority what.
+T-801,2025-06-21 14:40:08.881401,20.55,Entertainment,Concert Hall,Cash,Checking,Transfer,Director seem apply least fear soldier allow.
+T-630,2025-06-21 14:40:08.881401,26.44,Subscriptions,Gym Membership,Mobile Payment,Checking,Deposit,If lay different major others if bit.
+S-Amazon Prime-11,2025-06-22 14:40:08.881401,12.03,Subscriptions,Amazon Prime,Bank Transfer,Checking,Payment,Monthly subscription: Amazon Prime
+R-11,2025-06-22 14:40:08.881401,2164.16,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-448,2025-06-22 14:40:08.881401,16.75,Dining,Local Cafe,Mobile Payment,Savings,Payment,Least capital lay apply ten mean scientist.
+T-566,2025-06-23 14:40:08.881401,28.3,Dining,McDonald's,Debit Card,Savings,Deposit,Life set anyone stay couple fund main imagine.
+S-Gym Membership-11,2025-06-23 14:40:08.881401,21.86,Subscriptions,Gym Membership,Credit Card,Checking,Payment,Monthly subscription: Gym Membership
+T-838,2025-06-23 14:40:08.881401,119.68,Utilities,Water Works,Debit Card,Checking,Payment,Capital bank interest without time.
+T-621,2025-06-23 14:40:08.881401,200.75,Travel,Hilton,Credit Card,Checking,Transfer,Consumer structure they hear build purpose.
+T-201,2025-06-23 14:40:08.881401,5.0,Groceries,Walmart,Bank Transfer,Investment,Withdrawal,Person state support talk.
+T-344,2025-06-23 14:40:08.881401,199.9,Travel,Delta,Mobile Payment,Savings,Transfer,Us over skin the bad.
+T-373,2025-06-24 14:40:08.881401,8.97,Entertainment,AMC Theatres,Cash,Checking,Transfer,Agency between possible.
+T-613,2025-06-24 14:40:08.881401,824.21,Other,Miscellaneous,Debit Card,Checking,Withdrawal,Over small medical lay political create student.
+T-742,2025-06-24 14:40:08.881401,95.13,Groceries,Walmart,Mobile Payment,Investment,Deposit,Movement this woman throughout author future.
+T-450,2025-06-24 14:40:08.881401,105.6,Shopping,Best Buy,Cash,Investment,Payment,Write task against eight apply air since.
+T-883,2025-06-24 14:40:08.881401,76.5,Travel,Delta,Debit Card,Savings,Payment,Knowledge article suggest might Democrat meet wind.
+T-148,2025-06-25 14:40:08.881401,201.16,Utilities,Electric Co,Bank Transfer,Savings,Payment,College write window effect.
+S-Netflix-11,2025-06-25 14:40:08.881401,11.5,Subscriptions,Netflix,Mobile Payment,Checking,Payment,Monthly subscription: Netflix
+T-225,2025-06-25 14:40:08.881401,18.99,Subscriptions,Amazon Prime,Cash,Checking,Payment,Political remain officer month growth pay.
+T-515,2025-06-26 14:40:08.881401,299.71,Travel,Delta,Mobile Payment,Checking,Transfer,Sign number direction whether which.
+T-1068,2025-06-26 14:40:08.881401,32.0,Dining,Local Cafe,Credit Card,Investment,Transfer,Activity test drug statement.
+T-383,2025-06-26 14:40:08.881401,27.88,Subscriptions,Amazon Prime,Cash,Investment,Deposit,Couple how easy hot career.
+T-787,2025-06-26 14:40:08.881401,1630.15,Other,Miscellaneous,Debit Card,Investment,Transfer,Fire hard state sometimes leg fear.
+T-468,2025-06-26 14:40:08.881401,26.04,Entertainment,Spotify,Credit Card,Checking,Withdrawal,Along nation inside hour together.
+T-254,2025-06-27 14:40:08.881401,1470.3,Travel,Uber,Credit Card,Checking,Withdrawal,Sit avoid artist mouth.
+T-531,2025-06-28 14:40:08.881401,1626.33,Rent/Mortgage,Mortgage Bank,Credit Card,Checking,Deposit,Special itself sometimes represent bar simply.
+T-611,2025-06-28 14:40:08.881401,12.82,Entertainment,Concert Hall,Bank Transfer,Savings,Withdrawal,Dog picture three someone whom meet those key.
+T-761,2025-06-28 14:40:08.881401,43.21,Dining,McDonald's,Bank Transfer,Savings,Payment,Security learn form technology laugh occur evidence.
+T-325,2025-06-28 14:40:08.881401,17.3,Entertainment,Netflix,Mobile Payment,Checking,Deposit,Dream where number kitchen vote kind tree.
+T-551,2025-06-28 14:40:08.881401,178.59,Shopping,Best Buy,Credit Card,Investment,Withdrawal,Save financial memory fish against civil.
+T-22,2025-06-28 14:40:08.881401,5.0,Entertainment,AMC Theatres,Debit Card,Checking,Payment,Here find friend majority.
+T-782,2025-06-29 14:40:08.881401,1481.96,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Payment,Political consider result left.
+T-975,2025-06-29 14:40:08.881401,2218.86,Rent/Mortgage,Mortgage Bank,Debit Card,Checking,Withdrawal,Girl maybe customer.
+T-525,2025-06-29 14:40:08.881401,45.65,Healthcare,Dental Care,Bank Transfer,Investment,Deposit,Value program raise truth program.
+T-32,2025-06-30 14:40:08.881401,71.29,Shopping,Target,Mobile Payment,Checking,Deposit,Either analysis student available pattern continue data.
+T-1108,2025-06-30 14:40:08.881401,26.57,Entertainment,Concert Hall,Debit Card,Investment,Payment,Before process claim risk hour.
+T-1028,2025-06-30 14:40:08.881401,330.35,Travel,Uber,Mobile Payment,Savings,Transfer,Nor want despite part suddenly social.
+T-1102,2025-07-01 14:40:08.881401,91.75,Groceries,Costco,Debit Card,Investment,Transfer,Simple less action pass arrive fire cost weight.
+T-1124,2025-07-01 14:40:08.881401,93.95,Groceries,Whole Foods,Credit Card,Savings,Deposit,Service ever effect hold improve return.
+T-836,2025-07-01 14:40:08.881401,9.14,Subscriptions,Apple Music,Cash,Investment,Transfer,Try goal loss allow continue reflect.
+T-395,2025-07-02 14:40:08.881401,41.93,Dining,Local Cafe,Cash,Savings,Deposit,Risk yeah knowledge care above short maybe measure.
+T-35,2025-07-03 14:40:08.881401,56.52,Groceries,Walmart,Debit Card,Checking,Transfer,Market contain answer large when across meet.
+T-994,2025-07-04 14:40:08.881401,13.66,Subscriptions,Apple Music,Cash,Investment,Payment,Organization apply scientist you by raise manager education.
+T-442,2025-07-06 14:40:08.881401,15.18,Subscriptions,Apple Music,Debit Card,Checking,Withdrawal,Game but him line walk very car.
+T-449,2025-07-06 14:40:08.881401,5.0,Entertainment,Spotify,Debit Card,Savings,Payment,Effect them indeed simply Mrs town.
+T-488,2025-07-06 14:40:08.881401,150.3,Groceries,Walmart,Debit Card,Savings,Transfer,Book evidence plan job west do.
+T-390,2025-07-07 14:40:08.881401,1795.6,Rent/Mortgage,Landlord,Mobile Payment,Savings,Transfer,Professor memory home force.
+T-829,2025-07-07 14:40:08.881401,18.21,Entertainment,Netflix,Cash,Savings,Deposit,Until assume quickly start.
+T-30,2025-07-07 14:40:08.881401,1903.29,Rent/Mortgage,Landlord,Debit Card,Checking,Transfer,Box let throw.
+T-663,2025-07-07 14:40:08.881401,156.08,Groceries,Costco,Mobile Payment,Savings,Withdrawal,Difficult act floor them anything job author defense.
+T-1121,2025-07-07 14:40:08.881401,69.53,Utilities,Electric Co,Mobile Payment,Checking,Withdrawal,Management my anything change with about.
+T-874,2025-07-08 14:40:08.881401,57.77,Groceries,Whole Foods,Bank Transfer,Savings,Transfer,Base other among later.
+T-758,2025-07-08 14:40:08.881401,193.38,Shopping,Amazon,Credit Card,Savings,Withdrawal,Plan president young today support soldier usually.
+T-244,2025-07-08 14:40:08.881401,5.83,Entertainment,Netflix,Mobile Payment,Checking,Withdrawal,Involve require whole effort section.
+T-831,2025-07-08 14:40:08.881401,16.89,Dining,Chipotle,Mobile Payment,Investment,Deposit,Ok where three.
+T-1111,2025-07-10 14:40:08.881401,8.37,Dining,Chipotle,Cash,Checking,Deposit,Ability project run position figure morning most.
+T-106,2025-07-10 14:40:08.881401,152.35,Utilities,Electric Co,Mobile Payment,Checking,Payment,Market particularly economic hair challenge laugh control any.
+T-61,2025-07-10 14:40:08.881401,2820.44,Travel,Uber,Debit Card,Checking,Withdrawal,Know ability suddenly pattern morning doctor option join.
+T-914,2025-07-10 14:40:08.881401,65.68,Groceries,Walmart,Cash,Savings,Transfer,Wind feel from room debate add chair.
+T-332,2025-07-10 14:40:08.881401,1482.87,Rent/Mortgage,Landlord,Mobile Payment,Investment,Deposit,Piece figure positive education.
+T-80,2025-07-10 14:40:08.881401,27.25,Dining,McDonald's,Credit Card,Savings,Transfer,Answer network new performance simply forget work indicate.
+T-860,2025-07-11 14:40:08.881401,17.25,Subscriptions,Amazon Prime,Debit Card,Investment,Payment,Say wind visit evening technology study chair.
+T-227,2025-07-11 14:40:08.881401,220.41,Shopping,Amazon,Debit Card,Savings,Transfer,Follow production wonder.
+T-1001,2025-07-11 14:40:08.881401,2312.59,Other,Miscellaneous,Debit Card,Checking,Deposit,Real use thing concern.
+T-726,2025-07-12 14:40:08.881401,9.92,Dining,Local Cafe,Mobile Payment,Savings,Payment,Instead peace action leader.
+T-1084,2025-07-12 14:40:08.881401,125.97,Groceries,Trader Joe's,Mobile Payment,Checking,Transfer,Table suggest point investment start democratic market professional.
+T-1119,2025-07-13 14:40:08.881401,139.83,Shopping,Target,Debit Card,Investment,Transfer,Financial nothing member.
+T-469,2025-07-13 14:40:08.881401,242.23,Travel,Uber,Bank Transfer,Investment,Withdrawal,During threat instead.
+T-1112,2025-07-13 14:40:08.881401,5.0,Dining,Local Cafe,Credit Card,Investment,Deposit,Political operation deep bit big feeling bill.
+T-673,2025-07-14 14:40:08.881401,163.56,Travel,Airbnb,Debit Card,Investment,Transfer,Race factor of reflect.
+T-672,2025-07-16 14:40:08.881401,84.54,Travel,Airbnb,Credit Card,Investment,Transfer,Former between wife age lay watch world.
+T-275,2025-07-16 14:40:08.881401,24.07,Dining,Starbucks,Credit Card,Investment,Payment,Social lawyer adult spend name stay meeting.
+T-328,2025-07-16 14:40:08.881401,32.05,Healthcare,Clinic,Debit Card,Checking,Deposit,We fill school image morning watch.
+T-133,2025-07-16 14:40:08.881401,56.23,Groceries,Whole Foods,Mobile Payment,Investment,Payment,Seek effect use focus north fish.
+T-465,2025-07-16 14:40:08.881401,48.31,Dining,Chipotle,Cash,Investment,Payment,Likely party also have together music general seat.
+T-419,2025-07-17 14:40:08.881401,17.33,Dining,Chipotle,Cash,Savings,Withdrawal,Drop find current.
+T-17,2025-07-17 14:40:08.881401,8.98,Entertainment,Concert Hall,Cash,Checking,Payment,Person more make force response decade.
+T-844,2025-07-17 14:40:08.881401,10.23,Subscriptions,Apple Music,Cash,Checking,Withdrawal,Seat maybe range.
+T-595,2025-07-17 14:40:08.881401,1701.52,Travel,Uber,Bank Transfer,Savings,Transfer,Discussion reach lead whatever.
+T-430,2025-07-17 14:40:08.881401,119.23,Shopping,Target,Bank Transfer,Checking,Payment,Protect person bad hold.
+T-351,2025-07-18 14:40:08.881401,6.09,Entertainment,Netflix,Bank Transfer,Savings,Payment,Court teach table yard offer kitchen party record.
+T-98,2025-07-18 14:40:08.881401,68.5,Groceries,Trader Joe's,Cash,Investment,Transfer,Send successful during sign.
+T-190,2025-07-18 14:40:08.881401,216.86,Healthcare,Dental Care,Mobile Payment,Checking,Deposit,Like entire for strong.
+T-124,2025-07-19 14:40:08.881401,2801.89,Travel,Delta,Bank Transfer,Investment,Payment,Almost everyone again threat couple whole these.
+T-677,2025-07-19 14:40:08.881401,15.2,Entertainment,AMC Theatres,Mobile Payment,Savings,Deposit,Art size nation cost town.
+T-580,2025-07-19 14:40:08.881401,84.46,Healthcare,Clinic,Cash,Investment,Withdrawal,Job have around mind.
+T-123,2025-07-20 14:40:08.881401,2898.14,Shopping,Best Buy,Cash,Savings,Withdrawal,Necessary together end hotel focus.
+T-1097,2025-07-20 14:40:08.881401,13.5,Entertainment,AMC Theatres,Debit Card,Checking,Payment,Inside food democratic federal.
+T-811,2025-07-20 14:40:08.881401,125.52,Travel,Airbnb,Credit Card,Investment,Withdrawal,Trade total particularly test picture behind space.
+T-541,2025-07-21 14:40:08.881401,5.0,Dining,Local Cafe,Cash,Savings,Payment,Sure team green reveal.
+T-130,2025-07-21 14:40:08.881401,20.85,Subscriptions,Amazon Prime,Bank Transfer,Savings,Transfer,Exactly structure project reflect short stay success pay.
+T-385,2025-07-21 14:40:08.881401,169.49,Groceries,Costco,Bank Transfer,Investment,Payment,Seven beyond senior pay community.
+T-461,2025-07-21 14:40:08.881401,194.89,Shopping,Target,Bank Transfer,Savings,Deposit,Method artist try.
+T-451,2025-07-22 14:40:08.881401,41.89,Dining,Starbucks,Debit Card,Savings,Transfer,Plant commercial price morning line six.
+T-600,2025-07-22 14:40:08.881401,147.1,Groceries,Walmart,Credit Card,Investment,Withdrawal,Wear write visit role.
+T-822,2025-07-22 14:40:08.881401,137.45,Travel,Delta,Credit Card,Savings,Payment,Modern chance beyond special strong personal heavy.
+T-1039,2025-07-22 14:40:08.881401,88.46,Utilities,Electric Co,Mobile Payment,Investment,Payment,Myself health by both agency ready.
+T-1011,2025-07-22 14:40:08.881401,1466.64,Rent/Mortgage,Mortgage Bank,Debit Card,Savings,Deposit,Himself onto trip school.
+T-730,2025-07-22 14:40:08.881401,25.92,Subscriptions,Gym Membership,Cash,Savings,Payment,Exactly boy herself peace participant oil goal.
+R-12,2025-07-23 14:40:08.881401,1619.29,Rent/Mortgage,Mortgage Bank,Bank Transfer,Checking,Payment,Monthly rent/mortgage payment
+T-486,2025-07-23 14:40:08.881401,15.66,Entertainment,Spotify,Mobile Payment,Checking,Withdrawal,Produce leave lot interest their site move.
+T-290,2025-07-24 14:40:08.881401,90.72,Travel,Airbnb,Bank Transfer,Checking,Transfer,If memory majority develop never.
+T-88,2025-07-24 14:40:08.881401,71.5,Shopping,Amazon,Cash,Savings,Withdrawal,Out money statement its moment discussion finally candidate.
+T-283,2025-07-24 14:40:08.881401,35.8,Groceries,Whole Foods,Cash,Checking,Deposit,Media produce people traditional.
+S-Amazon Prime-12,2025-07-24 14:40:08.881401,0.34,Subscriptions,Amazon Prime,Cash,Checking,Payment,Monthly subscription: Amazon Prime
+S-Gym Membership-12,2025-07-24 14:40:08.881401,9.02,Subscriptions,Gym Membership,Mobile Payment,Checking,Payment,Monthly subscription: Gym Membership
+T-147,2025-07-25 14:40:08.881401,20.76,Entertainment,Spotify,Cash,Savings,Deposit,Drug ball never wonder.
+T-411,2025-07-26 14:40:08.881401,33.55,Dining,Local Cafe,Cash,Savings,Payment,Past fight able possible cost already strong.
+T-895,2025-07-26 14:40:08.881401,105.56,Groceries,Whole Foods,Debit Card,Checking,Deposit,However truth hotel wall.
+T-609,2025-07-26 14:40:08.881401,137.92,Travel,Airbnb,Bank Transfer,Investment,Withdrawal,Wall learn majority hair management.
+T-744,2025-07-26 14:40:08.881401,12.82,Entertainment,Spotify,Bank Transfer,Checking,Withdrawal,Condition expert which on they agreement.
+T-691,2025-07-26 14:40:08.881401,1372.85,Rent/Mortgage,Landlord,Cash,Savings,Deposit,Reveal floor message those believe.
+T-989,2025-07-26 14:40:08.881401,122.46,Groceries,Trader Joe's,Bank Transfer,Investment,Withdrawal,Station hope morning future black.
+T-423,2025-07-27 14:40:08.881401,185.61,Travel,Delta,Debit Card,Savings,Payment,Toward try audience he according something.
+T-1093,2025-07-27 14:40:08.881401,25.14,Dining,Starbucks,Mobile Payment,Investment,Deposit,Already store apply.
+T-660,2025-07-27 14:40:08.881401,13.2,Entertainment,AMC Theatres,Debit Card,Investment,Withdrawal,Act south while news.
+S-Netflix-12,2025-07-27 14:40:08.881401,4.53,Subscriptions,Netflix,Mobile Payment,Checking,Payment,Monthly subscription: Netflix
+T-320,2025-07-27 14:40:08.881401,5.0,Entertainment,AMC Theatres,Mobile Payment,Investment,Withdrawal,Data guy Democrat already college main page.
+T-1130,2025-07-27 14:40:08.881401,23.85,Entertainment,Spotify,Debit Card,Investment,Withdrawal,Bill sing option others down want.
+T-316,2025-07-28 14:40:08.881401,29.06,Subscriptions,Apple Music,Bank Transfer,Investment,Deposit,Appear personal language gun court nor easy.
+T-708,2025-07-28 14:40:08.881401,193.83,Travel,Airbnb,Bank Transfer,Investment,Deposit,Phone short their.
+T-808,2025-07-28 14:40:08.881401,1372.98,Rent/Mortgage,Mortgage Bank,Debit Card,Investment,Withdrawal,Month leave sort add.
+T-1009,2025-07-28 14:40:08.881401,119.71,Groceries,Whole Foods,Cash,Checking,Transfer,Gun than own keep mouth himself coach.
+T-581,2025-07-28 14:40:08.881401,23.28,Entertainment,AMC Theatres,Mobile Payment,Investment,Deposit,Response clearly stuff board first join.
+T-608,2025-07-29 14:40:08.881401,97.73,Travel,Delta,Cash,Checking,Transfer,Current series everyone past.
+T-345,2025-07-30 14:40:08.881401,115.11,Travel,Airbnb,Mobile Payment,Investment,Payment,Final mother man see fact.
+T-641,2025-07-30 14:40:08.881401,145.65,Utilities,Electric Co,Cash,Investment,Transfer,Father with movie well image.
+T-76,2025-07-30 14:40:08.881401,22.55,Dining,Chipotle,Mobile Payment,Investment,Payment,Someone consider seven enter specific word economic.
+T-940,2025-07-31 14:40:08.881401,107.23,Groceries,Whole Foods,Bank Transfer,Checking,Payment,Hard statement recently they hour fast own growth.
+T-235,2025-08-01 14:40:08.881401,15.14,Dining,Chipotle,Cash,Checking,Deposit,Institution rich college positive difference better experience.
+T-732,2025-08-01 14:40:08.881401,151.85,Travel,Uber,Bank Transfer,Checking,Transfer,Under sound product.
+T-1065,2025-08-01 14:40:08.881401,143.92,Travel,Airbnb,Credit Card,Investment,Transfer,Half politics drive bank either.
+T-1109,2025-08-02 14:40:08.881401,61.22,Healthcare,Pharmacy,Mobile Payment,Investment,Withdrawal,Total record education provide involve join station.
+T-918,2025-08-02 14:40:08.881401,45.83,Groceries,Walmart,Mobile Payment,Savings,Transfer,Cold region set chair.
+T-312,2025-08-02 14:40:08.881401,1608.97,Rent/Mortgage,Mortgage Bank,Mobile Payment,Savings,Withdrawal,Kitchen rise executive street spend forget.
+T-260,2025-08-02 14:40:08.881401,1078.83,Shopping,Best Buy,Credit Card,Investment,Payment,Work figure operation attorney along quality suggest.
+T-972,2025-08-03 14:40:08.881401,69.54,Shopping,Best Buy,Bank Transfer,Investment,Payment,Administration anyone personal record common.
+T-171,2025-08-03 14:40:08.881401,180.29,Utilities,Gas Utility,Bank Transfer,Savings,Payment,Section group very store generation require use.
+T-976,2025-08-03 14:40:08.881401,200.96,Shopping,Target,Mobile Payment,Investment,Deposit,Type believe between as realize receive.
+T-933,2025-08-04 14:40:08.881401,142.86,Utilities,Electric Co,Mobile Payment,Checking,Deposit,Property claim according head can.
+T-1,2025-08-05 14:40:08.881401,9.82,Dining,Local Cafe,Bank Transfer,Checking,Transfer,Administration according wide could modern politics city.
+T-828,2025-08-05 14:40:08.881401,25.44,Dining,Local Cafe,Credit Card,Checking,Payment,Husband top goal give about area fish.
+T-599,2025-08-05 14:40:08.881401,29.84,Utilities,Gas Utility,Cash,Checking,Deposit,Lead letter music free.
+T-1090,2025-08-05 14:40:08.881401,16.59,Entertainment,Concert Hall,Credit Card,Savings,Deposit,Cause black type race in.
+T-1117,2025-08-05 14:40:08.881401,5.0,Shopping,Best Buy,Mobile Payment,Savings,Payment,Mention reason become adult move.
+T-610,2025-08-06 14:40:08.881401,1090.18,Rent/Mortgage,Mortgage Bank,Debit Card,Checking,Deposit,Relate they behavior part rise.
+T-205,2025-08-06 14:40:08.881401,64.41,Groceries,Costco,Mobile Payment,Savings,Deposit,Particular bank series street.
+T-102,2025-08-06 14:40:08.881401,16.76,Subscriptions,Apple Music,Cash,Savings,Transfer,Land success get great simple.
+T-843,2025-08-06 14:40:08.881401,21.69,Subscriptions,Gym Membership,Bank Transfer,Investment,Deposit,Policy million keep research.
+T-27,2025-08-06 14:40:08.881401,13.67,Entertainment,Concert Hall,Debit Card,Checking,Transfer,Want possible notice seek necessary discuss.
+T-308,2025-08-07 14:40:08.881401,22.19,Entertainment,Concert Hall,Mobile Payment,Investment,Payment,Late sister force owner industry.
+T-524,2025-08-08 14:40:08.881401,90.64,Travel,Delta,Credit Card,Savings,Deposit,Indeed bill certainly instead.
+T-126,2025-08-08 14:40:08.881401,5.0,Groceries,Trader Joe's,Bank Transfer,Checking,Payment,Continue say truth happy during kid while.
+T-865,2025-08-08 14:40:08.881401,66.75,Travel,Hilton,Credit Card,Investment,Withdrawal,Exist power west activity building black.
+T-358,2025-08-09 14:40:08.881401,108.56,Travel,Uber,Mobile Payment,Investment,Transfer,Rise member person such general law gun.
+T-304,2025-08-09 14:40:08.881401,46.12,Shopping,Amazon,Cash,Investment,Withdrawal,Former marriage up red school.
+T-774,2025-08-09 14:40:08.881401,67.48,Groceries,Walmart,Mobile Payment,Savings,Withdrawal,Follow building evidence candidate.
+T-1033,2025-08-09 14:40:08.881401,96.24,Travel,Airbnb,Credit Card,Investment,Transfer,Feeling across store everything and.
+T-586,2025-08-09 14:40:08.881401,93.09,Healthcare,Dental Care,Debit Card,Savings,Deposit,Skin dog mind door.
+T-945,2025-08-10 14:40:08.881401,168.16,Travel,Delta,Mobile Payment,Investment,Transfer,Over lawyer box bring shoulder.
+T-73,2025-08-10 14:40:08.881401,16.9,Entertainment,AMC Theatres,Mobile Payment,Savings,Withdrawal,Spend piece modern.
+T-112,2025-08-10 14:40:08.881401,98.04,Groceries,Walmart,Credit Card,Checking,Payment,Mr agent consider describe hundred home.
+T-349,2025-08-10 14:40:08.881401,196.75,Travel,Delta,Bank Transfer,Investment,Deposit,Level free commercial ten evening.
+T-765,2025-08-10 14:40:08.881401,11.4,Subscriptions,Amazon Prime,Credit Card,Checking,Transfer,Section record woman yeah free.
+T-158,2025-08-10 14:40:08.881401,172.71,Shopping,Amazon,Debit Card,Investment,Deposit,Collection rest fire part.
+T-953,2025-08-11 14:40:08.881401,1631.15,Other,Miscellaneous,Debit Card,Checking,Payment,Defense dog little manage cost.
+T-1021,2025-08-11 14:40:08.881401,1612.08,Rent/Mortgage,Mortgage Bank,Cash,Checking,Withdrawal,Happy myself cost out specific.
+T-717,2025-08-11 14:40:08.881401,151.38,Shopping,Amazon,Mobile Payment,Checking,Payment,You memory stay.
+T-1047,2025-08-12 14:40:08.881401,37.95,Dining,Starbucks,Credit Card,Checking,Deposit,Sport peace nothing someone.
+T-627,2025-08-12 14:40:08.881401,1001.11,Other,Miscellaneous,Credit Card,Investment,Withdrawal,Put experience just raise ball other arm choose.
+T-779,2025-08-12 14:40:08.881401,264.67,Shopping,Amazon,Bank Transfer,Checking,Withdrawal,Oil environment owner picture let left.
+T-646,2025-08-12 14:40:08.881401,56.58,Groceries,Costco,Credit Card,Investment,Payment,Might low ok floor.
+T-966,2025-08-13 14:40:08.881401,11.45,Dining,McDonald's,Cash,Checking,Withdrawal,Along fill measure task plan research Mrs.
+T-510,2025-08-13 14:40:08.881401,22.03,Entertainment,Concert Hall,Credit Card,Savings,Payment,Let movement media mention against remain.
+T-339,2025-08-13 14:40:08.881401,36.12,Groceries,Whole Foods,Cash,Investment,Deposit,Image from game common course.
+T-826,2025-08-13 14:40:08.881401,204.56,Healthcare,Dental Care,Mobile Payment,Checking,Payment,Whose collection even production need sell property.
+T-45,2025-08-14 14:40:08.881401,5.0,Dining,Starbucks,Cash,Savings,Transfer,Only line street section human relate small.
+T-204,2025-08-14 14:40:08.881401,71.17,Travel,Delta,Mobile Payment,Checking,Withdrawal,If book authority simple nature.
+T-168,2025-08-14 14:40:08.881401,15.72,Travel,Uber,Bank Transfer,Checking,Payment,Month food structure moment he concern.
+T-479,2025-08-15 14:40:08.881401,189.57,Shopping,Target,Credit Card,Checking,Payment,Step capital boy break happy.
+T-530,2025-08-15 14:40:08.881401,132.74,Travel,Airbnb,Credit Card,Savings,Payment,Appear just stock manager.
+T-715,2025-08-16 14:40:08.881401,5.0,Dining,Starbucks,Mobile Payment,Savings,Deposit,Fine total second part same thousand.
+T-44,2025-08-16 14:40:08.881401,1765.9,Shopping,Target,Bank Transfer,Investment,Payment,Agreement option away color year focus under.
+T-624,2025-08-16 14:40:08.881401,19.49,Dining,Chipotle,Cash,Checking,Transfer,Positive from garden.
+T-583,2025-08-17 14:40:08.881401,5.0,Travel,Delta,Cash,Savings,Transfer,Indeed stuff charge morning claim woman anyone.
+T-728,2025-08-17 14:40:08.881401,36.18,Dining,Local Cafe,Credit Card,Savings,Transfer,Without director wish report.
+T-998,2025-08-18 14:40:08.881401,20.63,Dining,Local Cafe,Mobile Payment,Savings,Transfer,Minute radio camera free bit health perform.
+T-640,2025-08-19 14:40:08.881401,158.3,Utilities,Gas Utility,Cash,Savings,Payment,Purpose good enter all.
+T-187,2025-08-19 14:40:08.881401,9.7,Subscriptions,Amazon Prime,Bank Transfer,Checking,Transfer,Receive catch check alone.
+T-1078,2025-08-20 14:40:08.881401,135.0,Healthcare,Pharmacy,Cash,Checking,Deposit,Third evening owner everyone.
+T-1089,2025-08-20 14:40:08.881401,220.55,Shopping,Best Buy,Cash,Investment,Withdrawal,Agency everybody result test be value southern.
+T-1122,2025-08-20 14:40:08.881401,149.28,Shopping,Best Buy,Credit Card,Investment,Withdrawal,Natural enter sense letter produce animal ground.
+T-166,2025-08-20 14:40:08.881401,36.66,Subscriptions,Amazon Prime,Cash,Checking,Withdrawal,Around international population sit.
+T-747,2025-08-20 14:40:08.881401,1335.01,Rent/Mortgage,Mortgage Bank,Cash,Investment,Payment,Power detail money operation under however.
+T-292,2025-08-21 14:40:08.881401,51.93,Groceries,Whole Foods,Credit Card,Savings,Withdrawal,Rate lot thing middle.
+T-877,2025-08-21 14:40:08.881401,28.56,Dining,Chipotle,Bank Transfer,Checking,Payment,Loss care general treat news between like.
+T-974,2025-08-21 14:40:08.881401,3770.71,Other,Miscellaneous,Bank Transfer,Investment,Payment,Here still system thus write can.
+T-371,2025-08-21 14:40:08.881401,191.61,Healthcare,Clinic,Cash,Checking,Payment,Responsibility hotel song night offer subject.
+T-934,2025-08-21 14:40:08.881401,29.37,Dining,Chipotle,Credit Card,Investment,Payment,Under fish two use.
+T-62,2025-08-22 14:40:08.881401,92.32,Groceries,Trader Joe's,Bank Transfer,Savings,Payment,Month little there.
+T-991,2025-08-22 14:40:08.881401,38.89,Healthcare,Pharmacy,Bank Transfer,Checking,Withdrawal,Indicate television bar.
+T-543,2025-08-22 14:40:08.881401,108.8,Groceries,Walmart,Mobile Payment,Investment,Transfer,Understand short fear alone sell her.
+T-285,2025-08-23 14:40:08.881401,38.24,Dining,Starbucks,Credit Card,Checking,Withdrawal,Imagine simply son share bed.
+T-948,2025-08-23 14:40:08.881401,116.93,Healthcare,Pharmacy,Bank Transfer,Savings,Deposit,Student hope type author rise allow.
+T-1135,2025-08-23 14:40:08.881401,5.26,Entertainment,Concert Hall,Cash,Savings,Deposit,Recently popular marriage at dinner across.
+T-538,2025-08-23 14:40:08.881401,46.33,Healthcare,Pharmacy,Cash,Savings,Withdrawal,Moment fight college much though bag.
+T-1086,2025-08-23 14:40:08.881401,9.46,Entertainment,AMC Theatres,Credit Card,Checking,Deposit,Number scene thus cost place run national.
+T-615,2025-08-23 14:40:08.881401,57.33,Shopping,Amazon,Mobile Payment,Savings,Deposit,You bag likely.
+T-417,2025-08-24 14:40:08.881401,43.76,Dining,Chipotle,Bank Transfer,Investment,Payment,Dinner write bag.
+T-990,2025-08-24 14:40:08.881401,109.84,Groceries,Trader Joe's,Cash,Savings,Withdrawal,Current less theory him.
+T-846,2025-08-24 14:40:08.881401,2977.0,Travel,Hilton,Debit Card,Savings,Transfer,Sort order property people.
+T-554,2025-08-25 14:40:08.881401,2297.1,Other,Miscellaneous,Credit Card,Savings,Transfer,Century culture long if happen behind.
+T-286,2025-08-25 14:40:08.881401,111.16,Travel,Uber,Mobile Payment,Savings,Payment,Traditional field radio pick rock easy.
+T-577,2025-08-25 14:40:08.881401,27.6,Dining,Chipotle,Debit Card,Savings,Withdrawal,Wonder human surface end determine capital.
+T-169,2025-08-25 14:40:08.881401,57.49,Groceries,Whole Foods,Credit Card,Investment,Deposit,Team instead accept serious.
+T-888,2025-08-25 14:40:08.881401,1319.24,Rent/Mortgage,Mortgage Bank,Mobile Payment,Savings,Withdrawal,Type her space receive part process across.
