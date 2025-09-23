@@ -79,20 +79,52 @@ def outflow_over_time(df: pd.DataFrame,
 def line_with_mean(df: pd.DataFrame, 
                    x: str,
                    y: str, 
-                   title: str) -> go.Figure:
-    fig = px.line(df, x=x, y=y, title=title)
+                   freq: str) -> go.Figure:
+    df_copy = df.copy()
+    aggregated_df = df_copy.set_index(x)[y].resample(freq).sum().reset_index()
 
-    mean_val = df[y].mean()
+    freq_labels = {"D": "Daily", "W": "Weekly", "ME": "Monthly"}
+    freq_label = freq_labels.get(freq, freq)
+    
+    fig = px.line(aggregated_df,
+                  x=x,
+                  y=y,
+                  title=f"{freq_label} Transactions")
+
+    mean_val = aggregated_df[y].mean()
 
     fig.add_hline(
         y=mean_val,
         line_dash="dot",
         line_color="red",
-        annotation_text=f"Mean = {mean_val:.2f}",
+        annotation_text=f"{freq_label} Mean Amount = {mean_val:.2f}",
         annotation_position="top right", 
         annotation_font_size=20,
         annotation_font_color="red"
     )
+
+    return fig
+
+def outflow_by_days(df):
+    df_copy = df.copy()
+    df_copy['Day'] = df_copy['Date'].dt.day_name()
+
+    WEEKDAY_ORDER = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
+
+    df_copy['Day'] = pd.Categorical(df_copy['Day'], 
+                                    categories=WEEKDAY_ORDER, 
+                                    ordered=True)
+    aggregated_df = (df_copy
+                     .groupby('Day', as_index=False)["Outflow"].sum()
+                     .sort_values('Day'))
+    
+    fig = px.bar(aggregated_df,
+                 x="Day",
+                 y="Outflow",
+                 title="By Day of Week",
+                 text_auto=".2s")
+    
+    fig.update_layout(margin=dict(t=60, b=60))
 
     return fig
 
