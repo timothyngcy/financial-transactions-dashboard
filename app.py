@@ -48,7 +48,7 @@ with st.container(height=120, vertical_alignment="center"):
     met3.metric("Number of Transactions", f"{len(filtered_df):,}")
 
 # creation of tabs
-tab1, tab2, tab3 = st.tabs(["Transactions", "Anomaly Detection", "TEST"])
+tab1, tab2, tab3 = st.tabs(["Overview", "Anomaly Detection", "TEST"])
 
 # tab 1: overview
 with tab1:
@@ -64,19 +64,39 @@ with tab1:
 
     st.plotly_chart(fig)
 
-    fig1, fig2 = st.columns(2)
+    # bar/line chart for transactions by day of the week
+    st.subheader("Transactions by Day of the Week")
+    daily_transactions= fx.transactions_by_days(filtered_df)
+    st.plotly_chart(daily_transactions, use_container_width=True)
 
-    with fig1:
-        st.subheader("Outflow by Days")
-        agg_wd = fx.outflow_by_days(filtered_df)
-        st.plotly_chart(agg_wd, use_container_width=True)
+    col1, col2 = st.columns(2)
+    with col1:
+        fig = fx.stacked_bar_chart(
+            filtered_df,
+            x="category",
+            y="Outflow",
+            color="payment_method",
+            title="Top 8 Spending Categories",
+            x_label="Total Outflow ($)",
+            y_label="Category"
+        )
 
-    with fig2:
-        st.subheader("")
-        agg_wd = fx.outflow_by_days(filtered_df)
-        st.plotly_chart(agg_wd, use_container_width=True, key="weekday_chart")
+        st.plotly_chart(fig, use_container_width=True)
+    with col2:
+        fig = fx.stacked_bar_chart(
+            filtered_df,
+            x="category",
+            y="Outflow",
+            color="account_type",
+            title="Top 8 Spending Categories",
+            x_label="Total Outflow ($)",
+            y_label="Category"
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
+
 
 # tab 2: anomaly detection
 with tab2:
     st.subheader("Potential Anomalies")
-    st.caption("Note: Anomalies are detected across the full dataset (filters not applied).")
+    st.caption("Note: Anomalies are detected across the full dataset (filters not applied).") 
