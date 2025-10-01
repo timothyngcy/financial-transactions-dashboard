@@ -232,7 +232,6 @@ def histogram(df, x):
     fig = px.histogram(
         df,
         x=x,
-        nbins=20,
         text_auto=True
     )
 

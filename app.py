@@ -44,7 +44,7 @@ with st.sidebar:
 
 filtered_df = fx.filter_dates(df_copy, date_range)
 filtered_df = fx.filter_category(filtered_df, sel_cat)
-#filtered_df = fx.filter_merchant(filtered_df, sel_merch)
+filtered_df = fx.filter_merchant(filtered_df, sel_merch)
 filtered_df = fx.filter_payment(filtered_df, sel_pay_method)
 filtered_df = fx.filter_account(filtered_df, sel_acc)
 filtered_df = fx.filter_transaction(filtered_df, sel_tran)
@@ -74,7 +74,17 @@ with tab1:
                                 y="amount",
                                 freq=freq_map[freq])
     
-        overall_fig.update_traces(line=dict(color='lightblue'))
+        overall_fig.update_traces(
+            line=dict(color='lightblue'),
+            hovertemplate=
+                '%{x}<br>' +
+                'Total Amount: $%{y:,.2f}',
+            hoverlabel=dict(
+                bgcolor='lightblue',
+                font_size=12,
+                font_color='black'
+            )
+        )
 
         overall_fig.update_layout(
             xaxis_title="Date",
@@ -162,6 +172,15 @@ with tab1:
         yaxis_title="Category"
     )
 
+    stacked_bar_fig.update_traces(
+        hovertemplate='Spent $%{x:,.2f} in %{y} using %{fullData.name}<extra></extra>',
+        hoverlabel=dict(
+            bgcolor='#061e49',
+            font_size=12,
+            font_color='white'
+        )
+    )
+
     st.plotly_chart(stacked_bar_fig)
 
     ### histogram for distribution of spending
@@ -181,7 +200,15 @@ with tab1:
             line=dict(width=1, color="black")
         ),
         textfont=dict(size=12, color="black"),
-        cliponaxis=False
+        cliponaxis=False,
+        hovertemplate=
+            'Amount Range: %{x}<br>' +
+            'Frequency: %{y}',
+        hoverlabel=dict(
+            bgcolor='lightblue',
+            font_size=12,
+            font_color='black'
+        )
     )
 
     histo_fig.update_layout(
@@ -233,7 +260,12 @@ with tab2:
         legend_title_text=scatter_color
     )
     scatter_fig.update_traces(
-        hovertemplate="<b>Total Amount:</b> $%{y}"
+        hovertemplate="$%{y} (%{fullData.name})<extra></extra>",
+        hoverlabel=dict(
+            bgcolor='#061e49',
+            font_size=12,
+            font_color='white'
+        )
     )
 
     st.plotly_chart(scatter_fig)
