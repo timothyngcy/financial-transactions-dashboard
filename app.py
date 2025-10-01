@@ -80,9 +80,9 @@ with tab1:
                 '%{x}<br>' +
                 'Total Amount: $%{y:,.2f}',
             hoverlabel=dict(
-                bgcolor='lightblue',
+                bgcolor='#061e49',
                 font_size=12,
-                font_color='black'
+                font_color='white'
             )
         )
 
@@ -128,9 +128,9 @@ with tab1:
             textposition='auto',
             hovertemplate='Average Amount: $%{y:.2f}<extra></extra>',
             hoverlabel=dict(
-                bgcolor='lightblue',
+                bgcolor='#061e49',
                 font_size=12,
-                font_color='black'
+                font_color='white'
             )
         )
 
@@ -205,11 +205,11 @@ with tab1:
             'Amount Range: %{x}<br>' +
             'Frequency: %{y}',
         hoverlabel=dict(
-            bgcolor='lightblue',
+            bgcolor='#061e49',
             font_size=12,
-            font_color='black'
+            font_color='white'
         )
-    )
+)
 
     histo_fig.update_layout(
         title="Distribution of Transaction Amounts",
@@ -308,7 +308,12 @@ with tab2:
             hovertemplate=
                 '<b>Merchant:</b> %{y}<br>' +
                 '<b>Month of</b> %{x}<br>' +
-                '<b>Total Amount:</b> $%{z}<extra></extra>'
+                '<b>Total Amount:</b> $%{z}<extra></extra>',
+            hoverlabel=dict(
+                bgcolor='#061e49',
+                font_size=12,
+                font_color='white'
+            )
         )
         heatmap_merchant_num.update_layout(
             yaxis_title="Merchant",
@@ -331,7 +336,12 @@ with tab2:
             hovertemplate=
                 '<b>Merchant:</b> %{y}<br>' +
                 '<b>Month of</b> %{x}<br>' +
-                '<b>Total Amount:</b> $%{z}<extra></extra>'
+                '<b>Total Amount:</b> $%{z}<extra></extra>',
+            hoverlabel=dict(
+                bgcolor='#061e49',
+                font_size=12,
+                font_color='white'
+            )
         )
         heatmap_merchant_total.update_layout(
             yaxis_title="",
@@ -417,6 +427,7 @@ with tab2:
 
     benford_fig.update_traces(
         selector=dict(type='bar', name='Benford\'s Law'),
+        hovertemplate='%{fullData.name}<extra></extra>: %{y}%',
         hoverlabel=dict(
             bgcolor='skyblue',
             font_color='black',
@@ -426,6 +437,7 @@ with tab2:
 
     benford_fig.update_traces(
         selector=dict(type='bar', name='Observed'),
+        hovertemplate='%{fullData.name}<extra></extra>: %{y}%',
         hoverlabel=dict(
             bgcolor='#edc001',
             font_color='black',
