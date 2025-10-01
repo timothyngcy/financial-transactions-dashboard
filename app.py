@@ -27,7 +27,8 @@ with st.sidebar:
     sel_cat = st.multiselect("Category", cats, default=cats) 
 
     ### merchant filter
-    
+    merch = sorted(df_copy["merchant"].unique())
+    sel_merch = st.multiselect("Merchant", merch, default=merch)
 
     ### payment filter
     pay_methods = sorted(df_copy["payment_method"].unique())
@@ -38,12 +39,15 @@ with st.sidebar:
     sel_acc = st.multiselect("Account Type", accs, default=accs)
 
     ### transaction type filter
-
+    tran = sorted(df_copy["transaction_type"].unique())
+    sel_tran = st.multiselect("Transaction Type", tran, default=tran)
 
 filtered_df = fx.filter_dates(df_copy, date_range)
 filtered_df = fx.filter_category(filtered_df, sel_cat)
+#filtered_df = fx.filter_merchant(filtered_df, sel_merch)
 filtered_df = fx.filter_payment(filtered_df, sel_pay_method)
 filtered_df = fx.filter_account(filtered_df, sel_acc)
+filtered_df = fx.filter_transaction(filtered_df, sel_tran)
 
 ## key metrics
 st.subheader("Metrics of All Transactions")

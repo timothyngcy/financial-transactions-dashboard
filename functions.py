@@ -42,6 +42,15 @@ def filter_category(df, categories):
     
     return df.loc[category_filter].copy()
 
+def filter_merchant(df, merchants):
+    # if no merchants selected, return original df
+    if not merchants:
+        return df
+
+    merchant_filter = df["merchant"].isin(merchants)
+    
+    return df.loc[merchant_filter].copy()
+
 def filter_payment(df, payment_methods):
     # if no payment_methods selected, return original df
     if not payment_methods:
@@ -59,6 +68,15 @@ def filter_account(df, account_types):
     account_types_filter = df["account_type"].isin(account_types)
     
     return df.loc[account_types_filter].copy()
+
+def filter_transaction(df, transactions):
+    # if no transactions selected, return original df
+    if not transactions:
+        return df
+
+    transactions_filter = df["transaction_type"].isin(transactions)
+    
+    return df.loc[transactions_filter].copy()
 
 ## GRAPH FUNCTIONS ##
 
