@@ -1,18 +1,18 @@
 import pandas as pd
+import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-# Convert dates in DataFrame into datetime format and renames 'amount' to 'outflow'
+# Convert dates in DataFrame into datetime format
     # expects a panda DataFrame
     # returns a panda DataFrame with date column converted to datetime format
 @st.cache_data(show_spinner=False)
-def read_and_clean_data(file_path: str) -> pd.DataFrame:
+def read_and_clean_data(file_path):
     df = pd.read_csv(file_path)
     df = df.copy()
 
     df["Date"] = pd.to_datetime(df["date"])
-    df["Outflow"] = df["amount"]
 
     return df
 
@@ -60,28 +60,14 @@ def filter_account(df, account_types):
     
     return df.loc[account_types_filter].copy()
 
-## OVERVIEW TAB FUNCTIONS ##
+## GRAPH FUNCTIONS ##
 
-# Resample the time series data based on the specified frequency and aggregate the amounts
-    # expects a panda DataFrame and a frequency string (D, W, M)
-    # returns a panda Series with the resampled time series data
-def outflow_over_time(df: pd.DataFrame, 
-                      freq: str) -> pd.Series:
-    df = df.copy()
-    series = df.set_index("Date")["Outflow"].resample(freq).sum()
-    out = series.reset_index()
-
-    return out
-
-# CAN REMOVE ABOVE and take the comments
-
-# Appends a horizontal line for mean on the line chart
-    # expects a panda DataFrame, x and y column names as strings, and a title string
-    # returns a plotly Figure object with the line chart and mean horizontal line
-def line_with_mean(df: pd.DataFrame, 
-                   x: str,
-                   y: str, 
-                   freq: str) -> go.Figure:
+# Returns a plotly figure as a line chart with a horizontal line for mean
+    # df = DataFrame to aggregate the data (panda DataFrame)
+    # x = column name for x-axis (string)
+    # y = column name for y-axis (string)
+    # freq = frequency for resampling (string: "D", "W", "ME")
+def line_with_mean(df, x, y, freq):
     df_copy = df.copy()
     aggregated_df = df_copy.set_index(x)[y].resample(freq).sum().reset_index()
 
@@ -91,7 +77,8 @@ def line_with_mean(df: pd.DataFrame,
     fig = px.line(aggregated_df,
                   x=x,
                   y=y,
-                  title=f"{freq_label} Transactions")
+                  title=f"{freq_label} Transactions"
+                  )
 
     mean_val = aggregated_df[y].mean()
 
@@ -107,73 +94,55 @@ def line_with_mean(df: pd.DataFrame,
 
     return fig
 
-def transactions_by_days(df):
-    df_copy = df.copy()
-    df_copy['Day'] = df_copy['Date'].dt.day_name()
-
-    WEEKDAY_ORDER = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
-
-    df_copy['Day'] = pd.Categorical(df_copy['Day'], 
-                                    categories=WEEKDAY_ORDER, 
-                                    ordered=True)
-    
-    avg_transaction_df = df_copy.groupby('Day', as_index=False, observed=False)["Outflow"].mean().sort_values('Day')
-    num_transaction_df = df_copy.groupby('Day', as_index=False, observed=False)["Outflow"].count().sort_values('Day')
-
-    # highlight the highest transactions
-    highest_avg = avg_transaction_df["Outflow"].max()
-    highest_num = num_transaction_df["Outflow"].max()
-    
-    # there may be multiple days with the same average number of transactions
-    highest_avg_days = avg_transaction_df.loc[avg_transaction_df["Outflow"] == highest_avg, "Day"].tolist()
-    highest_num_days = num_transaction_df.loc[num_transaction_df["Outflow"] == highest_num, "Day"].tolist()
-
+# Returns a plotly figure as a combined bar and line chart and highlighting the highest values
+    # x1 = categorical variable on x-axis for bar chart (list)
+    # y1 = numerical variable on y-axis for bar chart (list)
+    # name1 = name for bar chart (string)
+    # x2 = categorical variable on x-axis for line chart (list)
+    # y2 = numerical variable on y-axis for line chart (list)
+    # name2 = name for line chart (string)
+def bar_line_chart(x1, y1, name1, x2, y2, name2):
     fig = go.Figure()
 
-    # bar chart for average transaction amount
+    max_bar = max(y1)
+    # highlight the highest bar(s) on the bar chart
+    bar_colors = ['#061e49' if val == max_bar else 'lightblue' for val in y1]
+
+    # barchart
     fig.add_trace(go.Bar(
-        x=avg_transaction_df["Day"],
-        y=avg_transaction_df["Outflow"],
-        name="Average Transaction Amount",
-        marker_color=['darkblue' if day in highest_avg_days else 'lightblue' for day in avg_transaction_df["Day"]],
-        text=avg_transaction_df["Outflow"].round(2),
-        textposition='auto'
+        x=x1,
+        y=y1,
+        name=name1,
+        marker_color=bar_colors
     ))
-
-    # line chart for number of transactions
-    fig.add_trace(go.Scatter(
-        x=num_transaction_df["Day"],
-        y=num_transaction_df["Outflow"],
-        mode='lines+markers',
-        name="Number of Transactions",
-        line=dict(color='#E54E07', width=3),
-        marker=dict(size=8, symbol="circle")
-    ))
-
-    # highlight the days with the highest number of transactions
-    for day in highest_num_days:
-        fig.add_trace(go.Scatter(
-            x=[day],
-            y=[highest_num],
-            mode='markers+text',
-            name="Highest number of transactions",
-            marker=dict(color='#E54E04', size=8, symbol="circle"),
-            text=[f'{highest_num}'],
-            textfont=dict(size=16, color="#E54E04"),
-            textposition='top center',
-            showlegend=False
-        ))
     
-    fig.update_layout(
-        yaxis_title="Amount ($) / Number of Transactions",
-        margin=dict(t=60, b=60),
-        template="plotly_white",
-        showlegend=True
-    )
+    # only highest point labeled
+    scatter_text = [""] * len(y2)
+    max_val = max(y2)
+    for i, val in enumerate(y2):
+        if val == max_val:
+            scatter_text[i] = f"{val}" 
+
+    # line chart
+    fig.add_trace(go.Scatter(
+        x=x2,
+        y=y2,
+        mode='lines+markers+text',
+        name=name2,
+        line=dict(color='#E54E07', width=3),
+        marker=dict(size=8, symbol="circle"),
+        text=scatter_text,
+        textposition='top center',
+        textfont=dict(size=16, color="#E54E04")
+    ))
 
     return fig
 
-def stacked_bar_chart(df, x, y, color, title, x_label=None, y_label=None):
+# Returns a stacked horizontal bar chart, keeping only the top 5 categories by total amount
+    # x = categorical variable on y-axis (string)
+    # y = numerical variable on x-axis (string)
+    # color = categorical variable for color segments (string)
+def stacked_bar_chart(df, x, y, color):
     df_copy = df.copy()
 
     first_agg = (
@@ -210,16 +179,84 @@ def stacked_bar_chart(df, x, y, color, title, x_label=None, y_label=None):
         orientation="h",
     )
     
-    fig.update_layout(
-        title=title,
-        barmode="stack",
-        xaxis_title=x_label if x_label else y,
-        yaxis_title=y_label if y_label else x,
-        template="plotly_white"
-    )
-    
     return fig
 
-# histogram?
+# Returns a scatterplot with a linear regression best fit line
+    # x = numerical variable on x-axis (list)
+    # y = numerical variable on y-axis (list)
+    # color = categorical variable for color segments (list)
+def scatterplot_with_line(x, y, color=None):
+    fig = px.scatter(
+        x=x,
+        y=y,
+        color=color
+    )
 
-## ANOMALIES TAB FUNCTIONS ##
+    # compute regression line
+    coeffs = np.polyfit(x, y, 1)
+    slope, intercept = coeffs
+    best_fit_line = slope * np.array(x) + intercept
+
+    fig.add_trace(go.Scatter(
+        x=x,
+        y=best_fit_line,
+        mode='lines',
+        line=dict(color='#E54E04', width=2),
+        name='Best Fit Line'
+    ))
+
+    return fig
+
+# Returns a histogram plotly figure from a given dataframe
+    # df = DataFrame to be visualized as histogram (panda DataFrame)
+    # x = column name for x-axis (string)
+def histogram(df, x):
+    fig = px.histogram(
+        df,
+        x=x,
+        nbins=20,
+        text_auto=True
+    )
+
+    return fig
+
+# Returns a heatmap figure from a given dataframe
+    # df = DataFrame to be visualized as heatmap (panda DataFrame)
+def heatmap(df):
+    fig = px.imshow(
+        df,
+        x=df.columns,
+        y=df.index,
+        text_auto=True,
+        color_continuous_scale="Blues"
+    )
+
+    return fig
+
+# Returns a bar chart comparing two variables
+    # x1 = categorical variable on x-axis for first bar chart (list)
+    # y1 = numerical variable on y-axis for first bar chart (list)
+    # name1 = name for first bar chart (string)
+    # x2 = categorical variable on x-axis for second bar chart (list)
+    # y2 = numerical variable on y-axis for second bar chart (list)
+    # name2 = name for second bar chart (string)
+def dual_bar_chart(x1, y1, name1, x2, y2, name2):
+    fig = go.Figure()
+
+    fig.add_trace(go.Bar(
+        x=x1,
+        y=y1,
+        name=name1,
+        marker_color='skyblue',
+        opacity=0.6
+    ))
+
+    fig.add_trace(go.Bar(
+        x=x2,
+        y=y2,
+        name=name2,
+        marker_color='#edc001',
+        opacity=0.6
+    ))
+
+    return fig
